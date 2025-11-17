@@ -38,7 +38,7 @@ Interested in contributing to DrumScore Editor's source code?
 The main application code is in a private repository. Before gaining access, you'll need to review and sign our Contributor License Agreement (CLA).
 
 **Get started:** 
-1. Read [CONTRIBUTING-TO-CODE.md](CONTRIBUTING-TO-CODE.md) for the process
+1. Read [CONTRIBUTING_TO_CODE.md](CONTRIBUTING_TO_CODE.md) for the process
 2. Review the [CLA](CLA.md) to understand the terms
 3. Contact alan@drumscore.scot to begin the process
 
@@ -50,7 +50,7 @@ The main application code is in a private repository. Before gaining access, you
 
 ## License
 
-See [LICENSE](LICENSE) for terms of use.
+See [LICENSE](LICENSE.md) for terms of use.
 
 ---
 
