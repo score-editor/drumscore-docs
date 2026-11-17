@@ -40,7 +40,9 @@ Thank you for your interest in improving DrumScore Editor documentation! Clear, 
 - Headers: Use `#`, `##`, `###` hierarchy
 - Code/UI elements: Use `backticks` for button names, menu items, keyboard shortcuts
 - Lists: Use `-` for unordered lists, `1.` for ordered lists
-- Images: Store in `/images` folder, reference with relative paths
+- Images: Store in `/images` folder, reference as `images/<file>.png`
+- Links to another page of the guide: `[Settings](topic:settings)`, using the topic id from `topics.json`
+- Each page starts with its `title`, `topic` and `summary` (see the README)
 
 ### Screenshots
 
