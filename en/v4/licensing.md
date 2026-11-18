@@ -36,7 +36,7 @@ The Community Edition is for writing a score and getting it on to paper. With it
 
 A new score in the Community Edition starts from fixed values and keeps to one page, with its staff lines spread evenly down it.
 
-**A score made in the Studio Edition.** The Community Edition opens it and draws it in its own way: built-in shapes, no pictures, and its own mark in place of the score's watermark. The score's settings are not lost. They stay in the file.
+**A score made in the Studio Edition.** The Community Edition opens it and draws it in its own way: built-in shapes, no pictures, and its own mark in place of the score's watermark. The score's settings are not lost. They stay in the file. Page, line and part numbers are still drawn where the score has them, though the Community Edition cannot turn them on or off.
 
 **Two kinds of score it does not open.** A score with more than one instrument on a system, and a score with a tenor on a five-line stave. The application tells you which of the two the score has. The file is left unchanged.
 

@@ -155,6 +155,8 @@ Outside the header and footer, text and pictures can be placed only on a page ar
 
 The `Numbering` group is in the `Score` pane of `File` ▸ `Score Properties…`. Numbering is part of the Studio Edition.
 
+In the Community Edition the three ticks are greyed. A score that already has numbering, such as one from 3.6 or from somebody with the Studio Edition, keeps it: the numbers are drawn and printed as the score says, and the ticks show how they are set, but they cannot be changed without a licence.
+
 | Tick | What it prints |
 |---|---|
 | `Pages` | The page number at the foot of each page, in the middle, written like `- 1 -`. |
