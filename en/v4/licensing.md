@@ -105,6 +105,8 @@ The installed key is kept with the application's settings on that computer, for 
 
 **More than one computer.** A licence is yours, not one computer's. You may put the same key into Drum Score Editor on as many computers as you own: install it on each and put the key in, as above. Keep the key you were sent somewhere safe, so that you have it when you need it.
 
+**If you lose your key.** First try to recover it at [drumscore.scot](https://drumscore.scot). If that does not work, write to [support@drumscore.scot](mailto:support@drumscore.scot).
+
 **Bands and other organisations.** A licence is for one person. For a band or another organisation, write to [support@drumscore.scot](mailto:support@drumscore.scot) to talk about what you need.
 
 ## Getting a licence
