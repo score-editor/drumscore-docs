@@ -2,7 +2,6 @@
 title: Licensing
 topic: licensing
 summary: The Community Edition and the Studio Edition: what each does, what a licence adds, and how to put a licence in.
-draft: true
 ---
 
 Drum Score Editor comes in two editions. The Community Edition is free. The Studio Edition is the same application with a licence installed.

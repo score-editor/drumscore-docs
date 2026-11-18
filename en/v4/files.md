@@ -2,7 +2,6 @@
 title: Files and Older Scores
 topic: files
 summary: Opening, saving and sharing scores, and what happens to scores written in 3.6 and earlier.
-draft: true
 ---
 
 A score is one `.ds` file. This page covers opening and saving, what version 4 does with the scores you already have, and how to send a score to somebody else.
