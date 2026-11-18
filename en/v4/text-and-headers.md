@@ -164,6 +164,8 @@ The `Numbering` group is in the `Score` pane of `File` ▸ `Score Properties…`
 
 <!-- screenshot: Score Properties showing the Score pane, with the Identity, Numbering and Text groups, and Pages, Lines and Parts all ticked -->
 
+![Part numbers in boxes above the line numbers, at the first line of each part](images/v4/part-numbers.png){: width="315" }
+
 ## Community Edition
 
 In the Community Edition the header and footer show the built-in design, and their words are changed in `Score Properties…`. Text tags work as described above. These need the Studio Edition:

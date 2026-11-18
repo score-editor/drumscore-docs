@@ -15,7 +15,7 @@ This page is about where things sit: notes along a line, lines down the page, an
 
 Beautify needs the Studio Edition. So do the `Measure` and `Part` submenus of the right-click menu. See [Licensing](topic:licensing).
 
-<!-- screenshot: the same line of a 2/4 march before and after Beautify: before, notes bunched at the left of each bar with the first stem on the barline; after, evenly spaced -->
+![The same line as typed, and after Beautify](images/v4/beautify-before-and-after.png){: width="823" }
 
 ## Beautify
 
@@ -68,7 +68,7 @@ Changing the policy does not re-space what is already written. The next Beautify
 
 **Squeeze.** Select three or more notes on one line. The status bar says `Drag either end of the selection to space these notes.` Drag one end: the other end stays put and the notes between keep their proportions. From the keyboard, `Cmd+Right` on a Mac, or `Ctrl+Right` on Windows and Linux, spaces the run out to the right. `Cmd+Left` or `Ctrl+Left` draws it in. If two notes would collide, nothing moves.
 
-<!-- screenshot: six selected semiquavers shown twice: as typed, and after dragging the right-hand end of the selection so the run is wider and the first note has not moved -->
+![Six selected semiquavers as typed, and spaced out by dragging the right-hand end of the selection](images/v4/squeeze-a-run.png){: width="892" }
 
 ## Staff lines, bars and parts
 
@@ -114,7 +114,7 @@ The gap between lines is set just below:
 
 `Distribute Staff Lines Evenly` spreads the lines over the height of the page instead. The score then stays on one page and can hold only one tune.
 
-<!-- screenshot: the same four lines of a tune drawn three times, labelled Legacy, Uniform and Fit Each Line; one line carries accents and tuplet numbers so it is taller than the rest -->
+![The same four lines drawn with Legacy, Uniform and Fit Each Line](images/v4/line-heights-compared.png){: width="897" }
 
 ## The page
 
@@ -129,7 +129,7 @@ The `Page` pane of `File` ▸ `Score Properties…` sets the paper.
 | `Binding` | `Off`, `Left edge` or `Top edge`, with a `Width`: extra room kept clear on that edge. |
 | `Mirror margins on facing pages` | The binding room changes sides on alternate pages. |
 
-<!-- screenshot: Score Properties showing the Page pane, with Size set to Custom and Binding set to Left edge -->
+![Score Properties, Page pane, with custom margins and binding on the left edge](images/v4/score-properties-page.png){: width="800" }
 
 **The size of the music.** Right-click in the music and choose `Score` ▸ `Point Size`, then a size from 12 to 48. It applies to the whole score. In the Studio Edition, `Music Font Size` in the `Music Font` pane takes a figure of your own when the score uses a music font.
 
@@ -161,7 +161,7 @@ On an arranged page you place the music areas yourself.
 
 You can tick `Page Arranged By Hand` only while the score has one page and one tune. To untick it, first delete the extra music areas, and move loose text and pictures into the header or footer.
 
-<!-- screenshot: an arranged page with two music areas side by side, the right-hand one held and showing its outline and handles -->
+![A page arranged by hand with two music areas side by side, the right-hand one held and showing its handles](images/v4/arranged-page.png){: width="898" }
 
 ## This score, or every new score
 
