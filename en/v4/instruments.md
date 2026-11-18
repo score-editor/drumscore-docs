@@ -12,6 +12,8 @@ Only a score in the `Standard` general layout can have a second instrument or a 
 
 Adding instruments, and choosing which are on a line or shown, needs the Studio Edition. See [Licensing](topic:licensing).
 
+The Community Edition does not open a score that has more than one instrument on a system, or a tenor on a five-line stave. It tells you which of the two the score has and leaves the file unchanged.
+
 ## Add a tenor and a bass to a score
 
 This starts from a snare score in the `Standard` layout.
