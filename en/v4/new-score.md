@@ -20,7 +20,7 @@ The score opens in a new tab. It has no file yet, so save it when you are ready.
 
 `Cancel`, or the `Esc` key, closes the window at either step without making anything. `Back` returns from the second step to the first.
 
-<!-- screenshot: the Create New Score window, step 1, with the tune type tiles and the time signature pictures -->
+![The Create New Score window at step 1: eight tune types, nine time signatures and the tempo](images/v4/new-score-step-1.png){: width="536" }
 
 ## Step 1: the kind of tune
 
@@ -57,7 +57,7 @@ For anything else, choose `Other time signatures`. You then get:
 
 `Back to typical time signatures` returns to the nine pictures. An irregular grouping is dropped when you go back.
 
-<!-- screenshot: the time signature row after choosing Other time signatures, showing an irregular grouping -->
+![The time signature set to 5/8 with an irregular grouping of 2 and 3](images/v4/new-score-other-time-signature.png){: width="536" }
 
 ### Tempo
 
@@ -71,7 +71,7 @@ The tune types and time signatures can be shown as drop-down lists with text ins
 
 The heading shows the tune type you chose, such as `New March`.
 
-<!-- screenshot: the Create New Score window, step 2, with Advanced options closed -->
+![The Create New Score window at step 2: title, author, band, orientation, parts and anacrusis](images/v4/new-score-step-2.png){: width="536" }
 
 | Choice | What it sets |
 |---|---|
@@ -99,7 +99,7 @@ Choose `Advanced options` to see the rest. The window keeps its size and scrolls
 | `Header design` | Which of your saved header designs the score starts with. |
 | `Footer design` | Which of your saved footer designs the score starts with. |
 
-<!-- screenshot: step 2 with Advanced options open -->
+![Step 2 with Advanced options open: repeat dots, bars per line, general layout, clef, and header and footer design](images/v4/new-score-step-2-advanced.png){: width="536" }
 
 `Header design` and `Footer design` only appear once you have saved a design. A header design is saved for one layout, so the list changes with `General layout`, and the row disappears if you have none for that layout. Choose `Built-in` for the plain header or footer.
 
