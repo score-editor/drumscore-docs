@@ -119,7 +119,7 @@ LINK = re.compile(r'(href|src)="([^"]+)"')
 
 def rewrite_links(body_html, lang, topic, pages, source, offline, site_images):
     """In a page, `topic:new-score` links to that topic in this language (English if it is not
-    translated), and `images/x.png` to the picture. Anything else that is not a full address or an
+    translated), `images/x.png` to the picture, and `examples/x.ds` to a file to download. Anything else that is not a full address or an
     anchor is refused: a relative link that happens to work is one that breaks when a page moves."""
     here = page_dir(lang, topic)
 
@@ -134,13 +134,13 @@ def rewrite_links(body_html, lang, topic, pages, source, offline, site_images):
             to_lang = lang if name in pages[lang] else FALLBACK
             link = relative(here, page_dir(to_lang, name), offline)
             return f'{attr}="{link}{"#" + anchor if anchor else ""}"'
-        if target.startswith("images/"):
+        if target.startswith(("images/", "examples/")):
             if not (ROOT / target).is_file():
-                raise Refused(f"{source.relative_to(ROOT)}: picture {target!r} does not exist")
+                raise Refused(f"{source.relative_to(ROOT)}: file {target!r} does not exist")
             site_images.add(target)
             up = "/".join([".."] * len(here.split("/")))
             return f'{attr}="{up}/{target}"'
-        raise Refused(f"{source.relative_to(ROOT)}: link {target!r} is neither topic:<id>, images/<file>, "
+        raise Refused(f"{source.relative_to(ROOT)}: link {target!r} is neither topic:<id>, images/<file>, examples/<file>, "
                       f"an anchor nor a full address")
 
     return LINK.sub(fix, body_html)
