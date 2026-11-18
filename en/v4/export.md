@@ -110,6 +110,8 @@ MusicXML is for other notation programs. It carries the music and not the look o
 
 **The music font.** A score drawn with a music font prints and exports in that font. A score drawn with the built-in shapes prints and exports in those. The choice is `Use Music Font`, in the `Music Font` pane, which is part of the Studio Edition.
 
+**The ink.** Notation is normally drawn in a very dark grey. If your printer handles greys badly, tick `Use Pure Black Ink` in [Settings](topic:settings), under `Appearance`: print, PDF and the picture exports are then drawn in pure black, as the screen is.
+
 **Text in PDF and SVG files** is drawn as shapes. The file looks the same on a computer that has none of your fonts. The words in it cannot be selected or searched.
 
 **The Community Edition** draws every score with the built-in shapes, does not show pictures, and puts a faint "Drumscore.scot Free Edition" watermark on each page. What it prints is the same as its screen in this too.

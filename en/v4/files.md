@@ -105,7 +105,7 @@ A score opens read-only for one of two reasons:
 
 Version 4 reads an older score and brings it up to date as it opens. The file itself is not touched until the score is saved. It is then written in version 4's format, and 3.6 will not open it again.
 
-**One change you are told about.** Earlier versions copied the title, author and footer from the first page on to every page after it. A score can now hold several tunes, each with its own header where it begins, so a copy of page one's title no longer belongs on a later page. Version 4 removes those copies and brings the music up into the space.
+**One change you are told about.** When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 does not do that, because it makes a header for every tune where the tune begins. So it removes those copies and brings the music up into the space.
 
 When that happens, a window titled `This score has changed shape` lists what was removed, and the score opens read-only. Your original file still holds everything. Save the score under a new name to carry on.
 
@@ -151,4 +151,4 @@ Your scores are where you saved them. Everything else is kept for you:
 - **The `.DrumScoreEditor` folder** in your home folder holds your library, your takes and the music fonts you have added, until you choose other places for them. See [Settings](topic:settings).
 - **The log.** `Help` ▸ `Show Log Folder` opens the folder that holds the log the application writes each time it starts, and shows its path. Send that file when you report a problem.
 
-See also [What's New in Version 4](topic:whats-new) and [Licensing](topic:licensing).
+See also [What’s New in Version 4](topic:whats-new) and [Licensing](topic:licensing).

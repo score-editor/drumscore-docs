@@ -58,7 +58,7 @@ For the rest, see [Licensing](topic:licensing).
 | `macOS is set to` | On a Mac only. Shows which of `Increase contrast`, `VoiceOver` and `Zoom` are on in your system. `Open Accessibility Settings…` opens the system's own window for them. |
 | `Choose time signatures with` | `Pictures` are nine small symbols. `Drop-downs` name the two numbers in text, which a screen reader can read and the system can enlarge. `Follow the system` uses drop-downs on a Mac when one of the three settings above is on, and pictures otherwise. It says which it is using now. See [Starting a Score](topic:new-score). |
 | `Paper Background` | The paper behind the music on screen: `White`, `Parchment` or `Twill`. |
-| `Use Pure Black Ink` | Draws the notation in pure black. |
+| `Use Pure Black Ink` | Draws the notation in pure black, on screen, in print and in every export. Use it if your printer makes a poor job of the usual dark grey. |
 | `Appearance` | `Follow System` uses your system's own look, light or dark as the system is. `Light` and `Dark` hold it at one of them. `Custom` uses the theme chosen below. |
 | `Custom Theme Mode` | With `Custom` only: whether to use your `Light` or your `Dark` theme. |
 | `Light Mode Theme`, `Dark Mode Theme` | With `Custom` only: the theme for each mode. Choosing one also switches to that mode. |
@@ -79,7 +79,7 @@ Windows you open after choosing `OK` are in the new language. The menus keep the
 | Control | What it does |
 |---|---|
 | `Automatic File Saving` | Saves your changes into the score's own file in the background, about three seconds after you stop working, and at least once a minute while you keep going. A score that has never been saved has no file yet, so save it once yourself. |
-| `Tell me when an older score is brought up to date` | Older versions copied the title, author and tune type from page 1 on to every later page. Those copies are always removed when such a score is opened. Ticked, you are told, and the score stays read-only until you save it under a new name. Unticked, it is done silently and the score can be saved over its own file. See [Files and Older Scores](topic:files). |
+| `Tell me when an older score is brought up to date` | When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 makes a header for every tune instead, so those copies are always removed when such a score is opened. Ticked, you are told, and the score stays read-only until you save it under a new name. Unticked, it is done silently and the score can be saved over its own file. See [Files and Older Scores](topic:files). |
 
 ## Libraries
 

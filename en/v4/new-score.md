@@ -113,7 +113,7 @@ In the Community Edition, the window opens with fixed starting values, and `Auth
 
 ## After the score is made
 
-The score is ruled with the parts, bars per line and repeats you asked for. If the lines do not fit on one page, it runs on to as many pages as it needs.
+The score is ruled with the parts, bars per line and repeats you asked for. In the Studio Edition, if the lines do not fit on one page, it runs on to as many pages as it needs. A Community Edition score keeps to one page, with its staff lines spread evenly down it.
 
 Your choices are written into the score. Changing `New Score Defaults` later does not change a score you have already made.
 
