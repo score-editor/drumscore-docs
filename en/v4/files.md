@@ -10,9 +10,9 @@ A score is one `.ds` file. This page covers opening and saving, what version 4 d
 
 **Will version 4 open my old scores?** Yes. It opens scores written by 3.6 and by the versions before it. Open them as you always have.
 
-**Does opening one change my file?** No. Nothing is written until the score is saved. Read *Automatic File Saving* below, though, because in the Studio Edition a save follows your first change by a few seconds.
+**Does opening one change my file?** No. Nothing is written until you save the score yourself. `Automatic File Saving` leaves a score from 3.6 alone until you have saved it once. See *Automatic File Saving* below.
 
-**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file. If you may need a score in 3.6 again, make a copy of the file before you change it in version 4.
+**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4.
 
 **Can I go back to 3.6?** Version 4 replaces 3.6 on your computer. The way back is to reinstall 3.6. Please get in touch before you do, at [alan@drumscore.scot](mailto:alan@drumscore.scot).
 
@@ -32,7 +32,7 @@ Choose `File` ▸ `Open…`, or press `Cmd+O` on a Mac or `Ctrl+O` on Windows an
 
 Each score opens in its own tab. `Ctrl+Tab` moves to the next tab and `Ctrl+Shift+Tab` to the one before.
 
-**`File` ▸ `Open Recent`** lists the last ten scores you opened or saved, newest first, each with its whole path. The first nine have keys: `Cmd+1` to `Cmd+9` on a Mac, `Alt+1` to `Alt+9` on Windows. A file that has since been moved or deleted stays on the list.
+**`File` ▸ `Open Recent`** lists the last ten scores you opened or saved, newest first, each with its whole path. The first nine have keys: `Cmd+1` to `Cmd+9` on a Mac, `Alt+1` to `Alt+9` on Windows. A file that has since been moved or deleted is left off the menu. It comes back if the file does, as when a drive is plugged in again.
 
 **The same score twice.** A score is open in one tab. Open one that is already open — from `Open…`, from `Open Recent`, or by double-clicking the file — and Drum Score Editor goes to its tab rather than opening it again. It knows the score by the file itself and not by the path you reached it through, so the same score opened from a shortcut, from a linked folder, or by a different spelling of where it is, is still the one score.
 
@@ -47,13 +47,13 @@ The tab shows the score's name, which is its tune's title and not the file's nam
 | `*` before the name | The score has changes that are not saved. |
 | A padlock before the name | The score is read-only. See *Read-only scores* below. |
 
-The status bar says the same in words: `Saved`, `Unsaved changes`, or `No score` when nothing is open. The title bar shows which file the score in front came from, or `Untitled` for a score with no file yet.
+The status bar says the same in words: `Saved`, `Unsaved changes`, `Read-only`, or `No score` when nothing is open. For a score from 3.6 that you have changed and not yet saved, it says more. See *Automatic File Saving* below. The title bar shows which file the score in front came from, or `Untitled` for a score with no file yet.
 
 ### When a score will not open
 
 A box titled `Could not open`, followed by the file's name, says why:
 
-- **"No such score"** and the path. The file is not where it was. This is what you see when you choose a moved or deleted file from `Open Recent`.
+- **"No such score"** and the path. The file is not where it was.
 - **"Not a readable score file"**. The file is damaged, or is not a Drum Score Editor score.
 - **"This score needs a newer version of Drum Score Editor"**. Update the application.
 
@@ -89,14 +89,14 @@ In the Studio Edition, `Automatic File Saving` saves your changes into the score
 
 - It writes over the score's file, as `Save` does. There is no separate copy.
 - A score that has never been saved has no file, so it is not saved this way. Save it once yourself.
-- **It applies to a 3.6 score as well.** Open one, change a note, and a few seconds later the file is in version 4's format. Copy the file first if you want to keep it for 3.6, or untick the setting.
+- **A score from 3.6 or earlier is not saved this way until you have saved it once yourself.** Saving it is what puts the file in version 4's format, which 3.6 will not open, so that is left for you to choose. Until then your changes are not being kept for you. The status bar says so: `Unsaved changes: not autosaved. Save manually to update the file format.` Choose `Save`, `Save All` or `Save Score As…` once, and from then on the score is saved automatically like any other.
 - If it cannot write, an `Auto-Save Error` box tells you to save your work yourself.
 
 The Community Edition saves only when you choose `Save`.
 
 ## Read-only scores
 
-A read-only score has a padlock on its tab. It cannot be edited, and `Save` will not write over its file. To work on it, choose `File` ▸ `Save Score As…` and give it a new name. The padlock goes and the new file is an ordinary score. The file you opened is left as it was.
+A read-only score has a padlock on its tab, and the status bar says `Read-only`. Rest the pointer on the tab and it says why. The score cannot be edited, and `Save` will not write over its file. To work on it, choose `File` ▸ `Save Score As…` and give it a new name. The padlock goes and the new file is an ordinary score. The file you opened is left as it was.
 
 A score opens read-only for one of two reasons:
 
@@ -113,7 +113,7 @@ When that happens, a window titled `This score has changed shape` lists what was
 
 <!-- screenshot: the "This score has changed shape" window for an older two-page score, showing the list of removed captions and the tick box "Do not show this again - update older scores silently from now on" -->
 
-The window has a tick box, `Do not show this again - update older scores silently from now on`. Tick it and older scores are still brought up to date, but without the window, and they open ready to edit and to save over their own files. The same choice is `Tell me when an older score is brought up to date`, in `Settings` ▸ `Files`, where you can turn the warning back on. See [Settings](topic:settings).
+The window has a tick box, `Do not show this again - update older scores silently from now on`. Tick it and older scores are still brought up to date, but without the window, and they open ready to edit and to save over their own files. The score in front of you is released too: its padlock goes, and you can edit it and save it. The same choice is `Tell me when an older score is brought up to date`, in `Settings` ▸ `Files`, where you can turn the warning back on. See [Settings](topic:settings).
 
 A score with no such copies opens ready to edit, with nothing to tell you.
 
