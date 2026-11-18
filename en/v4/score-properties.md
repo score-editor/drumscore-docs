@@ -2,7 +2,6 @@
 title: Score Properties
 topic: score-properties
 summary: Every setting that belongs to one score and is saved in its file, pane by pane, and the tunes the score holds.
-draft: true
 ---
 
 `Score Properties` holds everything that belongs to the score in front of you: its name, how it is drawn, the paper it is on and the tunes in it. This page lists every setting in the window. Where another page explains a setting fully, the line here is short and links to it.

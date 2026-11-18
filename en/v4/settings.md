@@ -2,7 +2,6 @@
 title: Settings
 topic: settings
 summary: Every section of the Settings window: the licence, how the application looks, saving, your libraries and music fonts, recording, privacy, and what a new score starts with.
-draft: true
 ---
 
 `Settings` holds what belongs to the application and to you, not to one score. What belongs to one score is in `File` ▸ `Score Properties…`. See [Score Properties](topic:score-properties).
