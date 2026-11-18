@@ -151,4 +151,4 @@ Your scores are where you saved them. Everything else is kept for you:
 - **The `.DrumScoreEditor` folder** in your home folder holds your library, your takes and the music fonts you have added, until you choose other places for them. See [Settings](topic:settings).
 - **The log.** `Help` ▸ `Show Log Folder` opens the folder that holds the log the application writes each time it starts, and shows its path. Send that file when you report a problem.
 
-See also [What's New in Version 4](topic:whats-new) and [Licensing](topic:licensing).
+See also [What’s New in Version 4](topic:whats-new) and [Licensing](topic:licensing).
