@@ -18,7 +18,7 @@ A new score is made in the `Create New Score` window. It asks two things: what k
 
 The score opens in a new tab. It has no file yet, so save it when you are ready. See [Files and Older Scores](topic:files).
 
-`Cancel` closes the window at either step without making anything. On Windows and Linux the `Esc` key does the same. `Back` returns from the second step to the first.
+`Cancel` closes the window at either step without making anything. The `Esc` key does the same, and so does `Cmd+.` on a Mac. `Back` returns from the second step to the first.
 
 ![The Create New Score window at step 1: eight tune types, nine time signatures and the tempo](images/v4/new-score-step-1.png){: width="536" }
 
@@ -78,6 +78,7 @@ The heading shows the tune type you chose, such as `New March`.
 | `Title` | The name of the tune. The box starts with the word "Title" selected, so type over it. |
 | `Author` | Who wrote the score. |
 | `Band` | The band the score is for. |
+| `Save Generated Score` | Ticked, the `Save Score As…` window opens as soon as the score is made, offering the title as the file's name. Cancel it and the score stays open, not yet saved. Unticked, the score opens with no file until you save it. |
 | `Orientation` | `Portrait` or `Landscape` paper. |
 | `Parts` | How many parts to rule. It starts at 4. |
 | `Anacrusis, % of a line` | Room for a pickup, as a percentage of the line's width. Leave it empty for no anacrusis. |
@@ -107,7 +108,7 @@ To save a design, right-click the header or footer of a score you have arranged 
 
 ## Where the starting values come from
 
-In the Studio Edition, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout` and `Clef` all start as `New Score Defaults` in [Settings](topic:settings) has them. What you choose in the window is used for this score only. It does not change your defaults.
+In the Studio Edition, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout`, `Clef`, `Clef on every line` and `Inline Time Signature` all start as `New Score Defaults` in [Settings](topic:settings) has them. `Save Generated Score` starts ticked if you have ticked `Prefer saving scores on creation` in `Settings` ▸ `Files`. What you choose in the window is used for this score only. It does not change your defaults.
 
 In the Community Edition, the window opens with fixed starting values, and `Author` and `Band` start empty.
 
