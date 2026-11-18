@@ -2,7 +2,6 @@
 title: Examples
 topic: examples
 summary: Example scores to download, open and study, and how to offer one of your own.
-draft: true
 ---
 
 These scores were written in Drum Score Editor 4. Each is here twice: as a score file to open in the application, and as a PDF to look at without it.
