@@ -108,9 +108,9 @@ To save a design, right-click the header or footer of a score you have arranged 
 
 ## Where the starting values come from
 
-With a licence, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout` and `Clef` all start as `New Score Defaults` in [Settings](topic:settings) has them. What you choose in the window is used for this score only. It does not change your defaults.
+In the Studio Edition, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout` and `Clef` all start as `New Score Defaults` in [Settings](topic:settings) has them. What you choose in the window is used for this score only. It does not change your defaults.
 
-Without a licence, the window opens with fixed starting values, and `Author` and `Band` start empty.
+In the Community Edition, the window opens with fixed starting values, and `Author` and `Band` start empty.
 
 ## After the score is made
 

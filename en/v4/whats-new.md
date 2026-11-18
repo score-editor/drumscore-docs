@@ -11,7 +11,7 @@ Version 4 opens the scores you wrote in 3.6, and it keeps the licence and settin
 
 ## New in version 4
 
-Several of the items below need the Studio edition, as the productivity features did in 3.6. See [Licensing](topic:licensing).
+Several of the items below need the Studio Edition, as the productivity features did in 3.6. See [Licensing](topic:licensing).
 
 ### Scores and tunes
 
@@ -39,6 +39,7 @@ See [Instruments and Staves](topic:instruments).
 - **Line heights.** `Line Heights` in the `Page` pane decides how tall each staff line is drawn. `Legacy` is how your score has always been drawn. `Uniform` makes every line of a tune as tall as its tallest line needs. `Fit Each Line` makes each line as tall as its own marks need. Once a score leaves `Legacy` it cannot go back.
 - **Lock a bar against Beautify.** Right-click in a bar and choose `Measure` ▸ `Lock Against Beautify`. Beautify and other automatic spacing then leave that bar as you placed it. You can still edit it. `View` ▸ `Bar Locks` shows a padlock over each locked bar.
 - **Barlines that move.** With `Allow barlines to move` ticked in the `Engraving` pane, Beautify places the barlines as well as the notes. It replaces barlines you have placed by hand. It is offered only in the `Standard` layout with the `TraditionalSpacing` spacing policy.
+- **A tuplet inside a tuplet is drawn clear of the one around it.** 3.6 could write one, but drew both brackets on the same side of the notes. Version 4 draws the inner tuplet on the opposite side, so the two do not run into each other.
 - **Tuplet number size.** `Tuplet Number Size` in the `Engraving` pane draws the number over an irregular group `Large`, `Medium` or `Small`.
 - **Hide marks without removing them.** `View` ▸ `Markup` shows or hides `Dynamics`, `Highlight Marks` and `Unison Marks`. The marks stay in the score.
 
@@ -90,8 +91,8 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 
 ## What is different or not here
 
-- **`Block Select`** is not in version 4.
-- **`Left Align Selection`** and **`Left Align Selection Stems`** are not in version 4.
+- **`Block Select`** has been dropped.
+- **`Left Align Selection`** and **`Left Align Selection Stems`** have been dropped.
 - **Rudiment libraries** are still here, and they are still `.dsl` files. The panel is shown with `View` ▸ `Show` ▸ `Rudiments`. Which libraries are open is now chosen in `Settings`. See [Rudiments, Rolls and Tuplets](topic:rudiments).
 - **Bar note checking** is now called `Bar Audit`. It marks a bar that holds more or less than its time signature allows.
 
@@ -103,8 +104,10 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 
 **Saving is one way.** Version 4 saves in its own format. Once version 4 has saved a score, 3.6 will not open that file. If you may need a score in 3.6 again, keep a copy of the original before you save over it.
 
-**There is a way back for one score.** `File` ▸ `Export` ▸ `Export for Drum Score Editor 3…` saves a separate copy that 3.6 can open. It lists what the older format cannot hold before it writes anything. The `Export` menu is part of the Studio edition.
+**There is a way back for one score.** `File` ▸ `Export` ▸ `Export for Drum Score Editor 3…` saves a separate copy that 3.6 can open. It lists what the older format cannot hold before it writes anything. The `Export` menu is part of the Studio Edition.
 
-**Settings and data are shared with 3.6.** Version 4 uses the same settings and the same licence as 3.6, and the same `.DrumScoreEditor` folder in your home folder. On a Mac, installing version 4 replaces 3.6.
+**Version 4 replaces 3.6.** Installing version 4 takes the place of 3.6 on your computer, on Mac, Windows and Linux. It uses the same settings and the same licence, and the same `.DrumScoreEditor` folder in your home folder.
+
+**If you need to go back.** The way back is to reinstall 3.6. Please get in touch before you do, at [alan@drumscore.scot](mailto:alan@drumscore.scot).
 
 See [Files and Older Scores](topic:files) and [Printing and Export](topic:export).
