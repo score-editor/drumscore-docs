@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta name="generator" content="pandoc 3.11" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>EULA</title>
   <style>
@@ -41,7 +41,6 @@
       body {
         background-color: transparent;
         color: black;
-        font-size: 12pt;
       }
       p, h2, h3 {
         orphans: 3;
@@ -91,6 +90,7 @@
       color: #606060;
     }
     code {
+      white-space: pre-wrap;
       font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
@@ -154,10 +154,13 @@
     #TOC a:not(:hover) {
       text-decoration: none;
     }
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     /* The extra [class] is a hack that increases specificity enough to
        override a similar rule in reveal.js */
@@ -168,14 +171,13 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
 <h1 id="drum-score-editor-end-user-license-agreement-eula">Drum Score
 Editor End User License Agreement (EULA)</h1>
-<p><strong>Effective Date:</strong> 17th November 2025
-<strong>Version:</strong> 1.0</p>
+<p><strong>Effective Date:</strong> 18th November 2026
+<strong>Version:</strong> 1.1</p>
 <p>This End User License Agreement (“Agreement”) is between you (“User”)
 and Alan White (“Licensor”) regarding Drum Score Editor
 (“Software”).</p>
@@ -183,10 +185,10 @@ and Alan White (“Licensor”) regarding Drum Score Editor
 bound by this Agreement.</p>
 <hr />
 <h2 id="license-grant">1. License Grant</h2>
-<h3 id="free-tier">1.1 Free Tier</h3>
+<h3 id="community-edition">1.1 Community Edition</h3>
 <p>Licensor grants you a non-exclusive, non-transferable, revocable
 license to install and use the Software for personal use with the
-features available in the free tier.</p>
+features available in the community edition.</p>
 <h3 id="premium-license">1.2 Premium License</h3>
 <p>Upon payment of a one-time license fee, Licensor grants you a
 non-exclusive, non-transferable, perpetual license to access premium
@@ -291,8 +293,8 @@ offer it under a separate license, though existing users may receive
 preferential pricing.</p>
 <h3 id="support">6.3 Support</h3>
 <p>Premium license holders receive priority email support at
-alan@drumscore.scot. Free tier users have access to community forums and
-documentation.</p>
+alan@drumscore.scot. Community edition users have access to community
+forums and documentation.</p>
 <h3 id="discontinuation">6.4 Discontinuation</h3>
 <p>If Licensor discontinues the Software, existing premium license
 holders retain their licenses and may continue using the Software

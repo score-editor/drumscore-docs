@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta name="generator" content="pandoc 3.11" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>PRIVACY</title>
   <style>
@@ -41,7 +41,6 @@
       body {
         background-color: transparent;
         color: black;
-        font-size: 12pt;
       }
       p, h2, h3 {
         orphans: 3;
@@ -91,6 +90,7 @@
       color: #606060;
     }
     code {
+      white-space: pre-wrap;
       font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
@@ -154,10 +154,13 @@
     #TOC a:not(:hover) {
       text-decoration: none;
     }
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     /* The extra [class] is a hack that increases specificity enough to
        override a similar rule in reveal.js */
@@ -168,14 +171,13 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
 <h1 id="drumscore-editor-privacy-policy">DrumScore Editor Privacy
 Policy</h1>
-<p><strong>Effective Date:</strong> November 17, 2025<br />
-<strong>Version:</strong> 1.0</p>
+<p><strong>Effective Date:</strong> November 18, 2026<br />
+<strong>Version:</strong> 1.1</p>
 <p>Alan White (“we,” “us,” or “our”) operates DrumScore Editor (“the
 Software”). This Privacy Policy explains how we collect, use, and
 protect information when you use the Software.</p>
@@ -200,12 +202,12 @@ explicitly choose to share files or enable optional features described
 below.</p>
 <h3 id="anonymous-usage-analytics-optional">1.2 Anonymous Usage
 Analytics (Optional)</h3>
-<p>Starting with version [3.5], the Software includes optional anonymous
+<p>Starting with version 3.5, the Software includes optional anonymous
 usage analytics. When enabled, we collect:</p>
 <p><strong>What we collect:</strong> - Features used and frequency of
-use - Software version and operating system - Session duration - Crash
-reports and error logs - General workflow patterns (e.g., “user created
-volta,” “user exported to PDF”)</p>
+use - Software version and operating system - Session duration - General
+workflow patterns (e.g., “user created volta,” “user exported to
+PDF”)</p>
 <p><strong>What we do NOT collect:</strong> - Your name, email, or
 license information - Musical compositions or score content - File
 names, paths, or any file metadata - IP addresses or device identifiers
@@ -354,9 +356,7 @@ posted constitutes acceptance of the updated Privacy Policy.</p>
 <p>If you have questions about this Privacy Policy or how your data is
 handled:</p>
 <p><strong>Email:</strong> alan@drumscore.scot<br />
-<strong>Website:</strong> https://drumscore.scot<br />
-<strong>Address:</strong> [Your business address if required by local
-law]</p>
+<strong>Website:</strong> https://drumscore.scot</p>
 <hr />
 <h2 id="summary">12. Summary</h2>
 <p><strong>In Plain English:</strong></p>

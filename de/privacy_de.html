@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta name="generator" content="pandoc 3.11" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>PRIVACY_de</title>
   <style>
@@ -41,7 +41,6 @@
       body {
         background-color: transparent;
         color: black;
-        font-size: 12pt;
       }
       p, h2, h3 {
         orphans: 3;
@@ -91,6 +90,7 @@
       color: #606060;
     }
     code {
+      white-space: pre-wrap;
       font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
@@ -154,10 +154,13 @@
     #TOC a:not(:hover) {
       text-decoration: none;
     }
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     /* The extra [class] is a hack that increases specificity enough to
        override a similar rule in reveal.js */
@@ -168,7 +171,6 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
@@ -181,8 +183,8 @@ für DrumScore Editor</h1>
 Referenzübersetzung und MUSS von einem professionellen Übersetzer oder
 zweisprachigen Juristen überprüft werden, bevor sie rechtlich verwendet
 wird. Im Konfliktfall ist die englische Fassung maßgeblich.</p>
-<p><strong>Datum des Inkrafttretens:</strong> 17. November 2025<br />
-<strong>Version:</strong> 1.0</p>
+<p><strong>Datum des Inkrafttretens:</strong> 18. November 2026<br />
+<strong>Version:</strong> 1.1</p>
 <p>Alan White („wir”, „uns” oder „unser”) betreibt DrumScore Editor
 („die Software”). Diese Datenschutzerklärung erläutert, wie wir
 Informationen sammeln, verwenden und schützen, wenn Sie die Software
@@ -211,12 +213,12 @@ denn, Sie entscheiden sich ausdrücklich dafür, Dateien zu teilen oder
 die unten beschriebenen optionalen Funktionen zu aktivieren.</p>
 <h3 id="anonyme-nutzungsanalysen-optional">1.2 Anonyme Nutzungsanalysen
 (Optional)</h3>
-<p>Ab Version [X.X] enthält die Software optionale anonyme
+<p>Ab Version 3.5 enthält die Software optionale anonyme
 Nutzungsanalysen. Wenn aktiviert, erfassen wir:</p>
 <p><strong>Was wir erfassen:</strong> - Verwendete Funktionen und deren
 Nutzungshäufigkeit - Softwareversion und Betriebssystem - Sitzungsdauer
-- Absturzberichte und Fehlerprotokolle - Allgemeine Workflow-Muster (z.
-B. „Benutzer hat Volta erstellt”, „Benutzer hat in PDF exportiert”)</p>
+- Allgemeine Workflow-Muster (z. B. „Benutzer hat Volta erstellt”,
+„Benutzer hat in PDF exportiert”)</p>
 <p><strong>Was wir NICHT erfassen:</strong> - Ihren Namen, E-Mail oder
 Lizenzinformationen - Ihre musikalischen Kompositionen oder
 Partiturinhalte - Dateinamen, Pfade oder Dateimetadaten - IP-Adressen
@@ -386,9 +388,7 @@ Datenschutzerklärung dar.</p>
 <p>Wenn Sie Fragen zu dieser Datenschutzerklärung oder zur Handhabung
 Ihrer Daten haben:</p>
 <p><strong>E-Mail:</strong> alan@drumscore.scot<br />
-<strong>Website:</strong> https://drumscore.scot<br />
-<strong>Adresse:</strong> [Ihre Geschäftsadresse, falls nach lokalem
-Recht erforderlich]</p>
+<strong>Website:</strong> https://drumscore.scot</p>
 <hr />
 <h2 id="zusammenfassung">12. Zusammenfassung</h2>
 <p><strong>In Einfachem Deutsch:</strong></p>

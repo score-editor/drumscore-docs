@@ -5,8 +5,8 @@
 
 **AVIS IMPORTANT:** Ceci est une traduction de référence générée par IA et DOIT être révisée par un traducteur professionnel ou un juriste bilingue avant toute utilisation légale. En cas de divergence, la version anglaise fait foi.
 
-**Date d'entrée en vigueur :** 17 novembre 2025  
-**Version :** 1.0
+**Date d'entrée en vigueur :** 18 novembre 2026  
+**Version :** 1.1
 
 Le présent Contrat de Licence Utilisateur Final (« Contrat ») est conclu entre vous (« l'Utilisateur ») et Alan White (« le Concédant ») concernant DrumScore Editor (« le Logiciel »).
 
@@ -16,8 +16,8 @@ En installant, accédant ou utilisant le Logiciel, vous acceptez d'être lié pa
 
 ## 1. Octroi de Licence
 
-### 1.1 Version Gratuite
-Le Concédant vous accorde une licence non exclusive, non transférable et révocable d'installer et d'utiliser le Logiciel à des fins personnelles avec les fonctionnalités disponibles dans la version gratuite.
+### 1.1 Édition Communauté
+Le Concédant vous accorde une licence non exclusive, non transférable et révocable d'installer et d'utiliser le Logiciel à des fins personnelles avec les fonctionnalités disponibles dans l'Édition Communauté.
 
 ### 1.2 Licence Premium
 Moyennant le paiement de frais de licence uniques, le Concédant vous accorde une licence non exclusive, non transférable et perpétuelle d'accéder aux fonctionnalités premium du Logiciel. Cette licence est valable pendant toute la durée de vie du Logiciel et comprend l'accès à toutes les mises à jour et améliorations pendant cette période.
@@ -125,7 +125,7 @@ Le Logiciel peut vérifier automatiquement les mises à jour disponibles et vous
 Cette licence perpétuelle inclut toutes les mises à jour de Drum Score Editor. Si le Concédant publie un produit fondamentalement différent (par exemple, « Drum Score Editor 2.0 » en tant qu'application distincte), le Concédant se réserve le droit de l'offrir sous une licence distincte, bien que les utilisateurs existants puissent bénéficier de tarifs préférentiels.
 
 ### 6.3 Support
-Les détenteurs de licence premium bénéficient d'un support e-mail prioritaire à alan@drumscore.scot. Les utilisateurs de la version gratuite ont accès aux forums communautaires et à la documentation.
+Les détenteurs de licence premium bénéficient d'un support e-mail prioritaire à alan@drumscore.scot. Les utilisateurs de l'Édition Communauté ont accès aux forums communautaires et à la documentation.
 
 ### 6.4 Abandon
 Si le Concédant abandonne le Logiciel, les détenteurs de licence premium existants conservent leurs licences et peuvent continuer à utiliser le Logiciel indéfiniment.

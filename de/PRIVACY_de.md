@@ -4,8 +4,8 @@
 
 **WICHTIGER HINWEIS:** Dies ist eine KI-generierte Referenzübersetzung und MUSS von einem professionellen Übersetzer oder zweisprachigen Juristen überprüft werden, bevor sie rechtlich verwendet wird. Im Konfliktfall ist die englische Fassung maßgeblich.
 
-**Datum des Inkrafttretens:** 17. November 2025  
-**Version:** 1.0
+**Datum des Inkrafttretens:** 18. November 2026  
+**Version:** 1.1
 
 Alan White („wir", „uns" oder „unser") betreibt DrumScore Editor („die Software"). Diese Datenschutzerklärung erläutert, wie wir Informationen sammeln, verwenden und schützen, wenn Sie die Software nutzen.
 
@@ -27,13 +27,12 @@ Die Software speichert die folgenden Informationen **ausschließlich lokal auf I
 
 ### 1.2 Anonyme Nutzungsanalysen (Optional)
 
-Ab Version [X.X] enthält die Software optionale anonyme Nutzungsanalysen. Wenn aktiviert, erfassen wir:
+Ab Version 3.5 enthält die Software optionale anonyme Nutzungsanalysen. Wenn aktiviert, erfassen wir:
 
 **Was wir erfassen:**
 - Verwendete Funktionen und deren Nutzungshäufigkeit
 - Softwareversion und Betriebssystem
 - Sitzungsdauer
-- Absturzberichte und Fehlerprotokolle
 - Allgemeine Workflow-Muster (z. B. „Benutzer hat Volta erstellt", „Benutzer hat in PDF exportiert")
 
 **Was wir NICHT erfassen:**
@@ -209,8 +208,7 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Änderun
 Wenn Sie Fragen zu dieser Datenschutzerklärung oder zur Handhabung Ihrer Daten haben:
 
 **E-Mail:** alan@drumscore.scot  
-**Website:** https://drumscore.scot  
-**Adresse:** [Ihre Geschäftsadresse, falls nach lokalem Recht erforderlich]
+**Website:** https://drumscore.scot
 
 ---
 
