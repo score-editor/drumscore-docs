@@ -32,14 +32,14 @@ Because it is written for more than one instrument, this score opens in the Stud
 
 ![The Caledonian Society of London: a strathspey on one landscape page](images/v4/examples/the-caledonian-society-of-london.png){: width="700" }
 
-A strathspey for solo snare by Alan White and Steven McWhirter, in four parts on one landscape page.
+A strathspey for solo snare by Alan White and Steven McWhirter, in four parts on one landscape page. It is here to show how much detail you can give the dynamics, and what that buys you: with the dynamics written in, Quick Play plays the score with feeling, not just the notes in time.
 
 - [Download the score](examples/v4/the-caledonian-society-of-london.ds)
 - [Look at the PDF](examples/v4/the-caledonian-society-of-london.pdf)
 
 What to look for:
 
-- **Dynamics and hairpins** throughout, written above the line.
+- **Dynamics and hairpins on almost every bar**: where each phrase starts, how far it swells and where it falls away. Open the score in the Studio Edition and play it with Quick Play to hear what they do. See [Rudiments, Rolls and Tuplets](topic:rudiments) for writing them.
 - **Triplets with their numbers below the notes**, which is `Irregular Groups Below Notes` in the `Engraving` pane.
 - **Rolls and grace notes** closely written, eight lines to the page. See [Rudiments, Rolls and Tuplets](topic:rudiments).
 - **A landscape page**, with the title set in its own font, a picture in the header and the date in the footer. See [Text and Headers](topic:text-and-headers).
