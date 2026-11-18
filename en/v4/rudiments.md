@@ -2,7 +2,6 @@
 title: Rudiments, Rolls and Tuplets
 topic: rudiments
 summary: Putting flams, drags, rolls, accents, dynamics, tuplets, ties, unison marks and tenor flourishes on your notes, and keeping phrases in a rudiment library.
-draft: true
 ---
 
 Most of what is on this page is added to notes that are already written. Select the notes first, then put the mark on. See [Entering Notes](topic:entering-notes) for writing and selecting notes.

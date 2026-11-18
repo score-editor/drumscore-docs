@@ -2,7 +2,6 @@
 title: Entering Notes
 topic: entering-notes
 summary: Writing notes and rests at the caret, then selecting, moving, copying, beaming and deleting them.
-draft: true
 ---
 
 Notes go in at the caret, the flashing mark that shows where the next note will be written. One key press, or one click on a button, writes a note of the value and hand you want, and the caret moves on by the room that note takes in its bar. This page takes you from an empty ruled score to a line of notes, and shows how to change what you have written.
