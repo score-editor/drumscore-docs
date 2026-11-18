@@ -2,7 +2,6 @@
 title: Overview
 topic: overview
 summary: What Drum Score Editor is, where to start, the parts of the window, and what each page of this guide covers.
-draft: true
 ---
 
 Drum Score Editor is a program for writing pipe band drum scores for snare, tenor and bass. It writes them the way they are written by hand, with the rudiments and marks of pipe band drumming. You type the notes, and it engraves them, spaces them and puts them on the page. It prints and makes PDFs, and the Studio Edition exports to other formats as well. It runs on Mac, Windows and Linux.
