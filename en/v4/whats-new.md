@@ -46,6 +46,11 @@ See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:
 <!-- screenshot: the same few lines drawn with Legacy, Uniform and Fit Each Line -->
 ![A line of music with a padlock over its third bar](images/v4/bar-locks.png){: width="823" }
 
+### Highlight pens
+
+- **Ten pens instead of six.** The editing toolbar now has ten highlight pens. A score written in 3.6 keeps its own six colours.
+- **A pen can stand for a note.** Tenor corps mark each drum with a colour. In the `Highlighters` pane, under `Pens and pitches`, you say which note each pen stands for. A note highlighted with that pen on a tenor line is then played back at that note.
+
 ### Playing and recording
 
 `Launch Media Studio…` has gone from the `View` menu. In its place:
