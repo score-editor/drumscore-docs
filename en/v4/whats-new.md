@@ -104,7 +104,7 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 
 **Version 4 opens 3.6 scores.** Open them as you always have.
 
-**Some older multi-page scores open read-only the first time.** Earlier versions copied the title, author and footer from the first page onto every later page. Version 4 removes those copies, because each tune now carries its own header. It tells you what it removed and leaves your original file unchanged. To work on the score, use `Save Score As…` and give it a new name.
+**Some older multi-page scores open read-only the first time.** When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 does not do that, because it makes a header for every tune where the tune begins, so it removes those copies. It tells you what it removed and leaves your original file unchanged. To work on the score, use `Save Score As…` and give it a new name.
 
 **Saving is one way.** Version 4 saves in its own format. Once version 4 has saved a score, 3.6 will not open that file. If you may need a score in 3.6 again, keep a copy of the original before you save over it.
 

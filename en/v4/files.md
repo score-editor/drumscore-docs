@@ -105,7 +105,7 @@ A score opens read-only for one of two reasons:
 
 Version 4 reads an older score and brings it up to date as it opens. The file itself is not touched until the score is saved. It is then written in version 4's format, and 3.6 will not open it again.
 
-**One change you are told about.** Earlier versions copied the title, author and footer from the first page on to every page after it. A score can now hold several tunes, each with its own header where it begins, so a copy of page one's title no longer belongs on a later page. Version 4 removes those copies and brings the music up into the space.
+**One change you are told about.** When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 does not do that, because it makes a header for every tune where the tune begins. So it removes those copies and brings the music up into the space.
 
 When that happens, a window titled `This score has changed shape` lists what was removed, and the score opens read-only. Your original file still holds everything. Save the score under a new name to carry on.
 
