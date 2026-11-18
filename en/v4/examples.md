@@ -1,8 +1,56 @@
 ---
 title: Examples
 topic: examples
-summary: Example scores to open, read and borrow from.
+summary: Example scores to download, open and study, and how to offer one of your own.
 draft: true
 ---
 
-This page will cover: example scores and where to get them.
+These scores were written in Drum Score Editor 4. Each is here twice: as a score file to open in the application, and as a PDF to look at without it.
+
+To use one, download the score file and open it with `File` ▸ `Open…`. See [Files and Older Scores](topic:files).
+
+## A 2/4 march for the whole corps
+
+![The first page of the 2/4 march: three systems of snare, tenor and bass](images/v4/examples/2-4-march-corps.png){: width="494" }
+
+A traditional 2/4 march in four parts, written for snare, tenor and bass on one system, over two pages.
+
+- [Download the score](examples/v4/2-4-march-corps.ds)
+- [Look at the PDF](examples/v4/2-4-march-corps.pdf)
+
+What to look for:
+
+- **Three instruments on a system**, joined by a bracket and named at the left of the first system. See [Instruments and Staves](topic:instruments).
+- **Roll breakdowns** under the snare's rolls, showing the buzzes and taps. This is `Rolls` set to `Roll Breakdown` in [Score Properties](topic:score-properties).
+- **Line numbers**, and a page number at the foot. See [Text and Headers](topic:text-and-headers).
+- **`Fit Each Line`**, so each line is as tall as its own marks need. See [Layout and Spacing](topic:layout).
+- **A picture in the header and a watermark** behind the music.
+
+Because it is written for more than one instrument, this score opens in the Studio Edition only. The PDF is for everyone. See [Licensing](topic:licensing).
+
+## The Caledonian Society of London
+
+![The Caledonian Society of London: a strathspey on one landscape page](images/v4/examples/the-caledonian-society-of-london.png){: width="700" }
+
+A strathspey for solo snare by Alan White and Steven McWhirter, in four parts on one landscape page.
+
+- [Download the score](examples/v4/the-caledonian-society-of-london.ds)
+- [Look at the PDF](examples/v4/the-caledonian-society-of-london.pdf)
+
+What to look for:
+
+- **Dynamics and hairpins** throughout, written above the line.
+- **Triplets with their numbers below the notes**, which is `Irregular Groups Below Notes` in the `Engraving` pane.
+- **Rolls and grace notes** closely written, eight lines to the page. See [Rudiments, Rolls and Tuplets](topic:rudiments).
+- **A landscape page**, with the title set in its own font, a picture in the header and the date in the footer. See [Text and Headers](topic:text-and-headers).
+- **A text watermark** across the page.
+
+This score opens in either edition. The Community Edition draws it with its built-in shapes and does not show the picture.
+
+This setting is its authors' own work. It is here to study and to learn the application from.
+
+## Offer a score of your own
+
+More examples are wanted, of every kind: marches, strathspeys, reels, jigs, hornpipes, slow airs, corps scores with tenor and bass, and anything that shows a good way of writing something down.
+
+If you have a score you would be happy to see on this page, say so on the [Drum Score Editor Discord server](https://discord.gg/2cJuZMACS), or write to [alan@drumscore.scot](mailto:alan@drumscore.scot). Only offer a score that is yours to share.

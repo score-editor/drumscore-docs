@@ -59,6 +59,7 @@ The Community Edition is free. A licence makes it the Studio Edition: the same a
 ## Getting help
 
 - **Questions and feedback** go to [alan@drumscore.scot](mailto:alan@drumscore.scot).
+- **Other drummers who use it** are on the [Drum Score Editor Discord server](https://discord.gg/2cJuZMACS). It is a good place to ask how something is done.
 - **A licence or a lost key.** Write to [support@drumscore.scot](mailto:support@drumscore.scot). See [Licensing](topic:licensing).
 - **If you are asked for a log**, choose `Help` ▸ `Show Log Folder`. It opens the folder that holds the log the application writes each time it starts.
 - **For a newer version**, choose `Help` ▸ `Check for Updates…`.

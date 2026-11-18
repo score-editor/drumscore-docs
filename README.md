@@ -33,7 +33,8 @@ for the 4.0 release; French and German follow. The guide for 3.6 and earlier is 
   page reorganised without breaking any copy of the application already installed. A topic id,
   once released, is never removed or given a new meaning.
 - **Links inside a page** are written `[Settings](topic:settings)` for another page and
-  `![The New Score window](images/new-score.png)` for a picture. Anything else that is not a full
+  `![The New Score window](images/new-score.png)` for a picture. A file to download, such as an example score, is kept under
+  `examples/` and linked as `[the score](examples/v4/name.ds)`. Anything else that is not a full
   web address is refused by the build.
 - **A translation** is the same file name in `fr/v4/` or `de/v4/` with the same `topic`. Pages not
   yet translated fall back to English by themselves.

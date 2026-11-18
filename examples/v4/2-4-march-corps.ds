@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<score>
+  <properties>
+    <format-version>4</format-version>
+    <format-revision>12</format-revision>
+    <software name="Drum Score Editor" version="4.0.0"/>
+    <score-title>2/4 March</score-title>
+    <band>Band Name</band>
+    <version>1</version>
+    <last-updated timestamp="1795014942455"/>
+    <page-format>
+      <page-size name="A4"/>
+      <orientation>portrait</orientation>
+      <margins h="792.0" w="535.0" x="30.0" y="27.0"/>
+      <gutter mirror="false" position="left" width="0.0"/>
+      <page-numbers>true</page-numbers>
+      <watermark mode="image" opacity="0.05" point-size="64" reference="true" reference-name="DSE Trad" show="true"/>
+    </page-format>
+    <engraving>
+      <music-format>Standard</music-format>
+      <use-font>true</use-font>
+      <smufl-font>Bravura</smufl-font>
+      <music-font-size>14</music-font-size>
+      <stem-length>-1.0</stem-length>
+      <staff-padding>10</staff-padding>
+      <fill-music-area>false</fill-music-area>
+      <arranged>false</arranged>
+      <bar-height>5</bar-height>
+      <clef-type>Bass</clef-type>
+      <clef-on-every-line>true</clef-on-every-line>
+      <inline-time-sig>true</inline-time-sig>
+      <spacing-policy>TraditionalSpacing</spacing-policy>
+      <smart-space>true</smart-space>
+      <barlines-move>true</barlines-move>
+      <beautify-tuplets>true</beautify-tuplets>
+      <roughs-before-barline>true</roughs-before-barline>
+      <line-heights>fit</line-heights>
+      <line-gap>11.338582677165356</line-gap>
+      <instrument-gap>11.338582677165356</instrument-gap>
+      <instrument-labels>first</instrument-labels>
+      <tuplet-number-size>80</tuplet-number-size>
+      <dotted-space-factor>1.5</dotted-space-factor>
+      <double-dotted-space-factor>1.66</double-dotted-space-factor>
+      <auto-beam>true</auto-beam>
+      <beam-subdivision>Single</beam-subdivision>
+      <thin-secondary-beams>false</thin-secondary-beams>
+      <modern-rolls>false</modern-rolls>
+      <z-rolls>false</z-rolls>
+      <roll-annotation>ROLL_BREAKDOWN</roll-annotation>
+      <low-roll-ties>true</low-roll-ties>
+      <align-accents>true</align-accents>
+      <irregular-groups-below>false</irregular-groups-below>
+      <tie-irregular-groups>true</tie-irregular-groups>
+      <unison-line>true</unison-line>
+      <colour-unison>true</colour-unison>
+      <unison-colour>-205</unison-colour>
+      <unison-pen-weight>0.33000001311302185</unison-pen-weight>
+      <thin-unison-pen>true</thin-unison-pen>
+      <unison-bracket-weight>100</unison-bracket-weight>
+      <dashed-unison>false</dashed-unison>
+      <show-additive-time-sigs>false</show-additive-time-sigs>
+      <bracket-part-barlines>false</bracket-part-barlines>
+      <unison-letter>false</unison-letter>
+      <dynamics-size>75%</dynamics-size>
+      <annotation-font>Serif</annotation-font>
+      <annotation-font-style>0</annotation-font-style>
+      <annotation-font-size>10</annotation-font-size>
+      <pen0>-11422469</pen0>
+      <pen0-pitch>A3</pen0-pitch>
+      <pen1>-16711681</pen1>
+      <pen1-pitch>A3</pen1-pitch>
+      <pen2>-4144960</pen2>
+      <pen2-pitch>G3</pen2-pitch>
+      <pen3>-14336</pen3>
+      <pen3-pitch>F#3</pen3-pitch>
+      <pen4>-16711936</pen4>
+      <pen4-pitch>E3</pen4-pitch>
+      <pen5>-20561</pen5>
+      <pen5-pitch>E3</pen5-pitch>
+      <pen6>-256</pen6>
+      <pen6-pitch>D3</pen6-pitch>
+      <pen7>-229636</pen7>
+      <pen7-pitch>D3</pen7-pitch>
+      <pen8>-3891972</pen8>
+      <pen8-pitch>C#3</pen8-pitch>
+      <pen9>-2968436</pen9>
+      <pen9-pitch>B2</pen9-pitch>
+      <join-highlights>false</join-highlights>
+      <print-line-numbers>true</print-line-numbers>
+    </engraving>
+    <defaults>
+      <zoom>requires-format-4</zoom>
+    </defaults>
+  </properties>
+  <instruments>
+    <instrument clef="unpitched" id="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" lines="1" name="snare" type="snare"/>
+    <instrument clef="bass" id="07f5c015-5706-4c93-b461-1ed69f243ba8" lines="1" name="tenor" type="tenor"/>
+    <instrument clef="bass" id="db81d85c-9028-4037-ba14-9fd793e4a287" lines="1" name="bass" type="bass"/>
+  </instruments>
+  <tunes>
+    <tune anacrusis-percent="0.05" author="Traditional" bars-per-line="4" bpm="78" id="5e65738b-8d2c-43ed-9588-4d7211342596" orientation="portrait" part-repeats="true" show-time-sig-area="false" start-on-new-page="flow" title="2/4 March" ts-bottom="4" ts-common="false" ts-top="2" type="March">
+      <part id="64c3f85b-6081-4226-88c8-707fe0364e5e">
+        <system connect-barlines="true" full-width="true" id="f1fc7440-4b0a-4c69-af77-403e3e15030f" repeat-role="both" show-line-number="true">
+          <measure anacrusis="true" from="0.05971351535969052" id="f319a079-55b5-3894-aaf9-9d75bd74b544" to="0.12484846304167373">
+            <bar-lines>
+              <start-bar-line id="387f3b6b-b98f-48dd-8d94-4b5cc6b61fd9" type="repeat-start">
+                <location xpercent="0.05971351535969052"/>
+              </start-bar-line>
+              <end-bar-line id="33f86a22-b964-43d6-bbe1-dc75c2b06289" type="single">
+                <location xpercent="0.12484846304167373"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note hand="left" id="3e35c060-f1df-4797-8fa9-d493337415d2" value="quaver">
+                <location xpercent="0.29962636176668367"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1"/>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1"/>
+          </measure>
+          <measure from="0.12484846304167373" id="2dbc1f30-3f52-3a80-b34f-7071a4624668" to="0.31496154944475513">
+            <bar-lines>
+              <end-bar-line id="726e7805-df2c-40c8-b7a2-cf3468f221c9" type="single">
+                <location xpercent="0.31496154944475513"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="right" id="08731480-f7fd-4d20-9d58-29faef0e9e97" value="quaver">
+                <location xpercent="0.04017548402858607"/>
+              </note>
+              <note buzz="true" hand="right" id="593225e1-c95c-45a1-a6c1-8fd2cc63ba8a" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.3556858749308142"/>
+              </note>
+              <note hand="left" id="39baff0c-0564-4c67-ad58-aa8b6c44c8e8" value="quaver">
+                <location xpercent="0.595642003923668"/>
+              </note>
+              <note buzz="true" hand="right" id="90397dba-3219-4152-910d-1673510c9763" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.8355981329165217"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="873797b9-ffb8-4c55-ba26-2562aeea02e1" value="crotchet">
+                <location xpercent="0.11572974593796101"/>
+              </note>
+              <note hand="left" id="65497b67-9ba8-40b5-8597-1519cf5405d6" value="crotchet">
+                <location xpercent="0.595642003923668"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="7e18cbf8-2229-4b31-9450-b6e07e518577" value="crotchet">
+                <location xpercent="0.11572974593796101"/>
+              </note>
+              <note hand="left" id="855cc6d5-029f-4792-89de-d577260665fa" value="crotchet">
+                <location xpercent="0.595642003923668"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.31496154944475513" id="a5a8cb1e-7c6b-340d-b5ac-4f5e4e7ab403" to="0.5050746358478365">
+            <bar-lines>
+              <end-bar-line id="a2c47d39-ea73-461b-b6d8-b204cfb85293" type="single">
+                <location xpercent="0.5050746358478365"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note hand="left" id="f3ff548d-45ee-4344-ab8a-dc8b217145cf" value="quaver">
+                <location xpercent="0.04017548402858563"/>
+              </note>
+              <note hand="left" id="4553a324-6eb9-4365-beef-8695d99bb871" value="quaver">
+                <location xpercent="0.2801316130214393"/>
+              </note>
+              <note grace-note="flam" hand="right" id="12b6506e-b195-4d9d-b344-d4b06b0b9238" value="quaver">
+                <location xpercent="0.44453348010491817"/>
+              </note>
+              <note buzz="true" hand="right" id="36bab5c6-eb6b-48e0-a9ea-695a835c4e33" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7600438710071463"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="33ac6d9f-f063-42e3-84ae-541fdb933afe" value="crotchet">
+                <location xpercent="0.04017548402858563"/>
+              </note>
+              <note hand="left" id="af96c63b-5e3e-4f24-90c0-baec4a8735d1" value="crotchet">
+                <location xpercent="0.520087742014293"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="9bf72e73-a8cc-412d-8d84-c1fe5961d12e" value="crotchet">
+                <location xpercent="0.04017548402858563"/>
+              </note>
+              <note hand="right" id="d906e7fb-285b-45ac-8491-f8d3a19dee78" value="crotchet">
+                <location xpercent="0.520087742014293"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.5050746358478365" id="da3ca171-2eee-3b97-9b41-f0998541b5f8" to="0.7707860315770076">
+            <bar-lines>
+              <end-bar-line id="d00c79d6-fe0b-499e-8ffa-6e1511101dac" type="single">
+                <location xpercent="0.7707860315770076"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="358ac707-79d3-4adf-8c7d-2419991a2761" value="semiquaver">
+                <location xpercent="0.028745042136608848"/>
+              </note>
+              <note beam="true" hand="right" id="7bce1b8c-8468-4f5c-96a7-4fcc08800783" value="semiquaver">
+                <location xpercent="0.11693150278128059"/>
+              </note>
+              <note beam="true" hand="left" id="55689bf4-08dc-45c5-b467-d3f9d5162d16" value="semiquaver">
+                <location xpercent="0.20511796342595193"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="27550fe6-35e8-417f-a483-8901e6c40b2e" value="semiquaver">
+                <location xpercent="0.24890301908780865"/>
+              </note>
+              <note hand="left" id="51201235-0543-4da9-badc-587fd19a23f3" value="demisemiquaver">
+                <location xpercent="0.4459461066238653"/>
+              </note>
+              <note beam="true" hand="right" id="351bfc5d-d3dd-4c22-99b9-cb4b52f1bf02" value="semiquaver">
+                <location xpercent="0.5201184775575695"/>
+              </note>
+              <note beam="true" hand="left" id="282ff837-ff90-48bc-abef-34ad500803c2" value="semiquaver">
+                <location xpercent="0.6082650447172946"/>
+              </note>
+              <note beam="true" hand="right" id="244a591d-fb9d-4c5e-b7d7-e541f8189b37" value="semiquaver">
+                <location xpercent="0.6964116118770187"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="left" id="5c4a4341-775f-4808-9af7-37944db0b059" value="semiquaver">
+                <location xpercent="0.7501590528666481"/>
+              </note>
+              <note hand="right" id="fc709724-b0ea-4fd4-97f9-2773d59a0df4" value="demisemiquaver">
+                <location xpercent="0.927946874755799"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="right" id="38d687a6-bb2e-4204-b86a-cbc5a5cb8e55" value="semiquaver">
+                <location xpercent="0.028745042136608848"/>
+              </note>
+              <note beam="true" hand="left" id="ddc387a8-a6ca-4936-95c1-a1f5c60986b3" value="semiquaver">
+                <location xpercent="0.11693150278128059"/>
+              </note>
+              <note beam="true" hand="right" id="29a0129b-6ed3-4b29-a92e-4af9f73d4fff" value="semiquaver">
+                <location xpercent="0.20511796342595193"/>
+              </note>
+              <rest id="7b09b980-9e0a-45f8-8a2e-b19337a00e26" value="quaver">
+                <location xpercent="0.30296112180139556"/>
+              </rest>
+              <note beam="true" hand="right" id="1fcf6040-45e6-4c1c-9a45-bafa0799a6d3" value="semiquaver">
+                <location xpercent="0.5201184775575695"/>
+              </note>
+              <note beam="true" hand="left" id="a6025542-667f-4fe2-949a-321ef03a8890" value="semiquaver">
+                <location xpercent="0.6082650447172946"/>
+              </note>
+              <note beam="true" hand="right" id="05bf1995-d055-4d55-b1d6-d6552a6719b0" value="semiquaver">
+                <location xpercent="0.6964116118770187"/>
+              </note>
+              <rest id="3baa5c01-b81c-4cfb-9145-4678ef7fdb2c" value="quaver">
+                <location xpercent="0.7848170078408279"/>
+              </rest>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="351a65cf-2887-42e0-9fe2-912217d69cb9" value="crotchet">
+                <location xpercent="0.028745042136608848"/>
+              </note>
+              <note hand="right" id="d17a6888-59eb-46e3-8513-91c101614eeb" value="crotchet">
+                <location xpercent="0.5201184775575695"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7707860315770076" id="4512e8a0-9e7d-3695-bed1-7acd33ec5576" to="1.0">
+            <bar-lines>
+              <end-bar-line id="4ea1708c-343b-4cf3-abe6-b3f10863c132" type="single">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note dot="true" hand="left" id="29c110a7-5338-438a-b253-0067f44a4232" value="semiquaver">
+                <location xpercent="0.03332207595794157"/>
+              </note>
+              <note grace-note="flam" hand="right" id="7414e331-9fe3-482c-b3dd-35ed22bc1364" value="demisemiquaver">
+                <location xpercent="0.13812734600194726"/>
+              </note>
+              <note beam="true" hand="left" id="a1c677bb-c6f1-43c6-9176-2daac65141dd" value="semiquaver">
+                <location xpercent="0.28742274147926333"/>
+              </note>
+              <note beam="true" hand="right" id="dbd91c30-482b-47a0-b19c-aca0d2bb175e" value="semiquaver">
+                <location xpercent="0.39037361280613914"/>
+              </note>
+              <note beam="true" hand="left" id="0b6a5d7f-2ef3-4aea-accd-1eb14c646ac7" value="semiquaver">
+                <location xpercent="0.49332448413301444"/>
+              </note>
+              <note grace-note="flam" hand="right" id="bacbb0e3-e5fc-4f17-9372-824c58da74ab" value="quaver">
+                <location xpercent="0.5440813744396362"/>
+              </note>
+              <note hand="left" id="800bc134-e291-4682-9406-7cfb171892cf" value="quaver">
+                <location xpercent="0.8057698510161301"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <rest id="16286858-6714-46b2-9134-263134b6eb12" value="quaver">
+                <location xpercent="0.03332207595794157"/>
+              </rest>
+              <note beam="true" hand="right" id="8e5883cd-7fe8-4fa1-ba42-ad36d32d48ab" value="semiquaver">
+                <location xpercent="0.28742274147926333"/>
+              </note>
+              <note beam="true" hand="left" id="24198e4b-2e2a-48ed-88bb-0ae1f0a37da1" value="semiquaver">
+                <location xpercent="0.39037361280613914"/>
+              </note>
+              <note beam="true" hand="right" id="a2c7ca92-c64d-4650-968a-3085202355ee" value="semiquaver">
+                <location xpercent="0.49332448413301444"/>
+              </note>
+              <note hand="left" id="ef2f0bf2-2302-4f1e-a2dd-48feedcde91a" value="crotchet">
+                <location xpercent="0.6067470750569344"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="24b1686a-a7b3-4cd3-830a-076d931fe698" value="crotchet">
+                <location xpercent="0.03332207595794157"/>
+              </note>
+              <note hand="left" id="e9eb1573-f7cc-4a63-8c3b-318f183e4686" value="crotchet">
+                <location xpercent="0.6067470750569344"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+        <system connect-barlines="true" full-width="true" id="8792b453-4b62-4217-8210-f82236734b0b" repeat-role="both" show-line-number="true">
+          <measure from="0.03698896550685693" id="9a40825b-e4de-3881-af42-6466be4e95b8" to="0.258875285170565">
+            <bar-lines>
+              <start-bar-line id="8b137cdb-b45e-4270-bec8-8cb0de51403a" type="single">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="2ab85fe6-f882-4e79-a038-092fbb956725" type="single">
+                <location xpercent="0.258875285170565"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="right" id="f3052ab8-be97-4ad8-abd3-70ced47cebde" value="quaver">
+                <location xpercent="0.032733705565425965"/>
+              </note>
+              <note buzz="true" hand="right" id="e2e83a4f-429c-4bd7-a59a-6e15943a226d" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.33610948681908065"/>
+              </note>
+              <note hand="left" id="7be5ef1a-62b0-4856-ae79-4cb2c7051a4a" value="quaver">
+                <location xpercent="0.577926060427724"/>
+              </note>
+              <note buzz="true" hand="right" id="256393a6-9faa-4609-93c5-4a2a4510d4e8" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.8197426340363676"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="2b8d824a-e6d4-4b2b-a585-522f9abcc053" value="crotchet">
+                <location xpercent="0.0942929132104371"/>
+              </note>
+              <note hand="left" id="17cbe6d1-6f10-4c2c-af49-e40b92d1c26b" value="crotchet">
+                <location xpercent="0.577926060427724"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="78b69acb-53fe-4de7-97e9-0f2e27ce5a87" value="crotchet">
+                <location xpercent="0.0942929132104371"/>
+              </note>
+              <note hand="left" id="dda3b3c6-1fc4-4848-9f52-a4fbcdc1aacd" value="crotchet">
+                <location xpercent="0.577926060427724"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.258875285170565" id="c17cda04-7854-37ee-9b71-0df3b2c2df53" to="0.4807616048342731">
+            <bar-lines>
+              <end-bar-line id="463ce47c-9428-4efd-a602-2f816bfc4231" type="single">
+                <location xpercent="0.4807616048342731"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note hand="left" id="8e72ffec-061a-4495-8ea4-6ac8793995df" value="quaver">
+                <location xpercent="0.032733705565425736"/>
+              </note>
+              <note hand="left" id="e6f514be-0d93-45be-9a66-11d9aba79ee5" value="quaver">
+                <location xpercent="0.2745502791740695"/>
+              </note>
+              <note grace-note="flam" hand="right" id="555e2639-79d9-4f38-8e11-ff7ccb639880" value="quaver">
+                <location xpercent="0.45480764513770167"/>
+              </note>
+              <note buzz="true" hand="right" id="fcfaab04-acd8-4da5-a2c3-93ddf404ba46" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7581834263913563"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="6a00b07b-eb01-489f-81f9-79673fb9264d" value="crotchet">
+                <location xpercent="0.032733705565425736"/>
+              </note>
+              <note hand="left" id="febe8ba0-c179-4346-bd36-492d9bed9c4e" value="crotchet">
+                <location xpercent="0.5163668527827128"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="57f01405-333d-46f2-8c7a-0bf2038a6669" value="crotchet">
+                <location xpercent="0.032733705565425736"/>
+              </note>
+              <note hand="right" id="4efeae46-659b-498f-966e-a424482f492f" value="crotchet">
+                <location xpercent="0.5163668527827128"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.4807616048342731" id="24e109f9-2523-3f23-98f9-c7353a083e64" to="0.7915649269267704">
+            <bar-lines>
+              <end-bar-line id="d496c4b9-305f-4885-a1c3-2b09013c1240" type="single">
+                <location xpercent="0.7915649269267704"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="2a1b558c-c3c4-478d-ab8f-8a552fcd8a1f" value="semiquaver">
+                <location xpercent="0.023368995569185855"/>
+              </note>
+              <note beam="true" hand="right" id="ab1640f9-9eb9-4412-a2fb-f5fa06f377fe" value="semiquaver">
+                <location xpercent="0.1126703785897691"/>
+              </note>
+              <note beam="true" hand="left" id="5ebab1b4-5891-4acc-8a58-1d7e5ce12cf1" value="semiquaver">
+                <location xpercent="0.201971761610352"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="2c95b0af-003e-46ab-aaee-feaf9a5448ff" value="semiquaver">
+                <location xpercent="0.2473252680966538"/>
+              </note>
+              <note hand="left" id="fa00f68c-4837-4bb0-a721-d578e77f6500" value="demisemiquaver">
+                <location xpercent="0.4365403881530392"/>
+              </note>
+              <note dot="true" hand="right" id="d67139d1-909f-45b8-9480-739430bbc486" value="semiquaver">
+                <location xpercent="0.5116844977845928"/>
+              </note>
+              <note grace-note="flam" hand="left" id="62d8f71f-f09f-4dde-80a2-c257255504a4" value="demisemiquaver">
+                <location xpercent="0.628775696464614"/>
+              </note>
+              <note beam="true" hand="right" id="881d9bb6-cd22-4ce6-a130-466666cae75c" value="semiquaver">
+                <location xpercent="0.7320958509382506"/>
+              </note>
+              <note beam="true" hand="left" id="6cfedb01-2c44-47c2-ab7a-a519976b9b39" value="semiquaver">
+                <location xpercent="0.8213972339588339"/>
+              </note>
+              <note beam="true" hand="right" id="e1ad4dda-a8c1-4bef-bc64-8d7560640f3b" value="semiquaver">
+                <location xpercent="0.9106986169794168"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="left" id="ab8b58b6-058a-43c9-a03a-7e0e534ebf16" value="semiquaver">
+                <location xpercent="0.023368995569185855"/>
+              </note>
+              <note beam="true" hand="right" id="b969c5a6-cbb9-452e-9d0a-c3b812164105" value="semiquaver">
+                <location xpercent="0.1126703785897691"/>
+              </note>
+              <note beam="true" hand="left" id="4e76849d-a393-403c-846a-40d414483af4" value="semiquaver">
+                <location xpercent="0.201971761610352"/>
+              </note>
+              <rest id="5796c696-ae66-4e80-a584-135a3dcdb4c6" value="quaver">
+                <location xpercent="0.29127314463093523"/>
+              </rest>
+              <rest id="43de6e02-44af-498d-aa43-c4d057008776" value="quaver">
+                <location xpercent="0.5116844977845928"/>
+              </rest>
+              <note beam="true" hand="right" id="8f284bb5-a555-4df0-b12f-5530ae14b552" value="semiquaver">
+                <location xpercent="0.7320958509382506"/>
+              </note>
+              <note beam="true" hand="left" id="55ab7aa0-92c4-4596-9b98-f0105e4c772b" value="semiquaver">
+                <location xpercent="0.8213972339588339"/>
+              </note>
+              <note beam="true" hand="right" id="bf8080a8-6d2e-4de3-972d-2582a97ff478" value="semiquaver">
+                <location xpercent="0.9106986169794168"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="3db1d664-bb62-4946-b907-e12ec1f1ce7b" value="crotchet">
+                <location xpercent="0.023368995569185855"/>
+              </note>
+              <note hand="right" id="5e4b73f1-f00e-4b71-9903-8ab1c432cccb" value="crotchet">
+                <location xpercent="0.5116844977845928"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7915649269267704" id="b361599b-9e1f-3a1d-a9df-5143d838720e" to="1.0">
+            <bar-lines>
+              <end-bar-line id="72f5748d-5878-4f3b-81ab-09c6087a27d5" type="repeat-end">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="left" id="57ca35f5-b0c6-4c95-b2e4-5074e6876937" value="quaver">
+                <location xpercent="0.01521828367777342"/>
+              </note>
+              <note buzz="true" hand="right" id="85349a9e-6638-44f5-8dc4-e3c54c09eed8" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.2922682354287617"/>
+              </note>
+              <note hand="left" id="5f3e9057-5714-4801-a945-bb182a672f62" value="quaver">
+                <location xpercent="0.5496903130119293"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="277cadec-3e0f-4fca-aec0-aff80dd6632e" value="quaver">
+                <location xpercent="0.03484615784559463"/>
+              </note>
+              <note hand="left" id="5a7ba6f3-9503-4f61-a517-afbd750f55ca" value="quaver">
+                <location xpercent="0.2922682354287617"/>
+              </note>
+              <note hand="right" id="6f6e8820-dfb6-49e5-a278-990d27375640" value="crotchet">
+                <location xpercent="0.5496903130119293"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="6ab9ffab-48d2-4dcc-9ff9-6c0a3db832b2" value="crotchet">
+                <location xpercent="0.03484615784559463"/>
+              </note>
+              <note hand="left" id="43d8a5ea-6e82-4261-8fe8-bf9a76edc6a1" value="crotchet">
+                <location xpercent="0.5496903130119293"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+      </part>
+      <part id="58242837-5d55-4ea5-aae7-20ea2239209a">
+        <system connect-barlines="true" full-width="true" id="c0899563-23a9-432c-ad02-c465432dadca" repeat-role="both" show-line-number="true">
+          <measure anacrusis="true" from="0.03698896550685693" id="4827b09f-299a-3ba5-a6b4-37f90d11620f" to="0.10441452652755978">
+            <bar-lines>
+              <start-bar-line id="3e656532-e390-4153-8360-4cf6ce1b06c0" type="repeat-start">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="1849c2e6-563e-4743-b375-b88e8ca68f1f" type="single">
+                <location xpercent="0.10441452652755978"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note hand="left" id="fdf117f8-1e02-4167-87a3-5502674a072d" value="quaver">
+                <location xpercent="0.2752466798090887"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1"/>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1"/>
+          </measure>
+          <measure from="0.10441452652755978" id="f9614de1-6ac5-3e64-ad09-4a5d13829a62" to="0.28812184155484283">
+            <bar-lines>
+              <end-bar-line id="0cdd4f23-adbd-4077-84ec-e8f63a4bbc73" type="single">
+                <location xpercent="0.28812184155484283"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="1ae38fba-3a3a-442c-9170-ac53b56b9ee2" value="crotchet">
+                <location xpercent="0.06480497469371536"/>
+              </note>
+              <note hand="right" id="ed973e78-4577-4661-807f-5c435840e8d3" value="quaver">
+                <location xpercent="0.46799179762404286"/>
+              </note>
+              <note hand="left" id="c050d9e9-b010-40e5-8d44-5fcdbd7945ad" value="quaver">
+                <location xpercent="0.7339958988120214"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="227d0458-d3ad-4f00-b7bf-2e76a6f08b55" value="crotchet">
+                <location xpercent="0.06480497469371536"/>
+              </note>
+              <note hand="left" id="83fd4f48-86d8-4cd3-935d-de037da3f4b2" value="crotchet">
+                <location xpercent="0.46799179762404286"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="66a9cf65-d85f-49b4-be0f-31afe889febd" value="crotchet">
+                <location xpercent="0.06480497469371536"/>
+              </note>
+              <note hand="left" id="c7ea40cf-5767-41ad-ad9f-81ca88e2be56" value="crotchet">
+                <location xpercent="0.46799179762404286"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.28812184155484283" id="95d541de-fef2-3712-ab71-604f2dbfbc1e" to="0.4718291565821259">
+            <bar-lines>
+              <end-bar-line id="cd4cd6b3-f6fe-4c64-a2f4-b2ac61cdfd7f" type="single">
+                <location xpercent="0.4718291565821259"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="fcb8ae4e-1abd-42f9-85ee-49e9a82be33b" value="crotchet">
+                <location xpercent="0.06480497469371499"/>
+              </note>
+              <note hand="right" id="2858a7e1-5165-40dc-b431-afe3515e06d3" value="quaver">
+                <location xpercent="0.4679917976240426"/>
+              </note>
+              <note buzz="true" hand="right" id="2152fd4f-5311-40f2-a1e0-2ad915d5e9c0" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7339958988120211"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="e867cf25-3d14-49bc-9b7b-5f73de01d568" value="crotchet">
+                <location xpercent="0.06480497469371499"/>
+              </note>
+              <note hand="left" id="9101e700-61ba-4d8c-af27-a67003500699" value="crotchet">
+                <location xpercent="0.4679917976240426"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="b95588c2-b7eb-419f-8f29-82ce6360639d" value="crotchet">
+                <location xpercent="0.06480497469371499"/>
+              </note>
+              <note hand="right" id="df66985f-cd61-49ba-830d-b4e821fcf016" value="crotchet">
+                <location xpercent="0.4679917976240426"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.4718291565821259" id="8097bcb1-ebf0-3d13-a845-b327b48e2486" to="0.7555408907198513">
+            <bar-lines>
+              <end-bar-line id="b7c2cbe1-602b-4461-bbae-370aad731710" type="single">
+                <location xpercent="0.7555408907198513"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="54df7960-0524-4b90-abb5-ed11e2eab5c8" value="semiquaver">
+                <location xpercent="0.025600497205173652"/>
+              </note>
+              <note beam="true" hand="right" id="3d830520-9b18-47f7-9ab4-6aea1429c9c9" value="semiquaver">
+                <location xpercent="0.11469783572849816"/>
+              </note>
+              <note beam="true" hand="left" id="1bd7234b-873e-4634-96d9-12dec545cbcf" value="semiquaver">
+                <location xpercent="0.20379517425182228"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="3e91c57f-cb14-4149-a51b-cde2fecfb5a5" value="semiquaver">
+                <location xpercent="0.24474806056459864"/>
+              </note>
+              <note hand="left" id="deb1e1c6-ad1b-42c2-abcd-0d09cad382d9" value="demisemiquaver">
+                <location xpercent="0.4378278355512329"/>
+              </note>
+              <note beam="true" hand="right" id="fd11ab3d-0a73-43af-a51a-ba3979faf4c2" value="semiquaver">
+                <location xpercent="0.5128002486025868"/>
+              </note>
+              <note beam="true" hand="left" id="2bb8fd92-8824-4e9a-923a-2b73582e3637" value="semiquaver">
+                <location xpercent="0.6018975871259117"/>
+              </note>
+              <note beam="true" hand="right" id="0f86d1a0-f4de-49d8-ac75-96a75242fb38" value="semiquaver">
+                <location xpercent="0.6909949256492358"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="left" id="92ecef3c-f345-4df4-8685-bb9c0d25bd35" value="semiquaver">
+                <location xpercent="0.7492256933309914"/>
+              </note>
+              <note hand="right" id="bc5da90f-f487-441c-b267-13cee243573d" value="demisemiquaver">
+                <location xpercent="0.9250275869486464"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="right" id="b7dd0462-b0de-4677-a555-71b89c2a62bc" value="semiquaver">
+                <location xpercent="0.025600497205173652"/>
+              </note>
+              <note beam="true" hand="left" id="512fc355-b73b-4b5e-8999-497666ac666d" value="semiquaver">
+                <location xpercent="0.11469783572849816"/>
+              </note>
+              <note beam="true" hand="right" id="f9ead917-4aae-47b0-99f2-2da76eaba091" value="semiquaver">
+                <location xpercent="0.20379517425182228"/>
+              </note>
+              <rest id="bd8a8753-0aa3-430f-be78-13558826bfd8" value="quaver">
+                <location xpercent="0.29289251277514716"/>
+              </rest>
+              <note beam="true" hand="right" id="278a39cb-dc6c-4801-a6fc-cafc7f2a61ad" value="semiquaver">
+                <location xpercent="0.5128002486025868"/>
+              </note>
+              <note beam="true" hand="left" id="7b6858bf-718f-4a44-8f7a-51ac7396683d" value="semiquaver">
+                <location xpercent="0.6018975871259117"/>
+              </note>
+              <note beam="true" hand="right" id="3547e73d-097a-4ef0-a92e-865f6fc1d360" value="semiquaver">
+                <location xpercent="0.6909949256492358"/>
+              </note>
+              <rest id="caba32c8-268e-4923-92b3-4c2ded1a9e96" value="quaver">
+                <location xpercent="0.7800922641725604"/>
+              </rest>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="8cc794db-d7cc-447a-b643-7cb2ede1d64b" value="crotchet">
+                <location xpercent="0.025600497205173652"/>
+              </note>
+              <note hand="right" id="02612cba-5d50-4ccf-9d2f-17eb46c04776" value="crotchet">
+                <location xpercent="0.5128002486025868"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7555408907198513" id="e3fe8507-2f62-3af1-aa2b-9780f30c712f" to="1.0">
+            <bar-lines>
+              <end-bar-line id="7fd395b4-e370-4999-b1fb-88c0644fd567" type="single">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note dot="true" hand="left" id="fa54b54e-0466-4dd1-b62b-2a909d47dc54" value="semiquaver">
+                <location xpercent="0.029711150786139343"/>
+              </note>
+              <note grace-note="flam" hand="right" id="e49cc7de-485c-4097-a53c-3d9a6a6fa4aa" value="demisemiquaver">
+                <location xpercent="0.14204366241849944"/>
+              </note>
+              <note beam="true" hand="left" id="a8de20bc-f7dc-4e6b-8f4f-4f374a9437ae" value="semiquaver">
+                <location xpercent="0.284929314943012"/>
+              </note>
+              <note beam="true" hand="right" id="b7d175c0-3682-4e8c-9df0-93a58bc6167e" value="semiquaver">
+                <location xpercent="0.3883329495792651"/>
+              </note>
+              <note beam="true" hand="left" id="366f65ce-bad0-4d80-9334-41ded039e6b5" value="semiquaver">
+                <location xpercent="0.4917365842155178"/>
+              </note>
+              <note grace-note="flam" hand="right" id="1b0cea12-25b4-46b7-b588-2cc06d7ed97d" value="quaver">
+                <location xpercent="0.5392652462807457"/>
+              </note>
+              <note hand="left" id="94969031-5c1c-4c8f-83cc-e833db7a4774" value="quaver">
+                <location xpercent="0.795038268711259"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <rest id="b8d3fce9-fba5-407a-b9a4-da6bf6cbae0b" value="quaver">
+                <location xpercent="0.029711150786139343"/>
+              </rest>
+              <note beam="true" hand="right" id="ef8a4ba2-0a0e-49eb-8f4d-18d0812467f4" value="semiquaver">
+                <location xpercent="0.284929314943012"/>
+              </note>
+              <note beam="true" hand="left" id="273c04e2-6acc-48bf-a2d5-fd0c77c5736c" value="semiquaver">
+                <location xpercent="0.3883329495792651"/>
+              </note>
+              <note beam="true" hand="right" id="05c718b6-6251-4d44-afa4-53a32a4a2f64" value="semiquaver">
+                <location xpercent="0.4917365842155178"/>
+              </note>
+              <note hand="left" id="69f5a0cb-f50b-43c8-bcd3-530cfe6160fc" value="crotchet">
+                <location xpercent="0.5951402188517709"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="f3fc4234-f5cb-4320-aaac-465a45e20cd5" value="crotchet">
+                <location xpercent="0.029711150786139343"/>
+              </note>
+              <note hand="left" id="43b88c99-5585-4f78-8432-04036cd751cb" value="crotchet">
+                <location xpercent="0.5951402188517709"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+        <system connect-barlines="true" full-width="true" id="6724b17a-0df5-4fa3-a45a-f883c483125d" repeat-role="both" show-line-number="true">
+          <measure from="0.03698896550685693" id="76e5bb8e-0755-34e6-84b1-b76bf0612390" to="0.24679372238540132">
+            <bar-lines>
+              <start-bar-line id="80d35b82-2238-47aa-b36b-cec7f178de36" type="single">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="4a128749-8ac3-4cce-a84f-c5b14795d31a" type="single">
+                <location xpercent="0.24679372238540132"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="071c37f0-f2a8-44ad-acc6-4ee5a0fbbaac" value="crotchet">
+                <location xpercent="0.0567439369751055"/>
+              </note>
+              <note hand="right" id="7fc08b1e-11a1-41ee-8661-0ab8733d0a17" value="quaver">
+                <location xpercent="0.4634060822706513"/>
+              </note>
+              <note hand="left" id="e2c63b98-f768-46d9-ab8a-fd20fe5e3004" value="quaver">
+                <location xpercent="0.7317030411353259"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="6677bfcc-5f36-4d11-8539-32f731ee8892" value="crotchet">
+                <location xpercent="0.0567439369751055"/>
+              </note>
+              <note hand="left" id="c028efdc-54ab-4486-aa6c-d6cdb85fe8c2" value="crotchet">
+                <location xpercent="0.4634060822706513"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="4aaa4920-2051-49f6-b03e-3f7fa9794806" value="crotchet">
+                <location xpercent="0.0567439369751055"/>
+              </note>
+              <note hand="left" id="cc87bff0-1ecd-4327-9769-a363ac991fad" value="crotchet">
+                <location xpercent="0.4634060822706513"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.24679372238540132" id="779e2b50-8c1b-3c7d-8147-ff548554c099" to="0.45659847926394576">
+            <bar-lines>
+              <end-bar-line id="eb8eae6e-5700-4669-812d-917f32d6be6c" type="single">
+                <location xpercent="0.45659847926394576"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="b642113f-b494-4768-9494-7469d0cbf742" value="crotchet">
+                <location xpercent="0.05674393697510537"/>
+              </note>
+              <note hand="right" id="680012e3-a2a9-49ee-8110-8d123bbf3c4d" value="quaver">
+                <location xpercent="0.4634060822706509"/>
+              </note>
+              <note buzz="true" hand="right" id="2eafd0d1-5e09-4bf6-a2f2-f81f7dfcdfe1" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7317030411353255"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="ed8602cf-36a3-4214-9113-bcbd3d793b45" value="crotchet">
+                <location xpercent="0.05674393697510537"/>
+              </note>
+              <note hand="left" id="b256b3dd-345d-4280-8b89-861f3406ba94" value="crotchet">
+                <location xpercent="0.4634060822706509"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="0b296190-cbb1-4fa6-853f-7493d3e770c9" value="crotchet">
+                <location xpercent="0.05674393697510537"/>
+              </note>
+              <note hand="right" id="0911c4eb-5258-472e-adf9-cbcddc887e70" value="crotchet">
+                <location xpercent="0.4634060822706509"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.45659847926394576" id="21112b69-fbac-37b0-9860-ae1a177390f1" to="0.7823038661657619">
+            <bar-lines>
+              <end-bar-line id="d55d7fcb-52ae-45cc-b039-3a0c40db658a" type="single">
+                <location xpercent="0.7823038661657619"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="92e49d21-96f3-46d3-bd52-9473a0e3c1d9" value="semiquaver">
+                <location xpercent="0.02229978916209094"/>
+              </note>
+              <note beam="true" hand="right" id="18dd043b-56e4-4087-836e-d62a1c533b5e" value="semiquaver">
+                <location xpercent="0.11169893849405996"/>
+              </note>
+              <note beam="true" hand="left" id="c91f290e-64fe-4a4c-a2e2-f40b174ad8d8" value="semiquaver">
+                <location xpercent="0.20109808782602864"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="0483e7d7-3a62-4072-afe1-ed28270be08c" value="semiquaver">
+                <location xpercent="0.24856011675696718"/>
+              </note>
+              <note hand="left" id="48612233-2dbe-4368-b406-fc3de8464fb3" value="demisemiquaver">
+                <location xpercent="0.43592351788740874"/>
+              </note>
+              <note dot="true" hand="right" id="d18b2d6f-4f2a-4ec3-9fd1-fdac574b6905" value="semiquaver">
+                <location xpercent="0.5111498945810454"/>
+              </note>
+              <note grace-note="flam" hand="left" id="37b4f10a-0b77-4691-bcfa-77366d3c297b" value="demisemiquaver">
+                <location xpercent="0.6296892747785162"/>
+              </note>
+              <note beam="true" hand="right" id="b7a6966a-8972-4b4c-9ab9-59cba99984e0" value="semiquaver">
+                <location xpercent="0.7318025520040936"/>
+              </note>
+              <note beam="true" hand="left" id="979d9e7b-cd48-42cf-a2fd-27b81f09203d" value="semiquaver">
+                <location xpercent="0.8212017013360623"/>
+              </note>
+              <note beam="true" hand="right" id="39821123-9f5d-4a71-9e13-2ec43e790641" value="semiquaver">
+                <location xpercent="0.9106008506680313"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="left" id="d4ed89d2-51e1-4d78-8055-35ce878ab5ab" value="semiquaver">
+                <location xpercent="0.02229978916209094"/>
+              </note>
+              <note beam="true" hand="right" id="a2934e61-3471-439b-87c8-2ad3ce3d93cd" value="semiquaver">
+                <location xpercent="0.11169893849405996"/>
+              </note>
+              <note beam="true" hand="left" id="30ea9a96-4497-454c-b415-b12371e74e71" value="semiquaver">
+                <location xpercent="0.20109808782602864"/>
+              </note>
+              <rest id="ec3fab9f-a715-4055-9b4d-8952b8519db9" value="quaver">
+                <location xpercent="0.29049723715799697"/>
+              </rest>
+              <rest id="2614818d-3628-4b8f-b201-d7b0a3316131" value="quaver">
+                <location xpercent="0.5111498945810454"/>
+              </rest>
+              <note beam="true" hand="right" id="928d06bc-57d6-4253-a260-4b1acaeb566e" value="semiquaver">
+                <location xpercent="0.7318025520040936"/>
+              </note>
+              <note beam="true" hand="left" id="f5036fff-ea90-4038-9d20-d0589ddd938d" value="semiquaver">
+                <location xpercent="0.8212017013360623"/>
+              </note>
+              <note beam="true" hand="right" id="3ebe4a54-bd56-424f-ab67-7b092119d425" value="semiquaver">
+                <location xpercent="0.9106008506680313"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="2ad61f74-f2c6-4693-beec-ded5c4d42f41" value="crotchet">
+                <location xpercent="0.02229978916209094"/>
+              </note>
+              <note hand="right" id="e7acbcd8-a824-44e2-8df9-02f4f1639a00" value="crotchet">
+                <location xpercent="0.5111498945810454"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7823038661657619" id="1202e1b1-a228-3be1-9d9c-e484acb207a4" to="1.0">
+            <bar-lines>
+              <end-bar-line id="429f13eb-b54c-4946-9ce3-60d4e753d80b" type="repeat-end">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="left" id="0d53315c-8e4c-4051-b457-1bae90845e58" value="quaver">
+                <location xpercent="0.014570879209279564"/>
+              </note>
+              <note buzz="true" hand="right" id="ed8f9b4d-aaf5-49a7-9c01-d176e220395d" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.291935086596969"/>
+              </note>
+              <note hand="left" id="e9bfb3bf-1e67-405a-98dd-5ddb991aa28a" value="quaver">
+                <location xpercent="0.5505064136776658"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="757414b9-587a-4a98-bcdf-606f47581218" value="quaver">
+                <location xpercent="0.03336375951627259"/>
+              </note>
+              <note hand="left" id="f8cd55b9-addc-46bc-94af-a51428e547fc" value="quaver">
+                <location xpercent="0.291935086596969"/>
+              </note>
+              <note hand="right" id="529f8d6e-cbc5-4707-844e-f6538cad7ae8" value="crotchet">
+                <location xpercent="0.5505064136776658"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="d7c02ff1-eb2a-4834-bde9-e1f703914c63" value="crotchet">
+                <location xpercent="0.03336375951627259"/>
+              </note>
+              <note hand="left" id="d6d77652-1fe6-40af-b0a4-428396573257" value="crotchet">
+                <location xpercent="0.5505064136776658"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+      </part>
+      <part id="f9145ba9-8ff9-4f86-bb22-2611be40d72d">
+        <system connect-barlines="true" full-width="true" id="6736098f-0988-4b70-99e5-651e9bf295e7" repeat-role="both" show-line-number="true">
+          <measure anacrusis="true" from="0.03698896550685693" id="c1841180-a294-30ca-9146-c8019bbeee21" to="0.10198235305183334">
+            <bar-lines>
+              <start-bar-line id="93440238-b4ea-423f-bd6b-02e6a01663d3" type="repeat-start">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="acbffffb-1ad4-41cd-b9b4-edb164e176b9" type="single">
+                <location xpercent="0.10198235305183334"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note hand="left" id="e6649289-bc93-4101-acd9-3a6c367b3aa4" value="quaver">
+                <location xpercent="0.2855469226368712"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1"/>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1"/>
+          </measure>
+          <measure from="0.10198235305183334" id="f1d54403-1a3d-31f2-880c-12ff56442128" to="0.299657350488575">
+            <bar-lines>
+              <end-bar-line id="1807553c-efa4-476f-995e-fd9571bed3bc" type="single">
+                <location xpercent="0.299657350488575"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="73e25241-fe78-40bd-922c-c6a32e8d4992" value="quaver">
+                <location xpercent="0.06038241878065522"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="79d87938-8ca8-46cd-a93e-a728be558802" value="quaver">
+                <location xpercent="0.2952868140854914"/>
+              </note>
+              <note articulation="accent" hand="right" id="f068f4c9-350a-4ca9-be30-4d15cc10dbc4" value="quaver">
+                <location xpercent="0.5301912093903276"/>
+              </note>
+              <note hand="left" id="441926a1-3b56-4f1e-abbf-ad4c024a7908" value="quaver">
+                <location xpercent="0.7650956046951639"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="cb37083f-f8d4-4f6f-85cb-3d1bb4389cca" value="crotchet">
+                <location xpercent="0.06038241878065522"/>
+              </note>
+              <note hand="left" id="416b957d-01f7-4642-afaf-7f96aec0ffb8" value="crotchet">
+                <location xpercent="0.5301912093903275"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="adf35267-aafc-4dc7-b87e-b660b3a9c6b2" value="crotchet">
+                <location xpercent="0.06038241878065522"/>
+              </note>
+              <note hand="left" id="2f4509c6-1817-46b7-be74-5606a6b1618b" value="crotchet">
+                <location xpercent="0.5301912093903275"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.299657350488575" id="c5b406a3-65f1-3e51-b71d-c3622736edc5" to="0.49733234792531666">
+            <bar-lines>
+              <end-bar-line id="3c8fed94-7a03-44ad-9cb1-91b8f83d23aa" type="single">
+                <location xpercent="0.49733234792531666"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="3138e804-21b1-4865-bd9f-2cf5859e92da" value="quaver">
+                <location xpercent="0.06038241878065499"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="90b396be-1d00-4ee9-aa88-beb51ad4e69d" value="quaver">
+                <location xpercent="0.295286814085491"/>
+              </note>
+              <note articulation="accent" hand="right" id="f3ea483c-08b9-4ff0-8fc5-b85a1d706b20" value="quaver">
+                <location xpercent="0.5301912093903274"/>
+              </note>
+              <note buzz="true" hand="right" id="ed88fc15-8d53-455e-8960-ef38a7aeb7bc" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7650956046951637"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="c3ce6e2a-08d5-4151-a3ba-b0371dc52432" value="crotchet">
+                <location xpercent="0.06038241878065499"/>
+              </note>
+              <note hand="left" id="47d347b6-4fb6-42db-81bd-3deec37171a4" value="crotchet">
+                <location xpercent="0.5301912093903274"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="00c91175-9092-431b-b868-881e8532e86b" value="crotchet">
+                <location xpercent="0.06038241878065499"/>
+              </note>
+              <note hand="right" id="e058739b-e89b-40c7-b777-91dc6308eb09" value="crotchet">
+                <location xpercent="0.5301912093903274"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.49733234792531666" id="a8e7c619-9217-3269-afd1-201d033b0f76" to="0.76728485246855">
+            <bar-lines>
+              <end-bar-line id="29a53b65-b991-4156-b15b-a8f03701ae26" type="single">
+                <location xpercent="0.76728485246855"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="d6eb8749-4d34-47de-a749-ca0b8f5ac043" value="semiquaver">
+                <location xpercent="0.026905330880916505"/>
+              </note>
+              <note beam="true" hand="right" id="8df95aa4-bfab-4c6b-83ca-fa136312409c" value="semiquaver">
+                <location xpercent="0.11588335775907785"/>
+              </note>
+              <note beam="true" hand="left" id="961912c0-febd-46a3-8861-00b1360d6301" value="semiquaver">
+                <location xpercent="0.2048613846372396"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="1e7cae14-312e-470f-a0c3-2d8f5d35bdd2" value="semiquaver">
+                <location xpercent="0.24584415323514208"/>
+              </note>
+              <note hand="left" id="534003eb-0393-4a39-9679-cf737876bb71" value="demisemiquaver">
+                <location xpercent="0.44043802138423005"/>
+              </note>
+              <note beam="true" hand="right" id="f35d01eb-0f4f-473e-8c14-4c79dad826e0" value="semiquaver">
+                <location xpercent="0.5150242171923729"/>
+              </note>
+              <note beam="true" hand="left" id="7d027efa-1b55-4cff-bdae-e6667dc55f5e" value="semiquaver">
+                <location xpercent="0.6036625745109926"/>
+              </note>
+              <note beam="true" hand="right" id="63478b06-3cab-4291-9e7c-69e975048533" value="semiquaver">
+                <location xpercent="0.6923009318296122"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="left" id="5142d547-f532-42df-a98d-b1b9a26ab7f1" value="semiquaver">
+                <location xpercent="0.7486233152265873"/>
+              </note>
+              <note hand="right" id="223f2b6a-ac70-48e2-a699-b4d846f42ead" value="demisemiquaver">
+                <location xpercent="0.9251279836842976"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="right" id="4c7bdb88-baa5-4b66-a6e4-311c949f1bbc" value="semiquaver">
+                <location xpercent="0.026905330880916505"/>
+              </note>
+              <note beam="true" hand="left" id="98596bc8-8f96-49b8-b3a7-0ec47fb41d58" value="semiquaver">
+                <location xpercent="0.11588335775907785"/>
+              </note>
+              <note beam="true" hand="right" id="d2c2f1ef-bd9c-43f9-a7d9-a11e1a8bad3a" value="semiquaver">
+                <location xpercent="0.2048613846372396"/>
+              </note>
+              <rest id="4926f5e6-2e01-48a8-9f8b-b93a2863dba9" value="quaver">
+                <location xpercent="0.2964424836669238"/>
+              </rest>
+              <note beam="true" hand="right" id="76031afb-36e0-491e-a062-463a9b43dadc" value="semiquaver">
+                <location xpercent="0.5150242171923729"/>
+              </note>
+              <note beam="true" hand="left" id="94644789-c7ec-4554-a060-03d00e8816a4" value="semiquaver">
+                <location xpercent="0.6036625745109926"/>
+              </note>
+              <note beam="true" hand="right" id="30c77384-ad9f-437e-8e2e-ce5960bb912a" value="semiquaver">
+                <location xpercent="0.6923009318296122"/>
+              </note>
+              <rest id="f05e66bb-44cf-4a1c-9714-fe685e11a197" value="quaver">
+                <location xpercent="0.7810631266488369"/>
+              </rest>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="6be40629-1a1d-4ac8-baf5-6e10decc0891" value="crotchet">
+                <location xpercent="0.026905330880916505"/>
+              </note>
+              <note hand="right" id="822c1448-c548-4a00-bd1a-650ad8a3873a" value="crotchet">
+                <location xpercent="0.5150242171923729"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.76728485246855" id="8917fae4-5b60-3183-9ad8-aae97b7f96ac" to="1.0">
+            <bar-lines>
+              <end-bar-line id="0abcdd68-91f7-4d0b-a620-7caba9a53809" type="single">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note dot="true" hand="left" id="540ed3d6-2ceb-41a1-b563-1b038bba326b" value="semiquaver">
+                <location xpercent="0.031210522967295217"/>
+              </note>
+              <note grace-note="flam" hand="right" id="d59b8818-d1fa-49e7-9576-c6e2972c6e6d" value="demisemiquaver">
+                <location xpercent="0.1404174819776985"/>
+              </note>
+              <note beam="true" hand="left" id="8383ab64-fbc2-4911-9657-94375477bfb6" value="semiquaver">
+                <location xpercent="0.28596466577592516"/>
+              </note>
+              <note beam="true" hand="right" id="d3e1c861-7c05-406d-9fdb-35f089e7b437" value="semiquaver">
+                <location xpercent="0.3891802985349774"/>
+              </note>
+              <note beam="true" hand="left" id="a6cae002-61ea-4f49-9361-085b70f33646" value="semiquaver">
+                <location xpercent="0.4923959312940301"/>
+              </note>
+              <note grace-note="flam" hand="right" id="1f164050-49ce-4a00-9d22-9f136dd88563" value="quaver">
+                <location xpercent="0.5399364594610864"/>
+              </note>
+              <note hand="left" id="34edb949-cf2c-4fa1-b33e-15e52d884a7e" value="quaver">
+                <location xpercent="0.7951461720591537"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <rest id="368d41a7-54ce-4a9c-8a4a-c3c5f8272dc4" value="quaver">
+                <location xpercent="0.031210522967295217"/>
+              </rest>
+              <note beam="true" hand="right" id="0d616655-43c1-47b1-8a61-16db2ee6dcf7" value="semiquaver">
+                <location xpercent="0.28596466577592516"/>
+              </note>
+              <note beam="true" hand="left" id="ce46402b-5a50-4d96-a374-b636f587e64d" value="semiquaver">
+                <location xpercent="0.3891802985349774"/>
+              </note>
+              <note beam="true" hand="right" id="7fd7ce76-65b9-4d86-81e5-8dc39be1214b" value="semiquaver">
+                <location xpercent="0.4923959312940301"/>
+              </note>
+              <note hand="left" id="063e1ba9-c9dd-47d6-8074-2872700d257d" value="crotchet">
+                <location xpercent="0.5986311605609348"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="865d8e2f-f63e-4d3f-ab34-787a4f46607c" value="crotchet">
+                <location xpercent="0.031210522967295217"/>
+              </note>
+              <note hand="left" id="fd50d271-a55a-485b-a4d7-13d7c0006f29" value="crotchet">
+                <location xpercent="0.5986311605609348"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+        <system connect-barlines="true" full-width="true" id="6b5fbbb1-80b1-4745-9098-4ff5a6ee4a50" repeat-role="both" show-line-number="true">
+          <measure from="0.03698896550685693" id="550ecb84-d1f0-376a-9560-9d2873219128" to="0.261371329968216">
+            <bar-lines>
+              <start-bar-line id="f5f134ef-8c56-43b4-be8a-8de852ace8bb" type="single">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="d63f5f0a-2417-405a-9caa-e25b2be61a77" type="single">
+                <location xpercent="0.261371329968216"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="9dd2ba80-bcbc-4778-9708-5ff36ecc9a88" value="quaver">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="2727cbeb-789c-4d3f-ba0d-ad45afaa379e" value="quaver">
+                <location xpercent="0.28989649935170975"/>
+              </note>
+              <note articulation="accent" hand="right" id="fb8af105-9689-4a54-a9a7-78d512014e24" value="quaver">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+              <note hand="left" id="0656532a-9e29-459e-a356-06f5ff79e19a" value="quaver">
+                <location xpercent="0.7632988331172366"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="298cb733-2f6f-4f4b-9846-15e9700a9db7" value="crotchet">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note hand="left" id="67dc9311-f968-4155-aca0-555359f1c513" value="crotchet">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="02692a07-1d38-447e-9a67-654a2c374f24" value="crotchet">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note hand="left" id="7787ac9c-628b-4f09-b08e-d51b909f3242" value="crotchet">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.261371329968216" id="0f2c192e-9d0d-3027-b02b-64e1481931c2" to="0.48575369442957506">
+            <bar-lines>
+              <end-bar-line id="3422543f-2863-4a7b-9fff-38942721ae7b" type="single">
+                <location xpercent="0.48575369442957506"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="f7a011cc-a301-4170-a95b-71db881ad678" value="quaver">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="20ae7b48-d843-4ca6-a8b0-f05181f249d3" value="quaver">
+                <location xpercent="0.2898964993517095"/>
+              </note>
+              <note articulation="accent" hand="right" id="408b23d8-ea2c-4b78-8e39-070fa8988a78" value="quaver">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+              <note buzz="true" hand="right" id="fcceca14-c16c-4046-91a7-54a6592cf571" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7632988331172363"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="18907443-7d0e-4ec1-b79b-1a402b073c8e" value="crotchet">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note hand="left" id="35f1b5b0-5423-4403-939d-ce432f0087ce" value="crotchet">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="1e322b23-5a70-437e-b6d5-5bcd64afc1ab" value="crotchet">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note hand="right" id="011548ee-6601-4c72-88c2-b8b24043cc98" value="crotchet">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.48575369442957506" id="4e31fe81-4d8e-36de-855c-d492f96b31ed" to="0.7934782574241819">
+            <bar-lines>
+              <end-bar-line id="5443f11b-466d-45a5-b2f0-567de3afe070" type="single">
+                <location xpercent="0.7934782574241819"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="f1f618a4-3e50-4009-8164-a058ce025f6b" value="semiquaver">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note beam="true" hand="right" id="8fa13c8f-8a7c-4f6f-81cc-e3c9cf605821" value="semiquaver">
+                <location xpercent="0.1128828047813609"/>
+              </note>
+              <note beam="true" hand="left" id="2417ce4a-f870-4ea8-bb0d-30d7f2a1c10e" value="semiquaver">
+                <location xpercent="0.2021628091031595"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="7ebfe848-84f2-4495-8380-d90e7b049b01" value="semiquaver">
+                <location xpercent="0.2470552419784595"/>
+              </note>
+              <note hand="left" id="8316376c-dbf9-4ada-81c0-ce6bde26b58f" value="demisemiquaver">
+                <location xpercent="0.4366752800540557"/>
+              </note>
+              <note dot="true" hand="right" id="f257a044-7d9c-463c-b120-6b50c836c11a" value="semiquaver">
+                <location xpercent="0.5118014002297815"/>
+              </note>
+              <note grace-note="flam" hand="left" id="a6eb4ade-f1c4-4e93-bbc8-c19172e77577" value="demisemiquaver">
+                <location xpercent="0.6285759229913958"/>
+              </note>
+              <note beam="true" hand="right" id="eabe22ff-3adb-4e20-bc18-317edf9a68d3" value="semiquaver">
+                <location xpercent="0.7321599870346048"/>
+              </note>
+              <note beam="true" hand="left" id="131e4989-3b89-4838-811f-313e417119ea" value="semiquaver">
+                <location xpercent="0.8214399913564034"/>
+              </note>
+              <note beam="true" hand="right" id="4f24f3ab-9c0d-464b-ae57-73dc02559452" value="semiquaver">
+                <location xpercent="0.9107199956782017"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="left" id="c6fefffe-3574-4d5b-8a88-d0f76570d54e" value="semiquaver">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note beam="true" hand="right" id="c31a8af2-4b7a-4a1d-934e-26c53a6f871e" value="semiquaver">
+                <location xpercent="0.1128828047813609"/>
+              </note>
+              <note beam="true" hand="left" id="ae58f2b1-2a54-4a7f-b695-ea152cae0a1f" value="semiquaver">
+                <location xpercent="0.2021628091031595"/>
+              </note>
+              <rest id="057e223c-26d7-41c5-92ec-fecaeeb931a1" value="quaver">
+                <location xpercent="0.2914428134249578"/>
+              </rest>
+              <rest id="64ecc74b-e145-400e-9487-bbbaf8db252e" value="quaver">
+                <location xpercent="0.5118014002297815"/>
+              </rest>
+              <note beam="true" hand="right" id="93dfd244-2c93-48af-8441-d51cffca6248" value="semiquaver">
+                <location xpercent="0.7321599870346048"/>
+              </note>
+              <note beam="true" hand="left" id="08c16cdc-079a-4d8b-ac2e-63991ee026ca" value="semiquaver">
+                <location xpercent="0.8214399913564034"/>
+              </note>
+              <note beam="true" hand="right" id="4265bda2-fc96-4fcb-8291-c2b7d5f58bfa" value="semiquaver">
+                <location xpercent="0.9107199956782017"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="d5806666-7ab6-4441-99d7-b0dfe149b862" value="crotchet">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note hand="right" id="d8a6f07e-c24f-438e-8671-100dcac8099d" value="crotchet">
+                <location xpercent="0.5118014002297815"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7934782574241819" id="90c186a0-6491-3a45-8e23-c2960a83f2dc" to="1.0">
+            <bar-lines>
+              <end-bar-line id="db54c5dc-4135-4d54-9d4d-5827ce919636" type="repeat-end">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="left" id="ed056c83-9ab2-4dcd-b122-2d5404c040ca" value="quaver">
+                <location xpercent="0.01535927419003512"/>
+              </note>
+              <note buzz="true" hand="right" id="35dc7f15-b846-42d0-9e8a-c81ccb8057f5" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.29234078794691665"/>
+              </note>
+              <note hand="left" id="1419f6ce-017f-4fc3-aa23-9a2ef06e07bb" value="quaver">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="cd76bc68-927a-4ecb-a672-782d9655daa7" value="quaver">
+                <location xpercent="0.03516899173074411"/>
+              </note>
+              <note hand="left" id="a0ee6508-aa41-47dd-8a4a-86ff27c6f7f0" value="quaver">
+                <location xpercent="0.29234078794691665"/>
+              </note>
+              <note hand="right" id="b4acc0bd-ef74-4a60-b345-09dbe06a86ae" value="crotchet">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="00e32e69-0ec2-4962-9252-12833e69da5a" value="crotchet">
+                <location xpercent="0.03516899173074411"/>
+              </note>
+              <note hand="left" id="562812b9-fae1-4587-bc30-1d0621a2fa54" value="crotchet">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+      </part>
+      <part id="309436ca-a297-4646-9a36-b10e1944f73b">
+        <system connect-barlines="true" full-width="true" id="51060c96-7fb2-4325-af8a-cfaf3e871195" repeat-role="both" show-line-number="true">
+          <measure anacrusis="true" from="0.03698896550685693" id="2e9e84f5-cf9d-3fc6-8063-9c6de82668ea" to="0.11400258339275476">
+            <bar-lines>
+              <start-bar-line id="4e4f74fa-e27f-4be7-b881-c95b7e704d66" type="repeat-start">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="afb37006-879a-4e49-be2b-4f53a9176264" type="single">
+                <location xpercent="0.11400258339275476"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note dot="true" hand="right" id="2325f919-bb93-48c1-9a5b-7301a287077c" value="semiquaver">
+                <location xpercent="0.24097896339203004"/>
+              </note>
+              <note hand="left" id="a584e8c4-8ab2-46e8-a14f-dcf935d9961c" value="demisemiquaver">
+                <location xpercent="0.7412294821865966"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1"/>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1"/>
+          </measure>
+          <measure from="0.11400258339275476" id="e5657281-b444-3f64-b45c-4ff9d32d9203" to="0.3090766102939147">
+            <bar-lines>
+              <end-bar-line id="9caa7dda-504b-49ba-80df-f7a56dc7ee3c" type="single">
+                <location xpercent="0.3090766102939147"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="2214dd7d-7769-4aca-83b7-26375987f332" value="quaver">
+                <location xpercent="0.06118751259355536"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="84a08999-e844-4b3e-889a-a860310c378b" value="quaver">
+                <location xpercent="0.2958906344451665"/>
+              </note>
+              <note buzz="true" hand="right" id="43a764bb-a861-487c-ad7f-0a1469afebbc" value="quaver">
+                <location xpercent="0.5305937562967776"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="28d2851f-be13-4613-b2a5-0c968b8f2c25" value="quaver">
+                <location xpercent="0.7652968781483889"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="2ccae4ad-2ce2-441e-8db2-93fe2f505f2d" value="crotchet">
+                <location xpercent="0.06118751259355536"/>
+              </note>
+              <note hand="left" id="6afebc78-ff32-40c8-b325-e29acda12e9c" value="crotchet">
+                <location xpercent="0.5305937562967776"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="cd2c8819-4c71-42c4-9d0d-4642e1cca0af" value="crotchet">
+                <location xpercent="0.06118751259355536"/>
+              </note>
+              <note hand="left" id="691da127-7842-4e21-8755-2cce7a5f9f2a" value="crotchet">
+                <location xpercent="0.5305937562967776"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.3090766102939147" id="161769e3-345a-361b-92e1-6a1645797405" to="0.5041506371950747">
+            <bar-lines>
+              <end-bar-line id="7d7f8f3d-0006-403a-bbe6-dcc6fed55c87" type="single">
+                <location xpercent="0.5041506371950747"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="6a149e5e-07e0-49f6-857c-9381c87e4450" value="quaver">
+                <location xpercent="0.06118751259355486"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="1a72c1a9-6d3e-448a-b95b-6639619ea3b3" value="quaver">
+                <location xpercent="0.295890634445166"/>
+              </note>
+              <note articulation="accent" hand="right" id="b15b6c10-6003-48b6-8885-74b8185823a2" value="quaver">
+                <location xpercent="0.5305937562967772"/>
+              </note>
+              <note buzz="true" hand="right" id="4d115d26-06dd-482a-9afb-5b8eaf00be55" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7652968781483885"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="e7439da2-349a-4592-abd0-780711e696f7" value="crotchet">
+                <location xpercent="0.06118751259355486"/>
+              </note>
+              <note hand="left" id="4e4fc861-0e1e-4fef-a72e-cb64cc50a56b" value="crotchet">
+                <location xpercent="0.5305937562967772"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="329871ad-0c88-4cd6-9022-291a112e8c1c" value="crotchet">
+                <location xpercent="0.06118751259355486"/>
+              </note>
+              <note hand="right" id="66af4613-9b56-462e-976d-e5744ad64c95" value="crotchet">
+                <location xpercent="0.5305937562967772"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.5041506371950747" id="c79cda6b-bd26-3020-8c3f-b5932fb1ace3" to="0.7704246057369969">
+            <bar-lines>
+              <end-bar-line id="cf8a7696-c70d-475f-81ca-892b31092103" type="single">
+                <location xpercent="0.7704246057369969"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="003a4589-769b-4cf9-9163-f5ccf8f8e408" value="semiquaver">
+                <location xpercent="0.027277024099050445"/>
+              </note>
+              <note beam="true" hand="right" id="8bdebcb8-3475-4020-a53c-3655a48db802" value="semiquaver">
+                <location xpercent="0.11622106401766609"/>
+              </note>
+              <note beam="true" hand="left" id="f042e301-376a-4f2c-81a9-dca3df043974" value="semiquaver">
+                <location xpercent="0.20516510393628173"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="f3e697d8-4100-464c-bbf0-33d6dd587cf2" value="semiquaver">
+                <location xpercent="0.24671404349917309"/>
+              </note>
+              <note hand="left" id="e514d68b-a922-403d-8828-429333dc3cd4" value="demisemiquaver">
+                <location xpercent="0.44157653098977506"/>
+              </note>
+              <note beam="true" hand="right" id="81a36213-fd4d-4a8b-9928-d1cfec4a0749" value="semiquaver">
+                <location xpercent="0.5159919289169784"/>
+              </note>
+              <note beam="true" hand="left" id="be6cb541-9a7e-4a89-8c1b-583350ab919f" value="semiquaver">
+                <location xpercent="0.6044273097540128"/>
+              </note>
+              <note beam="true" hand="right" id="33c5f7a9-a21d-4ce5-b224-aba96ba4bc3c" value="semiquaver">
+                <location xpercent="0.6928626905910464"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="left" id="c295f9da-57ef-403b-a317-84b0d26b79ec" value="semiquaver">
+                <location xpercent="0.7485981906118325"/>
+              </note>
+              <note hand="right" id="a52ac2d1-cd76-47a8-ac5c-66d97ab6849e" value="demisemiquaver">
+                <location xpercent="0.9251565825674031"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="right" id="53a29643-129a-47bc-a9e6-35d77b097b6d" value="semiquaver">
+                <location xpercent="0.027277024099050445"/>
+              </note>
+              <note beam="true" hand="left" id="c30875ea-28d7-4f77-86cc-3b618d4ed2df" value="semiquaver">
+                <location xpercent="0.11622106401766609"/>
+              </note>
+              <note beam="true" hand="right" id="30dad844-8a24-43c4-9576-9c6703593b19" value="semiquaver">
+                <location xpercent="0.20516510393628173"/>
+              </note>
+              <rest id="5f2276b5-957d-4269-9521-d1d8b03b1d42" value="quaver">
+                <location xpercent="0.2980113824788754"/>
+              </rest>
+              <note beam="true" hand="right" id="9026df9a-eaeb-44d2-a726-0711486fb302" value="semiquaver">
+                <location xpercent="0.5159919289169784"/>
+              </note>
+              <note beam="true" hand="left" id="191a2c22-af1d-4692-807f-b5d312f5ba03" value="semiquaver">
+                <location xpercent="0.6044273097540128"/>
+              </note>
+              <note beam="true" hand="right" id="8d694e15-61dc-42e5-bea4-ff736519e9ac" value="semiquaver">
+                <location xpercent="0.6928626905910464"/>
+              </note>
+              <rest id="898500ae-312c-4717-b366-79fdbabd910b" value="quaver">
+                <location xpercent="0.7814861532928996"/>
+              </rest>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="67a3ec9c-7e85-42e6-ae21-5bea00bc6eb7" value="crotchet">
+                <location xpercent="0.027277024099050445"/>
+              </note>
+              <note hand="right" id="8ae9e0d8-04e2-49e2-8dce-4a32981b2447" value="crotchet">
+                <location xpercent="0.5159919289169784"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7704246057369969" id="324a5623-08ba-321d-8f54-7d993b867ae2" to="1.0">
+            <bar-lines>
+              <end-bar-line id="063f9fd0-5a72-40e4-87a9-e1d822eb91ec" type="single">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note dot="true" hand="left" id="170bf64b-246c-4817-8fd5-bac3741afdb5" value="semiquaver">
+                <location xpercent="0.03163736897930396"/>
+              </note>
+              <note grace-note="flam" hand="right" id="abfadaa9-1f65-4a2a-ada4-9aa602accd44" value="demisemiquaver">
+                <location xpercent="0.13995453578949574"/>
+              </note>
+              <note beam="true" hand="left" id="799757e4-e9b4-43f9-9781-e45f2670575d" value="semiquaver">
+                <location xpercent="0.28625941272375605"/>
+              </note>
+              <note beam="true" hand="right" id="f6e1656d-e397-458c-b936-e143e657e632" value="semiquaver">
+                <location xpercent="0.389421524514138"/>
+              </note>
+              <note beam="true" hand="left" id="71544a31-09cc-4cd8-b7ae-f0c9e8cb1b45" value="semiquaver">
+                <location xpercent="0.4925836363045204"/>
+              </note>
+              <note grace-note="flam" hand="right" id="519b4b22-571f-4e0c-9b79-10785fb38b2f" value="quaver">
+                <location xpercent="0.5407743453377591"/>
+              </note>
+              <note hand="left" id="4095027c-6dfd-4bd3-bc19-b2ab6091885f" value="quaver">
+                <location xpercent="0.7951768903253122"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <rest id="bada6444-baa5-4a53-8c06-577cdfcfa11a" value="quaver">
+                <location xpercent="0.03163736897930396"/>
+              </rest>
+              <note beam="true" hand="right" id="fc027276-b11f-437f-8326-bb68392ae0d6" value="semiquaver">
+                <location xpercent="0.28625941272375605"/>
+              </note>
+              <note beam="true" hand="left" id="569a4da7-4b25-4433-9347-19b9e36d93d9" value="semiquaver">
+                <location xpercent="0.389421524514138"/>
+              </note>
+              <note beam="true" hand="right" id="fca2fb12-54fc-4d67-b228-10bc0abeea17" value="semiquaver">
+                <location xpercent="0.4925836363045204"/>
+              </note>
+              <note hand="left" id="c763c5d2-920d-45c2-97e2-a5792554bd32" value="crotchet">
+                <location xpercent="0.6002717756682829"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="bb3d30eb-8e12-4124-905d-9587179dce87" value="crotchet">
+                <location xpercent="0.03163736897930396"/>
+              </note>
+              <note hand="right" id="d5a93099-c54f-4ee4-a7c0-096111cf84f5" value="crotchet">
+                <location xpercent="0.6002717756682829"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+        <system connect-barlines="true" full-width="true" id="21dff444-7733-4c0a-a33e-aab2ad9006b3" repeat-role="both" show-line-number="true">
+          <measure from="0.03698896550685693" id="f41059d5-ff34-3f2b-839e-4fa16b9e8aa4" to="0.261371329968216">
+            <bar-lines>
+              <start-bar-line id="d7d71873-8e8e-4989-a4df-a5d45c58460c" type="single">
+                <location xpercent="0.03698896550685693"/>
+              </start-bar-line>
+              <end-bar-line id="a5575777-5730-41bc-930d-a619121241bc" type="single">
+                <location xpercent="0.261371329968216"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note articulation="accent" buzz="true" hand="right" id="ba89759b-cf0a-4ad0-b6f5-f4b2dcb14b62" value="quaver">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="f1727499-9f23-435b-9d75-5a300edef0ec" value="quaver">
+                <location xpercent="0.28989649935170975"/>
+              </note>
+              <note buzz="true" hand="right" id="ee0b560c-6d48-446f-a88f-ded9255b0246" value="quaver">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="f355dfeb-c228-4b68-8fe2-b58f78887c0d" value="quaver">
+                <location xpercent="0.7632988331172366"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="764e307e-e677-4547-b908-a315875ebf3f" value="crotchet">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note hand="left" id="ac6440d2-2272-4c93-84a3-11b73736449e" value="crotchet">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="8460a94c-5b5c-4aea-8710-a2d76ce0456c" value="crotchet">
+                <location xpercent="0.05319533246894635"/>
+              </note>
+              <note hand="left" id="31ec9cdb-ae5c-4249-81b8-6d4ce8a9a6a5" value="crotchet">
+                <location xpercent="0.5265976662344732"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.261371329968216" id="6701cb88-14f4-3066-8821-bd269ff6e9cd" to="0.48575369442957506">
+            <bar-lines>
+              <end-bar-line id="91a91543-f5f9-42a5-8ef7-f078c5ee2e36" type="single">
+                <location xpercent="0.48575369442957506"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note buzz="true" hand="right" id="f6b3ea0a-2bc9-45e6-b680-8b6c4c0604a3" value="quaver">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note articulation="accent" buzz="true" hand="left" id="7bf51f25-8ecd-46f0-a77e-465c58b53eb7" value="quaver">
+                <location xpercent="0.2898964993517095"/>
+              </note>
+              <note articulation="accent" hand="right" id="1846f37e-18f0-425d-ac54-b84531341272" value="quaver">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+              <note buzz="true" hand="right" id="e6078d41-ba13-49bb-965c-9a99524a74b0" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.7632988331172363"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="ccf7c062-2945-4bc9-b3aa-28604821b860" value="crotchet">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note hand="left" id="76d1b88b-6a99-41b7-844a-656c469085ad" value="crotchet">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="f79d107e-5b55-47a6-9b96-9c56dfc08288" value="crotchet">
+                <location xpercent="0.05319533246894612"/>
+              </note>
+              <note hand="right" id="232b4c36-418d-49b9-b575-17c48fe184f4" value="crotchet">
+                <location xpercent="0.5265976662344729"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.48575369442957506" id="d040c88c-415b-343f-89ae-bba4bb653cf9" to="0.7934782574241819">
+            <bar-lines>
+              <end-bar-line id="df41190a-43d7-4b3e-ba61-e054fbb5c877" type="single">
+                <location xpercent="0.7934782574241819"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note beam="true" hand="left" id="6e2d72f0-fda2-417b-8356-328ff4e2d589" value="semiquaver">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note beam="true" hand="right" id="95ed5603-532a-44b6-ba80-43da63b174b1" value="semiquaver">
+                <location xpercent="0.1128828047813609"/>
+              </note>
+              <note beam="true" hand="left" id="9bc447e8-f41a-48f2-89ed-058a4be7fec0" value="semiquaver">
+                <location xpercent="0.2021628091031595"/>
+              </note>
+              <note dot="true" grace-note="flam" hand="right" id="e04eb573-90a5-4f71-8908-8539964c92ed" value="semiquaver">
+                <location xpercent="0.2470552419784595"/>
+              </note>
+              <note hand="left" id="ad0fb7c1-fe29-493f-9573-3b4fd1fccc10" value="demisemiquaver">
+                <location xpercent="0.4366752800540557"/>
+              </note>
+              <note dot="true" hand="right" id="611dad6f-6717-4a64-8ea2-1b86712ead68" value="semiquaver">
+                <location xpercent="0.5118014002297815"/>
+              </note>
+              <note grace-note="flam" hand="left" id="5ebf4034-0dd4-474a-808f-62c16b0842d9" value="demisemiquaver">
+                <location xpercent="0.6285759229913958"/>
+              </note>
+              <note beam="true" hand="right" id="07931c36-7b8e-41be-8b8f-95dac96583f1" value="semiquaver">
+                <location xpercent="0.7321599870346048"/>
+              </note>
+              <note beam="true" hand="left" id="0dd12c4c-af29-4b81-a8d8-94fda89714c7" value="semiquaver">
+                <location xpercent="0.8214399913564034"/>
+              </note>
+              <note beam="true" hand="right" id="f27c3cd0-519b-412c-bfac-ec7b777332ec" value="semiquaver">
+                <location xpercent="0.9107199956782017"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note beam="true" hand="left" id="0692de37-0cc9-41e3-bee0-c453e84104bb" value="semiquaver">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note beam="true" hand="right" id="fbca6287-2fbd-401b-8507-72d4f05a88ba" value="semiquaver">
+                <location xpercent="0.1128828047813609"/>
+              </note>
+              <note beam="true" hand="left" id="b2298f31-5c58-4ee6-8f5b-b430659a8a99" value="semiquaver">
+                <location xpercent="0.2021628091031595"/>
+              </note>
+              <rest id="d554e7ab-7a75-4dca-a951-cb4e6a91932a" value="quaver">
+                <location xpercent="0.2914428134249578"/>
+              </rest>
+              <rest id="8349f04c-4668-4722-84ab-8113492becaa" value="quaver">
+                <location xpercent="0.5118014002297815"/>
+              </rest>
+              <note beam="true" hand="right" id="c155d5a3-5e55-4e1a-a761-313643a94655" value="semiquaver">
+                <location xpercent="0.7321599870346048"/>
+              </note>
+              <note beam="true" hand="left" id="1295878d-e33a-4cf8-addd-68c8718034ce" value="semiquaver">
+                <location xpercent="0.8214399913564034"/>
+              </note>
+              <note beam="true" hand="right" id="d23002d2-a7ea-4a2d-a1c6-3fbca0dc3b5f" value="semiquaver">
+                <location xpercent="0.9107199956782017"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="right" id="0a0ce8ff-057d-40ec-be95-3f8fb0186ffa" value="crotchet">
+                <location xpercent="0.02360280045956244"/>
+              </note>
+              <note hand="right" id="0e7f3438-8a05-4df5-befd-6016f03ac2c2" value="crotchet">
+                <location xpercent="0.5118014002297815"/>
+              </note>
+            </voice>
+          </measure>
+          <measure from="0.7934782574241819" id="62f6dea2-c7aa-336d-aad5-6bc4bd7a6d7a" to="1.0">
+            <bar-lines>
+              <end-bar-line id="ee15fd76-2f07-4c8b-8c3c-b86a65f1eda6" type="repeat-end">
+                <location xpercent="1.0"/>
+              </end-bar-line>
+            </bar-lines>
+            <voice instrument="0ae580ef-44de-3599-9ae2-4b3a02bbd0b5" number="1">
+              <note grace-note="flam" hand="left" id="d6313b97-5efe-4c0b-8eba-00812c6a0da6" value="quaver">
+                <location xpercent="0.01535927419003512"/>
+              </note>
+              <note buzz="true" hand="right" id="6078123d-54ca-4d31-be72-2a43a1145bfe" roll-slashes-override="2" value="quaver">
+                <location xpercent="0.29234078794691665"/>
+              </note>
+              <note hand="left" id="68da6183-24a3-460e-afe0-b33c6295f94d" value="quaver">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+            <voice instrument="07f5c015-5706-4c93-b461-1ed69f243ba8" number="1">
+              <note hand="right" id="af7a8b4f-27bb-4046-a53c-f84a8864756a" value="quaver">
+                <location xpercent="0.03516899173074411"/>
+              </note>
+              <note hand="left" id="ceefd29f-aa3d-41bb-a4cf-b69deb6dd487" value="quaver">
+                <location xpercent="0.29234078794691665"/>
+              </note>
+              <note hand="right" id="2c147db5-3beb-4b8b-8102-2ebce03680e8" value="crotchet">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+            <voice instrument="db81d85c-9028-4037-ba14-9fd793e4a287" number="1">
+              <note hand="left" id="cf071902-5257-4b45-afd4-a07047f7503e" value="crotchet">
+                <location xpercent="0.03516899173074411"/>
+              </note>
+              <note hand="left" id="cf10d9bf-b2cb-4795-a59c-dbbeea50c5e7" value="crotchet">
+                <location xpercent="0.5495125841630891"/>
+              </note>
+            </voice>
+          </measure>
+        </system>
+      </part>
+    </tune>
+  </tunes>
+  <spans>
+    <tie end="39baff0c-0564-4c67-ad58-aa8b6c44c8e8" id="19652112-feed-4c83-b362-d5def3e9c066" start="593225e1-c95c-45a1-a6c1-8fd2cc63ba8a"/>
+    <tie end="f3ff548d-45ee-4344-ab8a-dc8b217145cf" id="06dd4976-8743-4bcc-a860-57546468e3fb" start="90397dba-3219-4152-910d-1673510c9763"/>
+    <tie end="358ac707-79d3-4adf-8c7d-2419991a2761" id="e2fb6d0c-b0f7-4c70-bbf6-532b7d10a60b" start="36bab5c6-eb6b-48e0-a9ea-695a835c4e33"/>
+    <tie end="7be5ef1a-62b0-4856-ae79-4cb2c7051a4a" id="9d4eaea7-6310-468d-8f39-045496e6bc74" start="e2e83a4f-429c-4bd7-a59a-6e15943a226d"/>
+    <tie end="8e72ffec-061a-4495-8ea4-6ac8793995df" id="20e7da95-2396-4b89-ab02-9896f67904d2" start="256393a6-9faa-4609-93c5-4a2a4510d4e8"/>
+    <tie end="2a1b558c-c3c4-478d-ab8f-8a552fcd8a1f" id="29bc5e88-8ca7-4750-b4c0-3fa8746d816b" start="fcfaab04-acd8-4da5-a2c3-93ddf404ba46"/>
+    <tie end="5f3e9057-5714-4801-a945-bb182a672f62" id="a02f1c53-938d-45c5-aa9b-a248187280c6" start="85349a9e-6638-44f5-8dc4-e3c54c09eed8"/>
+    <tie end="ed973e78-4577-4661-807f-5c435840e8d3" id="4349608c-c73f-412b-8d5e-dfc52dc71f7e" start="1ae38fba-3a3a-442c-9170-ac53b56b9ee2"/>
+    <tie end="2858a7e1-5165-40dc-b431-afe3515e06d3" id="968da416-2790-45a2-8057-4bf892f469f5" start="fcb8ae4e-1abd-42f9-85ee-49e9a82be33b"/>
+    <tie end="54df7960-0524-4b90-abb5-ed11e2eab5c8" id="c132c8bb-b3ed-4632-a402-6bfe8551952e" start="2152fd4f-5311-40f2-a1e0-2ad915d5e9c0"/>
+    <tie end="7fc08b1e-11a1-41ee-8661-0ab8733d0a17" id="951c8a4d-645e-4cf3-91a6-587c2728ad6f" start="071c37f0-f2a8-44ad-acc6-4ee5a0fbbaac"/>
+    <tie end="680012e3-a2a9-49ee-8110-8d123bbf3c4d" id="f9e3839c-7cbe-4af7-9c87-2d0bc5707093" start="b642113f-b494-4768-9494-7469d0cbf742"/>
+    <tie end="92e49d21-96f3-46d3-bd52-9473a0e3c1d9" id="cd37152f-3354-47d9-8d99-53f0ce3a9eb5" start="2eafd0d1-5e09-4bf6-a2f2-f81f7dfcdfe1"/>
+    <tie end="e9bfb3bf-1e67-405a-98dd-5ddb991aa28a" id="2f9c58df-11d1-44a8-a294-d75c34c1b081" start="ed8f9b4d-aaf5-49a7-9c01-d176e220395d"/>
+    <tie end="79d87938-8ca8-46cd-a93e-a728be558802" id="8fbc3f87-cf51-469c-b9d2-2e9fa994c448" start="73e25241-fe78-40bd-922c-c6a32e8d4992"/>
+    <tie end="f068f4c9-350a-4ca9-be30-4d15cc10dbc4" id="80bfbddf-044c-437d-a3b1-319b3ca81fd9" start="79d87938-8ca8-46cd-a93e-a728be558802"/>
+    <tie end="90b396be-1d00-4ee9-aa88-beb51ad4e69d" id="478f7d06-a8ce-429f-bf76-929846f819eb" start="3138e804-21b1-4865-bd9f-2cf5859e92da"/>
+    <tie end="f3ea483c-08b9-4ff0-8fc5-b85a1d706b20" id="210f245e-460e-4f28-801c-28fb7fc9aadf" start="90b396be-1d00-4ee9-aa88-beb51ad4e69d"/>
+    <tie end="d6eb8749-4d34-47de-a749-ca0b8f5ac043" id="d5f4b784-3bb4-46c4-a857-5dfe637682a3" start="ed88fc15-8d53-455e-8960-ef38a7aeb7bc"/>
+    <tie end="2727cbeb-789c-4d3f-ba0d-ad45afaa379e" id="e5b4d154-99de-46b5-a263-63b5bb67d1cb" start="9dd2ba80-bcbc-4778-9708-5ff36ecc9a88"/>
+    <tie end="fb8af105-9689-4a54-a9a7-78d512014e24" id="8f19b720-d432-4cbe-9e14-e3fec0f9ba9c" start="2727cbeb-789c-4d3f-ba0d-ad45afaa379e"/>
+    <tie end="20ae7b48-d843-4ca6-a8b0-f05181f249d3" id="c6166df7-999b-42f4-9c76-318e3d795d9a" start="f7a011cc-a301-4170-a95b-71db881ad678"/>
+    <tie end="408b23d8-ea2c-4b78-8e39-070fa8988a78" id="603b8ab9-89d3-41e6-a929-78303d763423" start="20ae7b48-d843-4ca6-a8b0-f05181f249d3"/>
+    <tie end="f1f618a4-3e50-4009-8164-a058ce025f6b" id="68571ef0-7b07-4b29-a335-5ff453c6049c" start="fcceca14-c16c-4046-91a7-54a6592cf571"/>
+    <tie end="1419f6ce-017f-4fc3-aa23-9a2ef06e07bb" id="bc86e061-d893-4988-bf3f-408b1c4c90ec" start="35dc7f15-b846-42d0-9e8a-c81ccb8057f5"/>
+    <tie end="84a08999-e844-4b3e-889a-a860310c378b" id="5fb4001d-0b5b-4092-bf04-3cce6fce733d" start="2214dd7d-7769-4aca-83b7-26375987f332"/>
+    <tie end="43a764bb-a861-487c-ad7f-0a1469afebbc" id="5802fb9c-0551-4e6e-bf2e-fb8a7186ffb6" start="84a08999-e844-4b3e-889a-a860310c378b"/>
+    <tie end="28d2851f-be13-4613-b2a5-0c968b8f2c25" id="48fbd638-e2a5-4cd6-9071-53773c21e66c" start="43a764bb-a861-487c-ad7f-0a1469afebbc"/>
+    <tie end="6a149e5e-07e0-49f6-857c-9381c87e4450" id="d3a55ba5-6769-43a4-8a6f-143f364f20c8" start="28d2851f-be13-4613-b2a5-0c968b8f2c25"/>
+    <tie end="1a72c1a9-6d3e-448a-b95b-6639619ea3b3" id="3088e621-0de4-4278-ba2d-864d9ed7f6bf" start="6a149e5e-07e0-49f6-857c-9381c87e4450"/>
+    <tie end="b15b6c10-6003-48b6-8885-74b8185823a2" id="26f23083-db4f-4af0-a097-375699f0b1ea" start="1a72c1a9-6d3e-448a-b95b-6639619ea3b3"/>
+    <tie end="003a4589-769b-4cf9-9163-f5ccf8f8e408" id="08bd4a1d-6a4f-402e-8383-3c72882daeb7" start="4d115d26-06dd-482a-9afb-5b8eaf00be55"/>
+    <tie end="f1727499-9f23-435b-9d75-5a300edef0ec" id="a2783eec-84b5-4db0-a506-059309ab4f15" start="ba89759b-cf0a-4ad0-b6f5-f4b2dcb14b62"/>
+    <tie end="ee0b560c-6d48-446f-a88f-ded9255b0246" id="dde824ab-53fe-440b-afd6-af65f16931db" start="f1727499-9f23-435b-9d75-5a300edef0ec"/>
+    <tie end="f355dfeb-c228-4b68-8fe2-b58f78887c0d" id="d624dddd-d563-4fd3-8c58-bb79a74cd6b9" start="ee0b560c-6d48-446f-a88f-ded9255b0246"/>
+    <tie end="f6b3ea0a-2bc9-45e6-b680-8b6c4c0604a3" id="aaa4fcd4-2a00-483a-b546-324ec0e793f5" start="f355dfeb-c228-4b68-8fe2-b58f78887c0d"/>
+    <tie end="7bf51f25-8ecd-46f0-a77e-465c58b53eb7" id="44bf693f-0659-4dac-9648-a6b7fda5289b" start="f6b3ea0a-2bc9-45e6-b680-8b6c4c0604a3"/>
+    <tie end="1846f37e-18f0-425d-ac54-b84531341272" id="e070749d-564d-44db-96a7-06e6ff91176a" start="7bf51f25-8ecd-46f0-a77e-465c58b53eb7"/>
+    <tie end="6e2d72f0-fda2-417b-8356-328ff4e2d589" id="6810fc63-a2a2-4413-8a1c-3f6685afb210" start="e6078d41-ba13-49bb-965c-9a99524a74b0"/>
+    <tie end="68da6183-24a3-460e-afe0-b33c6295f94d" id="4060cd32-7c56-41ed-b905-f270386904c4" start="6078123d-54ca-4d31-be72-2a43a1145bfe"/>
+    <tuplet actual="3" end="55689bf4-08dc-45c5-b467-d3f9d5162d16" id="f25b1064-62da-484f-857b-4dbc31a2313b" normal="2" start="358ac707-79d3-4adf-8c7d-2419991a2761"/>
+    <tuplet actual="3" end="244a591d-fb9d-4c5e-b7d7-e541f8189b37" id="4ad97373-a777-423f-ae50-803fcd6aeaea" normal="2" start="351bfc5d-d3dd-4c22-99b9-cb4b52f1bf02"/>
+    <tuplet actual="3" end="29a0129b-6ed3-4b29-a92e-4af9f73d4fff" id="0e0d4df1-4fbf-4f4c-9a1d-0b1c72ef6017" normal="2" start="38d687a6-bb2e-4204-b86a-cbc5a5cb8e55"/>
+    <tuplet actual="3" end="05bf1995-d055-4d55-b1d6-d6552a6719b0" id="fad1634d-7201-468e-9665-2586e6704404" normal="2" start="1fcf6040-45e6-4c1c-9a45-bafa0799a6d3"/>
+    <tuplet actual="3" end="0b6a5d7f-2ef3-4aea-accd-1eb14c646ac7" id="41403d34-a8fd-4c3e-955f-d337f379be80" normal="2" start="a1c677bb-c6f1-43c6-9176-2daac65141dd"/>
+    <tuplet actual="3" end="a2c7ca92-c64d-4650-968a-3085202355ee" id="45100e1e-d200-44b2-abab-6e29206a4303" normal="2" start="8e5883cd-7fe8-4fa1-ba42-ad36d32d48ab"/>
+    <tuplet actual="3" end="5ebab1b4-5891-4acc-8a58-1d7e5ce12cf1" id="9744c678-cc5b-4df0-8d97-ef065a731d0a" normal="2" start="2a1b558c-c3c4-478d-ab8f-8a552fcd8a1f"/>
+    <tuplet actual="3" end="e1ad4dda-a8c1-4bef-bc64-8d7560640f3b" id="3340a6d8-d318-442a-b423-2942a0f37bb8" normal="2" start="881d9bb6-cd22-4ce6-a130-466666cae75c"/>
+    <tuplet actual="3" end="4e76849d-a393-403c-846a-40d414483af4" id="d459da62-fd3c-47b1-aae4-b72659bc678e" normal="2" start="ab8b58b6-058a-43c9-a03a-7e0e534ebf16"/>
+    <tuplet actual="3" end="bf8080a8-6d2e-4de3-972d-2582a97ff478" id="8a758899-f6fe-4946-93c4-88f8121c712e" normal="2" start="8f284bb5-a555-4df0-b12f-5530ae14b552"/>
+    <tuplet actual="3" end="1bd7234b-873e-4634-96d9-12dec545cbcf" id="28e09e77-b4b1-4d04-88aa-fa85d455b16d" normal="2" start="54df7960-0524-4b90-abb5-ed11e2eab5c8"/>
+    <tuplet actual="3" end="0f86d1a0-f4de-49d8-ac75-96a75242fb38" id="6a047471-d3d3-4d36-8241-672fc4914fb6" normal="2" start="fd11ab3d-0a73-43af-a51a-ba3979faf4c2"/>
+    <tuplet actual="3" end="f9ead917-4aae-47b0-99f2-2da76eaba091" id="42c9b44c-cc79-48d1-b715-6837dca17ee3" normal="2" start="b7dd0462-b0de-4677-a555-71b89c2a62bc"/>
+    <tuplet actual="3" end="3547e73d-097a-4ef0-a92e-865f6fc1d360" id="18cc5f7c-8ab0-40d3-8fe8-b0d60b224291" normal="2" start="278a39cb-dc6c-4801-a6fc-cafc7f2a61ad"/>
+    <tuplet actual="3" end="366f65ce-bad0-4d80-9334-41ded039e6b5" id="4ea4e0de-1b84-4fe2-ada0-d7ebea98f8ba" normal="2" start="a8de20bc-f7dc-4e6b-8f4f-4f374a9437ae"/>
+    <tuplet actual="3" end="05c718b6-6251-4d44-afa4-53a32a4a2f64" id="bd184600-7803-4fdd-abd8-321f04aca361" normal="2" start="ef8a4ba2-0a0e-49eb-8f4d-18d0812467f4"/>
+    <tuplet actual="3" end="c91f290e-64fe-4a4c-a2e2-f40b174ad8d8" id="b1b1d48a-e286-4848-b32d-48c735ac7941" normal="2" start="92e49d21-96f3-46d3-bd52-9473a0e3c1d9"/>
+    <tuplet actual="3" end="39821123-9f5d-4a71-9e13-2ec43e790641" id="67e3803e-9bd6-4e89-a979-21b6ef7b3b83" normal="2" start="b7a6966a-8972-4b4c-9ab9-59cba99984e0"/>
+    <tuplet actual="3" end="30ea9a96-4497-454c-b415-b12371e74e71" id="90e305f2-87e2-4781-b5d9-431f2f2fa074" normal="2" start="d4ed89d2-51e1-4d78-8055-35ce878ab5ab"/>
+    <tuplet actual="3" end="3ebe4a54-bd56-424f-ab67-7b092119d425" id="725d83cf-c963-4b11-b96e-30616dab6e20" normal="2" start="928d06bc-57d6-4253-a260-4b1acaeb566e"/>
+    <tuplet actual="3" end="961912c0-febd-46a3-8861-00b1360d6301" id="e46d9391-ae54-4c7f-94a9-da2d524aec5c" normal="2" start="d6eb8749-4d34-47de-a749-ca0b8f5ac043"/>
+    <tuplet actual="3" end="63478b06-3cab-4291-9e7c-69e975048533" id="692ad4dd-23c4-4811-b4b9-0b4364c8c938" normal="2" start="f35d01eb-0f4f-473e-8c14-4c79dad826e0"/>
+    <tuplet actual="3" end="d2c2f1ef-bd9c-43f9-a7d9-a11e1a8bad3a" id="b115fb72-c186-4cb3-915f-471fd6cc746c" normal="2" start="4c7bdb88-baa5-4b66-a6e4-311c949f1bbc"/>
+    <tuplet actual="3" end="30c77384-ad9f-437e-8e2e-ce5960bb912a" id="09adff43-fca0-44f8-9064-2519172f0dc3" normal="2" start="76031afb-36e0-491e-a062-463a9b43dadc"/>
+    <tuplet actual="3" end="a6cae002-61ea-4f49-9361-085b70f33646" id="30ae6b14-5ea6-4a66-945e-cb19963212c5" normal="2" start="8383ab64-fbc2-4911-9657-94375477bfb6"/>
+    <tuplet actual="3" end="7fd7ce76-65b9-4d86-81e5-8dc39be1214b" id="57bcb6cd-048e-44c3-b130-7e3257226f54" normal="2" start="0d616655-43c1-47b1-8a61-16db2ee6dcf7"/>
+    <tuplet actual="3" end="2417ce4a-f870-4ea8-bb0d-30d7f2a1c10e" id="19e86083-dfd5-4555-9530-4108a5ac3f6c" normal="2" start="f1f618a4-3e50-4009-8164-a058ce025f6b"/>
+    <tuplet actual="3" end="4f24f3ab-9c0d-464b-ae57-73dc02559452" id="4c56ee6e-31fe-4f01-9afe-9684d0b779fe" normal="2" start="eabe22ff-3adb-4e20-bc18-317edf9a68d3"/>
+    <tuplet actual="3" end="ae58f2b1-2a54-4a7f-b695-ea152cae0a1f" id="295de8eb-019b-424d-84d0-6ab65e58fd65" normal="2" start="c6fefffe-3574-4d5b-8a88-d0f76570d54e"/>
+    <tuplet actual="3" end="4265bda2-fc96-4fcb-8291-c2b7d5f58bfa" id="64fa4e30-50eb-4d35-8554-5230bb0b701e" normal="2" start="93dfd244-2c93-48af-8441-d51cffca6248"/>
+    <tuplet actual="3" end="f042e301-376a-4f2c-81a9-dca3df043974" id="3c2698f3-bc9d-4871-93c8-607b69aa1eaf" normal="2" start="003a4589-769b-4cf9-9163-f5ccf8f8e408"/>
+    <tuplet actual="3" end="33c5f7a9-a21d-4ce5-b224-aba96ba4bc3c" id="23fbc92c-9cab-476f-9592-6e003d49a21b" normal="2" start="81a36213-fd4d-4a8b-9928-d1cfec4a0749"/>
+    <tuplet actual="3" end="30dad844-8a24-43c4-9576-9c6703593b19" id="79d4b662-aef1-4ea3-bfc4-926d8bac25f2" normal="2" start="53a29643-129a-47bc-a9e6-35d77b097b6d"/>
+    <tuplet actual="3" end="8d694e15-61dc-42e5-bea4-ff736519e9ac" id="28059d4e-39f0-4b05-af4a-ee0ed8567752" normal="2" start="9026df9a-eaeb-44d2-a726-0711486fb302"/>
+    <tuplet actual="3" end="71544a31-09cc-4cd8-b7ae-f0c9e8cb1b45" id="cf819c33-c30c-4ee1-b991-aedd0bf37650" normal="2" start="799757e4-e9b4-43f9-9781-e45f2670575d"/>
+    <tuplet actual="3" end="fca2fb12-54fc-4d67-b228-10bc0abeea17" id="f5ff93a8-7b02-469a-b661-65b9b012ecf7" normal="2" start="fc027276-b11f-437f-8326-bb68392ae0d6"/>
+    <tuplet actual="3" end="9bc447e8-f41a-48f2-89ed-058a4be7fec0" id="1a718df9-63f8-42f4-a86c-062120584075" normal="2" start="6e2d72f0-fda2-417b-8356-328ff4e2d589"/>
+    <tuplet actual="3" end="f27c3cd0-519b-412c-bfac-ec7b777332ec" id="e40378a0-7bf6-4e3d-857a-9386038093cc" normal="2" start="07931c36-7b8e-41be-8b8f-95dac96583f1"/>
+    <tuplet actual="3" end="b2298f31-5c58-4ee6-8f5b-b430659a8a99" id="94d43f3c-49f4-40b8-ba98-fb513546d798" normal="2" start="0692de37-0cc9-41e3-bee0-c453e84104bb"/>
+    <tuplet actual="3" end="d23002d2-a7ea-4a2d-a1c6-3fbca0dc3b5f" id="b6527dda-a57e-4938-ac34-19a161a7af7d" normal="2" start="c155d5a3-5e55-4e1a-a761-313643a94655"/>
+  </spans>
+  <pages>
+    <page number="1" orientation="portrait">
+      <margins h="792.0" w="535.0" x="30.0" y="27.0"/>
+      <components>
+        <music-area id="3168ba88-4eb2-45a7-b971-24f71eb5537d" parts="64c3f85b-6081-4226-88c8-707fe0364e5e 58242837-5d55-4ea5-aae7-20ea2239209a" tune="5e65738b-8d2c-43ed-9588-4d7211342596">
+          <bounds height="716.0" width="535.0" x="30.0" y="83.0"/>
+        </music-area>
+        <container depth="56.0" id="a4ad847b-4606-40ef-afa5-ae85184048e2" role="tune-header" tune="5e65738b-8d2c-43ed-9588-4d7211342596">
+          <bounds height="56.0" width="535.0" x="30.0" y="27.0"/>
+          <text-area editable="true" id="2f45168c-2ec5-4cec-a163-9342e46ddaee" tag="">
+            <text>%title</text>
+            <style align="center" bold="true" font="Serif" font-size="16" italic="false" underline="false"/>
+            <placement across="center" down="start" height="28.0" offset="0.0" size="0.8880597014925373" top="0.0"/>
+            <bounds height="28.0" width="475.1119402985075" x="59.94402985074626" y="27.0"/>
+          </text-area>
+          <text-area editable="true" id="c8ed2dfb-ec99-4e20-9133-c6d82a5b6cde" tag="">
+            <text>%author</text>
+            <style align="center" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="center" down="start" height="20.0" offset="0.0" size="0.3880597014925373" top="18.0"/>
+            <bounds height="20.0" width="207.61194029850748" x="193.69402985074626" y="45.0"/>
+          </text-area>
+          <text-area editable="true" id="ccaed60f-b751-4289-8a3b-6dd1e5782641" tag="">
+            <text>%tunetype</text>
+            <style align="left" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="start" down="start" height="20.0" offset="0.0" size="0.166044776119403" top="22.0"/>
+            <bounds height="20.0" width="88.83395522388061" x="30.0" y="49.0"/>
+          </text-area>
+          <image id="c96861ee-dcca-4a7e-ac7f-9d4659bf06c7" ref="94a00759d1bafe9f152bac7d3e81306c">
+            <placement across="end" aspect="0.9981343283582089" down="start" height="90.92499999999995" offset="0.0" size="0.16963619402985067" top="-17.462499999999977"/>
+            <bounds height="90.92499999999995" width="90.7553638059701" x="474.2446361940299" y="9.537500000000023"/>
+          </image>
+        </container>
+        <container depth="20.0" id="e4fbcf24-cc72-45e9-8d4c-b7ced2863775" role="page-footer">
+          <bounds height="20.0" width="535.0" x="30.0" y="799.0"/>
+          <text-area editable="true" id="b247afa7-a3e3-4e33-b6cf-aa967db6449e" tag="">
+            <text>%band</text>
+            <style align="left" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="start" down="start" height="20.0" offset="0.0" size="0.44402985074626866" top="0.0"/>
+            <bounds height="20.0" width="237.55597014925374" x="30.0" y="799.0"/>
+          </text-area>
+          <text-area editable="true" id="b58a2788-b37b-4ab4-b33c-aa79b11f04c5" tag="generated-last-updated-area">
+            <text>%updated</text>
+            <style align="right" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="end" down="start" height="20.0" offset="0.0" size="0.166044776119403" top="0.0"/>
+            <bounds height="20.0" width="88.83395522388061" x="476.1660447761194" y="799.0"/>
+          </text-area>
+        </container>
+      </components>
+    </page>
+    <page number="2" orientation="portrait">
+      <margins h="792.0" w="535.0" x="30.0" y="27.0"/>
+      <components>
+        <music-area id="cfe6f651-3b17-409d-bc60-85dc5f85da20" parts="f9145ba9-8ff9-4f86-bb22-2611be40d72d 309436ca-a297-4646-9a36-b10e1944f73b" tune="5e65738b-8d2c-43ed-9588-4d7211342596">
+          <bounds height="772.0" width="535.0" x="30.0" y="27.0"/>
+        </music-area>
+        <container depth="20.0" id="e4fbcf24-cc72-45e9-8d4c-b7ced2863775" role="page-footer">
+          <bounds height="20.0" width="535.0" x="30.0" y="799.0"/>
+          <text-area editable="true" id="b247afa7-a3e3-4e33-b6cf-aa967db6449e" tag="">
+            <text>%band</text>
+            <style align="left" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="start" down="start" height="20.0" offset="0.0" size="0.44402985074626866" top="0.0"/>
+            <bounds height="20.0" width="237.55597014925374" x="30.0" y="799.0"/>
+          </text-area>
+          <text-area editable="true" id="b58a2788-b37b-4ab4-b33c-aa79b11f04c5" tag="generated-last-updated-area">
+            <text>%updated</text>
+            <style align="right" bold="false" font="Serif" font-size="10" italic="false" underline="false"/>
+            <placement across="end" down="start" height="20.0" offset="0.0" size="0.166044776119403" top="0.0"/>
+            <bounds height="20.0" width="88.83395522388061" x="476.1660447761194" y="799.0"/>
+          </text-area>
+        </container>
+      </components>
+    </page>
+  </pages>
+  <images>
+    <image key="94a00759d1bafe9f152bac7d3e81306c">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</image>
+  </images>
+</score>
