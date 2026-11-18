@@ -103,6 +103,8 @@ After each note or rest the caret moves on by that note's share of the bar. A cr
 
 This is the `Proportional Spacing` setting, in the `Engraving` pane of `File` ▸ `Score Properties…`. With it unticked, the caret moves only just past the note you drew, and you space the bar yourself.
 
+A note typed straight after `Tab` or `Space` lands with its stem on the barline. Beautify moves it clear.
+
 To even out the spacing of music that is already written, use Beautify. See [Layout and Spacing](topic:layout).
 
 ### At the end of a bar and of a line
