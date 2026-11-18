@@ -2,7 +2,6 @@
 title: What’s New in Version 4
 topic: whats-new
 summary: What has changed for someone coming from version 3.6.
-draft: true
 ---
 
 Version 4 opens the scores you wrote in 3.6, and it keeps the licence and settings you already have. The window looks different, a good many commands have moved, and a score saved by version 4 can no longer be opened by 3.6. This page says what is new, where things have gone, and what to know before you save.

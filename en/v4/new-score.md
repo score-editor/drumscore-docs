@@ -2,7 +2,6 @@
 title: Starting a Score
 topic: new-score
 summary: Making a new score in two steps: the kind of tune, its time signature and tempo, then its name and layout.
-draft: true
 ---
 
 A new score is made in the `Create New Score` window. It asks two things: what kind of tune you are writing, then what to call it and how to lay it out. When you finish, the score opens with its parts and bars already ruled, ready for notes.
