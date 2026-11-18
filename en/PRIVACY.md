@@ -1,7 +1,7 @@
 # DrumScore Editor Privacy Policy
 
-**Effective Date:** November 17, 2025  
-**Version:** 1.0
+**Effective Date:** November 18, 2026  
+**Version:** 1.1
 
 Alan White ("we," "us," or "our") operates DrumScore Editor ("the Software"). This Privacy Policy explains how we collect, use, and protect information when you use the Software.
 
@@ -23,13 +23,12 @@ The Software stores the following information **locally on your device only**:
 
 ### 1.2 Anonymous Usage Analytics (Optional)
 
-Starting with version [3.5], the Software includes optional anonymous usage analytics. When enabled, we collect:
+Starting with version 3.5, the Software includes optional anonymous usage analytics. When enabled, we collect:
 
 **What we collect:**
 - Features used and frequency of use
 - Software version and operating system
 - Session duration
-- Crash reports and error logs
 - General workflow patterns (e.g., "user created volta," "user exported to PDF")
 
 **What we do NOT collect:**
@@ -205,8 +204,7 @@ We may update this Privacy Policy from time to time. Changes will be posted at d
 If you have questions about this Privacy Policy or how your data is handled:
 
 **Email:** alan@drumscore.scot  
-**Website:** https://drumscore.scot  
-**Address:** [Your business address if required by local law]
+**Website:** https://drumscore.scot
 
 ---
 

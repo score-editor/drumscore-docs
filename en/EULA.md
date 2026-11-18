@@ -1,7 +1,7 @@
 # Drum Score Editor End User License Agreement (EULA)
 
-**Effective Date:** 17th November 2025
-**Version:** 1.0
+**Effective Date:** 18th November 2026
+**Version:** 1.1
 
 This End User License Agreement ("Agreement") is between you ("User") and Alan White ("Licensor") regarding Drum Score Editor ("Software").
 
@@ -11,8 +11,8 @@ By installing, accessing, or using the Software, you agree to be bound by this A
 
 ## 1. License Grant
 
-### 1.1 Free Tier
-Licensor grants you a non-exclusive, non-transferable, revocable license to install and use the Software for personal use with the features available in the free tier.
+### 1.1 Community Edition
+Licensor grants you a non-exclusive, non-transferable, revocable license to install and use the Software for personal use with the features available in the community edition.
 
 ### 1.2 Premium License
 Upon payment of a one-time license fee, Licensor grants you a non-exclusive, non-transferable, perpetual license to access premium features of the Software. This license is valid for the lifetime of the Software and includes access to all updates and improvements during that time.
@@ -120,7 +120,7 @@ The Software can automatically check for updates and notify you when new version
 This perpetual license includes all updates to Drum Score Editor. If Licensor releases a fundamentally different product (e.g., "Drum Score Editor 2.0" as a separate application), Licensor reserves the right to offer it under a separate license, though existing users may receive preferential pricing.
 
 ### 6.3 Support
-Premium license holders receive priority email support at alan@drumscore.scot. Free tier users have access to community forums and documentation.
+Premium license holders receive priority email support at alan@drumscore.scot. Community edition users have access to community forums and documentation.
 
 ### 6.4 Discontinuation
 If Licensor discontinues the Software, existing premium license holders retain their licenses and may continue using the Software indefinitely.

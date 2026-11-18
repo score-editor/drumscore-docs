@@ -4,8 +4,8 @@
 
 **AVIS IMPORTANT:** Ceci est une traduction de référence générée par IA et DOIT être révisée par un traducteur professionnel ou un juriste bilingue avant toute utilisation légale. En cas de divergence, la version anglaise fait foi.
 
-**Date d'entrée en vigueur :** 17 novembre 2025  
-**Version :** 1.0
+**Date d'entrée en vigueur :** 18 novembre 2026  
+**Version :** 1.1
 
 Alan White (« nous », « notre » ou « nos ») exploite DrumScore Editor (« le Logiciel »). Cette Politique de Confidentialité explique comment nous collectons, utilisons et protégeons les informations lorsque vous utilisez le Logiciel.
 
@@ -27,13 +27,12 @@ Le Logiciel stocke les informations suivantes **localement sur votre appareil un
 
 ### 1.2 Analyses d'Usage Anonymes (Optionnel)
 
-À partir de la version [X.X], le Logiciel inclut des analyses d'utilisation anonymes optionnelles. Lorsqu'elles sont activées, nous collectons :
+À partir de la version 3.5, le Logiciel inclut des analyses d'utilisation anonymes optionnelles. Lorsqu'elles sont activées, nous collectons :
 
 **Ce que nous collectons :**
 - Fonctionnalités utilisées et fréquence d'utilisation
 - Version du logiciel et système d'exploitation
 - Durée des sessions
-- Rapports de plantage et journaux d'erreurs
 - Modèles généraux de flux de travail (par exemple, « l'utilisateur a créé une volta », « l'utilisateur a exporté en PDF »)
 
 **Ce que nous ne collectons PAS :**
@@ -209,8 +208,7 @@ Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autr
 Si vous avez des questions concernant cette Politique de Confidentialité ou la manière dont vos données sont traitées :
 
 **E-mail :** alan@drumscore.scot  
-**Site Web :** https://drumscore.scot  
-**Adresse :** [Votre adresse professionnelle si requis par la loi locale]
+**Site Web :** https://drumscore.scot
 
 ---
 
