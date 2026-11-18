@@ -66,7 +66,7 @@ A system has one line for each instrument written on it. A bracket at the left j
 | `Space Between Instruments` | `Engraving` pane | The clear space between the lines of one system. It follows `Space Between Lines` until you type a value of its own. |
 | `Join Barlines` | Right-click a system, `System` ▸ `Join Barlines` | Ticked, the barlines run through the gaps between the lines. They stop short of any words or figures in the gap. It is set for one system at a time. |
 
-Names are drawn in the same font as the line numbers. With line numbers on, every instrument's line has a number of its own, because the numbers count lines and not systems.
+Names are drawn in the same font as the line numbers. With line numbers on, every instrument's line has a number of its own, because the numbers count lines and not systems. A part's number, where parts are numbered, stands beside the top line of the system only.
 
 A 1st or 2nd time bracket, and words written on a barline or over a bar, are drawn on the top line of the system only.
 
