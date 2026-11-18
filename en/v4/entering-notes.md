@@ -202,6 +202,8 @@ A beam joins a note to the note before it.
 
 `Shift+L`, or `Group` ▸ `Single Beam Only`, draws a single beam at the join however short the notes are.
 
+**Which way a short beam points.** Where automatic beaming decides a note needs a short beam of its own, it draws it back from the stem. To have it flow forward from the stem instead, right-click the note and choose `Note` ▸ `Force Cut Forward`.
+
 <!-- screenshot: the same four semiquavers twice: first unbeamed, each with its own tails, then joined by a beam after pressing L -->
 
 ## A tenor on five lines
