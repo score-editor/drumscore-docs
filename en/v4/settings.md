@@ -48,6 +48,8 @@ Choose `OK` to install the key. A message shows the licensee and asks you to res
 
 For the rest, see [Licensing](topic:licensing).
 
+![Settings, Licence, with a licence installed: the holder, email and issue date](images/v4/settings-licence.png){: width="700" }
+
 ## Appearance
 
 ### The Appearance pane
@@ -90,6 +92,8 @@ Windows you open after choosing `OK` are in the new language. The menus keep the
 
 The library folder holds the pictures scores refer to, your watermarks, your rudiment libraries, and your header and footer designs. Put it somewhere that is backed up, or on a shared or cloud drive. When you change it and choose `OK`, you are asked whether to move what is in the old folder. Anything that could not be moved, or whose name is already taken in the new folder, is listed and left where it was.
 
+![Settings, Libraries, Location: the library folder and its Change… button](images/v4/settings-library-location.png){: width="700" }
+
 ### Rudiments
 
 The list shows the rudiment libraries that are open. A library whose file has gone is marked `missing`.
@@ -104,6 +108,8 @@ The list shows the rudiment libraries that are open. A library whose file has go
 | `Copy to Library Folder…` | Copies libraries kept elsewhere into your library folder. The originals stay where they are. |
 
 For using a library, see [Rudiments, Rolls and Tuplets](topic:rudiments).
+
+![Settings, Libraries, Rudiments: two libraries listed, with the buttons at the right](images/v4/settings-libraries.png){: width="700" }
 
 ### Watermarks
 
@@ -184,7 +190,7 @@ Each control is described in [Score Properties](topic:score-properties). Only th
 
 The title, version and file name of a score, its `Rolls` setting, `Tunes` and `Page Arranged By Hand` are in `Score Properties…` only. There is no default tempo or number of parts: the New Score window asks for those each time.
 
-<!-- screenshot: Settings showing New Score Defaults ▸ Score: the eight panes listed down the left, the Credits group with "A. Drummer" and "City Pipe Band", the Text and Numbering groups, the Headers and footers group with both design rows, and the Reset all options to default values button -->
+![Settings, New Score Defaults, Score pane: credits, text, numbering, and the header and footer designs](images/v4/settings-new-score-defaults.png){: width="700" }
 
 ## Music fonts
 

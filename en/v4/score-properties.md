@@ -38,7 +38,7 @@ The panes are the same panes as `New Score Defaults`, for this score instead of 
 | `Rolls` | What is written at each roll: `None`, `Stroke Count`, or `Roll Breakdown`, which marks the buzzes and taps under the notes. |
 | `Filename` | The file's name, as printed where a header or footer uses `%filename`. |
 
-<!-- screenshot: Score Properties, Score section, Score pane selected in the list at the left. Identity group: Score title "The Young MacGregor", Band "City Pipe Band", Version "2". Numbering group with Pages, Lines and Parts ticked. Text group with Font, Choose… and Font Size, and Rolls set to Stroke Count. File group with Filename. Width about 800. -->
+![Score Properties, Score pane: the Identity, Numbering, Text and File groups](images/v4/score-properties-score.png){: width="700" }
 
 ## Notation pane
 
@@ -102,7 +102,7 @@ In the Community Edition every row of this pane is shown but cannot be changed.
 | `Space Between Lines` | Outside `Legacy`. The clear space between one line's marks and the next. Greyed while lines are distributed evenly. |
 | `Space Between Instruments` | Outside `Legacy`. The same, within one system. Empty the box and it follows `Space Between Lines`. Greyed while lines are distributed evenly. Studio Edition. |
 
-<!-- screenshot: Score Properties, Engraving pane, scrolled to the top, for a Standard-layout score: Spacing group with Spacing Policy set to TraditionalSpacing and the four ticks beneath it live, then the Accents and roll ties group and the start of Irregular groups. Width about 800. -->
+![Score Properties, Engraving pane: the Spacing group and the start of those below it](images/v4/score-properties-engraving.png){: width="619" }
 
 ## Page pane
 
@@ -152,6 +152,8 @@ See [Rudiments, Rolls and Tuplets](topic:rudiments) for marking unison.
 | `Use thinner unison highlighter` | Draws the colour as a thinner band. Studio Edition. |
 | `Colour to highlight unison`, `Change ..` | The colour. The label shows it at the weight you chose. |
 
+![Score Properties, Unison pane: the Bracket and Colour groups](images/v4/score-properties-unison.png){: width="604" }
+
 ## Watermark pane
 
 This pane is part of the Studio Edition. The Community Edition does not show it. See [Text and Headers](topic:text-and-headers).
@@ -172,6 +174,8 @@ This pane is part of the Studio Edition. The Community Edition does not show it.
 | `Pens and pitches` | The ten pens. For each: its colour, and the note and octave it stands for on a tenor line. Studio Edition. See [Instruments and Staves](topic:instruments). |
 | `Continuous highlights` | Joins a run of highlighted notes into one band. |
 | `Reset pens to defaults` | Puts this score's colours and notes back to those a new score is given. |
+
+![Score Properties, Highlighters pane: ten pens, each with a note and an octave](images/v4/score-properties-highlighters.png){: width="704" }
 
 ## Tunes
 

@@ -28,7 +28,7 @@ The header and footer change to match. In the Studio Edition you can also type s
 
 The footer works the same way: double-click it. Either way in, every tune's header and the footer can all be arranged until you leave.
 
-<!-- screenshot: the header of The Young MacGregor being arranged: the header outlined, the title selected and showing its eight handles, tune type at the left and "A. Drummer" at the right -->
+![A tune header being arranged: the header outlined, the title selected and showing its handles](images/v4/header-being-arranged.png){: width="898" }
 
 ## Arranging a header or footer
 
@@ -97,7 +97,7 @@ Right-click a piece of text and open `Text`.
 
 While a piece of text is selected or being typed in, the editing toolbar is replaced by a text toolbar with the same choices, and `Larger` and `Smaller` buttons. The size box there takes any figure you type.
 
-<!-- screenshot: the text toolbar showing in place of the editing toolbar while the title of The Young MacGregor is being typed in: B, I, U, three alignment buttons, Larger, Smaller, the size box, Choose Font… and the colour button -->
+![The text toolbar, in place of the editing toolbar, while the title is being typed](images/v4/text-toolbar.png){: width="900" }
 
 ### The score's own font
 
@@ -115,7 +115,7 @@ Right-click the tag for the same `Text` menu, without `Colour` and with `Positio
 
 To remove a tag, select its note or barline and press `Ctrl+T` again. `Text Tag` on the menu is ticked while the selection has one.
 
-<!-- screenshot: a bar of The Young MacGregor with a text tag reading "2nd time" above its first note, the tag open for typing with its words selected -->
+![A text tag reading 2nd time above a note, open for typing](images/v4/text-tag.png){: width="372" }
 
 ## Pictures
 
@@ -161,7 +161,7 @@ The `Numbering` group is in the `Score` pane of `File` ▸ `Score Properties…`
 | `Lines` | A number at the left of each staff line, counted down the whole score. |
 | `Parts` | Each part's number, in a box, at the left of the part's first line. The count starts again at one for each tune. |
 
-<!-- screenshot: Score Properties showing the Score pane, with the Identity, Numbering and Text groups, and Pages, Lines and Parts all ticked -->
+![Score Properties, Score pane: the Identity, Numbering, Text and File groups](images/v4/score-properties-score.png){: width="700" }
 
 ![Part numbers in boxes above the line numbers, at the first line of each part](images/v4/part-numbers.png){: width="315" }
 
