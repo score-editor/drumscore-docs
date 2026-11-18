@@ -109,7 +109,7 @@ Die Software prüft regelmäßig auf verfügbare Updates, indem sie sich mit uns
 Bei Update-Prüfungen werden keine personenbezogenen Daten übermittelt. Sie können die automatische Update-Prüfung in den Einstellungen deaktivieren.
 
 ### 5.5 Datenschutzerklärung
-Vollständige Informationen zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung unter [drumscore.scot/privacy](https://drumscore.scot/privacy_de.html.
+Vollständige Informationen zur Datenverarbeitung finden Sie in unserer Datenschutzerklärung unter [drumscore.scot/privacy](https://drumscore.scot/privacy_de.html).
 
 ---
 
