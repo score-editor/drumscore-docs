@@ -34,7 +34,7 @@ Beautify leaves two things alone:
 
 Locking moves nothing, and a locked bar can still be edited. Only automatic spacing passes it by: Beautify, making a tuplet, and `Redistribute Staff Content`.
 
-`View` ▸ `Bar Locks` shows a padlock over every locked bar.
+`View` ▸ `Bar Locks` shows a padlock over every locked bar. Like the lock itself, it is part of the Studio Edition.
 
 ### Spacing settings
 

@@ -130,4 +130,4 @@ See [Licensing](topic:licensing).
 
 `File` ▸ `Studio...` opens the Studio, where you assemble your takes, set their levels and write a video. It is not covered on this page.
 
-`File` ▸ `Import` ▸ `Import MusicXML…` reads a MusicXML file into a new score. See [Files and Older Scores](topic:files).
+In the Studio Edition, `File` ▸ `Import` ▸ `Import MusicXML…` reads a MusicXML file into a new score. See [Files and Older Scores](topic:files).
