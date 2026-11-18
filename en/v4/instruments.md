@@ -28,7 +28,7 @@ This starts from a snare score in the `Standard` layout.
 
 Steps 6 and 7 are needed because the table only says which instruments the score has. The `Instruments` menu puts one on the lines. Every system of the tune now has three lines, the new ones empty and ready to write on.
 
-<!-- screenshot: Score Properties, Notation pane, of a Standard-layout score: the Instruments group with three rows (Snare; Tenor with Stave set to Five Lines; Bass with its Hands tick box), the Add Instrument button, and Show Names set to First System of a Tune -->
+![Score Properties, Notation pane: three instruments listed, with Add Instrument and Show Names below](images/v4/score-properties-instruments.png){: width="814" }
 
 ### For every new score
 
@@ -71,7 +71,7 @@ Names are drawn in the same font as the line numbers. With line numbers on, ever
 
 A 1st or 2nd time bracket, and words written on a barline or over a bar, are drawn on the top line of the system only.
 
-<!-- screenshot: one system of The Young MacGregor with Snare, Tenor (five lines, bass clef, two sharps) and Bass lines: bracket at the left, names shown before the bracket, barlines joined through the gaps, line numbers on -->
+![A system of snare, tenor on five lines and bass: bracket and names at the left, barlines joined through the gaps](images/v4/instruments-system.png){: width="819" }
 
 ### Leaving an instrument off a line
 
@@ -91,7 +91,7 @@ While any instrument is hidden:
 - printing, and export to PDF and to a picture, give the pages as you see them;
 - the score itself is not changed. Saving keeps every instrument.
 
-<!-- screenshot: the same score with only the snare shown: the banner "Showing Snare. Editing is paused while instruments are hidden." and its Show All button above the page -->
+![The score with only the snare shown, and the banner with its Show All button above the page](images/v4/instruments-hidden.png){: width="900" }
 
 ## Writing on a system
 
@@ -113,7 +113,7 @@ They run from the second line of the stave up to the top line, so there are no l
 
 Writing at a pitch, chords, and moving a note-head up or down are described in [Entering Notes](topic:entering-notes), under *A tenor on five lines*. Flourishes are on the `Tenor` tab of the note toolbox: see [Rudiments, Rolls and Tuplets](topic:rudiments).
 
-<!-- screenshot: two bars of a five-line tenor stave: bass clef, two sharps, single notes on several pitches, one two-note chord, and a flourish drawn above the stave -->
+![Two bars of a tenor on five lines: bass clef, two sharps, single notes, chords and a flourish above the stave](images/v4/tenor-stave.png){: width="822" }
 
 ## The bass without hands
 
