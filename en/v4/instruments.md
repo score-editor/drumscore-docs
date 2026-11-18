@@ -2,7 +2,6 @@
 title: Instruments and Staves
 topic: instruments
 summary: Writing snare, tenor and bass together on one system, and writing a tenor at pitch on a five-line stave.
-draft: true
 ---
 
 A score can be written for more than one instrument. Each instrument has a line of its own, the lines of a system are joined by a bracket, and you can show, print or export any of them by themselves. A tenor can be written on one line, as a snare is, or at pitch on a five-line stave.

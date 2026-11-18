@@ -2,7 +2,6 @@
 title: Layout and Spacing
 topic: layout
 summary: Spacing notes along a line with Beautify, nudge and squeeze, then line heights, the page, and how the music runs from page to page.
-draft: true
 ---
 
 This page is about where things sit: notes along a line, lines down the page, and music from one page to the next. Most of it is done for you.
