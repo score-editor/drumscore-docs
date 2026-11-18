@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{lang}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}} · {{product}}</title>
+<meta name="description" content="{{summary}}">
+<link rel="stylesheet" href="{{assets}}/help.css">
+</head>
+<body>
+<header class="top">
+<a class="product" href="{{home}}">{{product}}</a>
+<span class="guide">{{guide}}</span>
+</header>
+<div class="frame">
+<nav aria-label="{{contents}}">
+<ul>
+{{nav}}
+</ul>
+</nav>
+<main>
+<h1>{{title}}</h1>
+<p class="summary">{{summary}}</p>
+{{draft}}
+{{body}}
+<div class="step">
+{{step}}
+</div>
+</main>
+</div>
+<footer>
+<p class="languages">{{languages}}</p>
+</footer>
+</body>
+</html>

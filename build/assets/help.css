@@ -1,0 +1,61 @@
+/* The help site's one stylesheet. No scripts, no web fonts: a page is its words and pictures, and
+   opens the same from a web server, a folder or a help viewer. */
+:root {
+  --paper: #fbfaf7; --ink: #1d1c1a; --quiet: #6b675f; --rule: #dedad1; --panel: #f2efe8;
+  --link: #1f5f8b; --here: #8a3b12; --note: #fff6d8; --note-rule: #e0c66a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #171614; --ink: #e9e6df; --quiet: #a39e93; --rule: #37342f; --panel: #201e1b;
+    --link: #8cc4ea; --here: #f0a777; --note: #2f2a17; --note-rule: #7a6a2c;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+header.top {
+  display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap;
+  padding: 14px 24px; border-bottom: 1px solid var(--rule); background: var(--panel);
+}
+header.top .product { font-weight: 650; color: var(--ink); text-decoration: none; }
+header.top .guide { color: var(--quiet); }
+.frame { display: grid; grid-template-columns: 250px minmax(0, 1fr); max-width: 1120px; margin: 0 auto; }
+nav { padding: 24px 12px 24px 24px; border-right: 1px solid var(--rule); font-size: 15px; }
+nav ul { list-style: none; margin: 0; padding: 0; position: sticky; top: 16px; }
+nav li a { display: block; padding: 5px 10px; border-radius: 6px; color: var(--ink); text-decoration: none; }
+nav li a:hover { background: var(--panel); }
+nav li.here a { color: var(--here); font-weight: 650; background: var(--panel); }
+main { padding: 28px 32px 48px; max-width: 46rem; min-width: 0; }
+h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 6px; text-wrap: balance; }
+h2 { font-size: 1.35rem; margin: 2.2em 0 .5em; padding-top: .4em; border-top: 1px solid var(--rule); }
+h3 { font-size: 1.1rem; margin: 1.6em 0 .4em; }
+.summary { color: var(--quiet); font-size: 1.1rem; margin: 0 0 1.4em; }
+.draft, .admonition {
+  background: var(--note); border-left: 4px solid var(--note-rule); padding: 10px 14px; border-radius: 4px;
+}
+.admonition-title { font-weight: 650; margin: 0 0 4px; }
+.admonition p:last-child { margin-bottom: 0; }
+img { max-width: 100%; height: auto; border: 1px solid var(--rule); border-radius: 6px; }
+code, kbd {
+  font: .88em ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  background: var(--panel); border: 1px solid var(--rule); border-radius: 4px; padding: 1px 5px;
+}
+table { border-collapse: collapse; display: block; overflow-x: auto; max-width: 100%; }
+th, td { border-bottom: 1px solid var(--rule); padding: 6px 14px 6px 0; text-align: left; vertical-align: top; }
+.step { display: flex; justify-content: space-between; gap: 16px; margin-top: 3em; padding-top: 1em; border-top: 1px solid var(--rule); }
+.step a { text-decoration: none; }
+.step .next { margin-left: auto; text-align: right; }
+.step span { display: block; color: var(--quiet); font-size: .8rem; }
+footer { border-top: 1px solid var(--rule); padding: 16px 24px; color: var(--quiet); font-size: 14px; text-align: center; }
+footer .here { color: var(--ink); font-weight: 650; }
+@media (max-width: 760px) {
+  .frame { grid-template-columns: 1fr; }
+  nav { border-right: 0; border-bottom: 1px solid var(--rule); padding: 12px 16px; }
+  nav ul { position: static; display: flex; flex-wrap: wrap; gap: 2px; }
+  main { padding: 20px 16px 40px; }
+}
+@media print { header.top, nav, .step, footer { display: none; } .frame { display: block; } }
