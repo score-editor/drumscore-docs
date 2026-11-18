@@ -227,7 +227,7 @@ Right-clicking a selected note also offers `Add Pitch`, with a list of the pitch
 
 ## The Bar Audit
 
-The Bar Audit marks any bar that does not add up to its time signature. It draws a zig-zag under the bar: blue under a bar that holds too little, red under a bar that holds too much. Rest the pointer on the mark to read what is wrong.
+The Bar Audit is part of the Studio Edition. It marks any bar that does not add up to its time signature. It draws a zig-zag under the bar: blue under a bar that holds too little, red under a bar that holds too much. Rest the pointer on the mark to read what is wrong.
 
 An empty bar is not marked. Neither is an anacrusis, nor the short bar at the end of the part that completes it.
 

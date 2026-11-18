@@ -50,6 +50,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | `Roughs before the barline` | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | The `Rudiments` panel and rudiment libraries | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | `View` ▸ `Markup`, to hide dynamics, highlight marks and unison marks without removing them | [Rudiments, Rolls and Tuplets](topic:rudiments) |
+| | The Bar Audit, which marks a bar that holds too much or too little | [Entering Notes](topic:entering-notes) |
 | Layout and spacing | `Score` ▸ `Beautify`, with `Allow barlines to move` and `Beautify tuplets as they are made` | [Layout and Spacing](topic:layout) |
 | | The `Measure` and `Part` submenus of the right-click menu: inserting and deleting bars and parts, a bar's own time signature and barlines, the anacrusis, repeats, 2nd time lines and voltas | [Layout and Spacing](topic:layout) |
 | | `Lock Against Beautify`, and `View` ▸ `Bar Locks` | [Layout and Spacing](topic:layout) |
@@ -102,7 +103,9 @@ A licence key carries a name, an email address and a date of issue. Those are wh
 
 The installed key is kept with the application's settings on that computer, for your user account. It is not kept in your scores. See *Where settings are kept* in [Settings](topic:settings).
 
-**Moving to a new computer.** Install Drum Score Editor on the new computer and put the same key in, as above. Keep the key you were sent somewhere safe, so that you have it when you need it.
+**More than one computer.** A licence is yours, not one computer's. You may put the same key into Drum Score Editor on as many computers as you own: install it on each and put the key in, as above. Keep the key you were sent somewhere safe, so that you have it when you need it.
+
+**Bands and other organisations.** A licence is for one person. For a band or another organisation, write to [support@drumscore.scot](mailto:support@drumscore.scot) to talk about what you need.
 
 ## Getting a licence
 
