@@ -18,7 +18,7 @@ A new score is made in the `Create New Score` window. It asks two things: what k
 
 The score opens in a new tab. It has no file yet, so save it when you are ready. See [Files and Older Scores](topic:files).
 
-`Cancel`, or the `Esc` key, closes the window at either step without making anything. `Back` returns from the second step to the first.
+`Cancel` closes the window at either step without making anything. On Windows and Linux the `Esc` key does the same. `Back` returns from the second step to the first.
 
 ![The Create New Score window at step 1: eight tune types, nine time signatures and the tempo](images/v4/new-score-step-1.png){: width="536" }
 
