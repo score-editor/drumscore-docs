@@ -58,7 +58,7 @@ For the rest, see [Licensing](topic:licensing).
 | `macOS is set to` | On a Mac only. Shows which of `Increase contrast`, `VoiceOver` and `Zoom` are on in your system. `Open Accessibility Settings…` opens the system's own window for them. |
 | `Choose time signatures with` | `Pictures` are nine small symbols. `Drop-downs` name the two numbers in text, which a screen reader can read and the system can enlarge. `Follow the system` uses drop-downs on a Mac when one of the three settings above is on, and pictures otherwise. It says which it is using now. See [Starting a Score](topic:new-score). |
 | `Paper Background` | The paper behind the music on screen: `White`, `Parchment` or `Twill`. |
-| `Use Pure Black Ink` | Draws the notation in pure black. |
+| `Use Pure Black Ink` | Draws the notation in pure black, on screen, in print and in every export. Use it if your printer makes a poor job of the usual dark grey. |
 | `Appearance` | `Follow System` uses your system's own look, light or dark as the system is. `Light` and `Dark` hold it at one of them. `Custom` uses the theme chosen below. |
 | `Custom Theme Mode` | With `Custom` only: whether to use your `Light` or your `Dark` theme. |
 | `Light Mode Theme`, `Dark Mode Theme` | With `Custom` only: the theme for each mode. Choosing one also switches to that mode. |
