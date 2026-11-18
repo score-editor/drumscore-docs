@@ -34,7 +34,7 @@ Each score opens in its own tab. `Ctrl+Tab` moves to the next tab and `Ctrl+Shif
 
 **`File` ▸ `Open Recent`** lists the last ten scores you opened or saved, newest first, each with its whole path. The first nine have keys: `Cmd+1` to `Cmd+9` on a Mac, `Alt+1` to `Alt+9` on Windows. A file that has since been moved or deleted stays on the list.
 
-**The same score twice.** Drum Score Editor does not check whether a score is already open. Open it again and you have two tabs on one file, and whichever you save last is what the file holds.
+**The same score twice.** A score is open in one tab. Open one that is already open — from `Open…`, from `Open Recent`, or by double-clicking the file — and Drum Score Editor brings its tab to the front rather than opening it again. The status bar says `Already open`, with the file's name. It knows the score by the file itself and not by the path you reached it through, so the same score opened from a shortcut, from a linked folder, or by a different spelling of where it is, is still the one score.
 
 <!-- screenshot: the tab strip with three scores open: one plain ("City Pipe Band Medley"), one with a star before its name ("*The Young MacGregor"), one with a padlock before its name -->
 
@@ -68,6 +68,8 @@ In the Community Edition, a score that uses Studio Edition instruments is not op
 | `File` ▸ `Save All` | Saves every open score that has a file. It skips new scores that have never been saved, and read-only scores, without asking. |
 
 A new score is offered its tune's title as a name, such as "The Young MacGregor.ds". If you leave `.ds` off the name, it is added.
+
+**`Save Score As…` will not write over a score you already have open.** Choose a file another tab is holding and a window titled `That score is already open` says so, and the file window opens again for another name. Saving over it would leave two tabs on one file, and whichever you saved last would replace the other's work. Close that tab first if writing over it is what you meant to do.
 
 If a save fails, a `Save Error` box says the score could not be written, and why when it can. The `Save Score As…` window then opens so you can put the score somewhere else. This is what happens when the file is one your system will not let you change.
 
