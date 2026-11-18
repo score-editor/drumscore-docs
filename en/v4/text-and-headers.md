@@ -154,7 +154,7 @@ Outside the header and footer, text and pictures can be placed only on a page ar
 
 ## Numbering
 
-The `Numbering` group is in the `Score` pane of `File` ▸ `Score Properties…`.
+The `Numbering` group is in the `Score` pane of `File` ▸ `Score Properties…`. Numbering is part of the Studio Edition.
 
 | Tick | What it prints |
 |---|---|

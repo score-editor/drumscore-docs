@@ -21,7 +21,7 @@ If the computer has no printer, Drum Score Editor says so and prints nothing.
 
 ## Make a PDF to send to the band
 
-1. Choose `File` ▸ `Export` ▸ `Export as PDF…`, or the `Export PDF` button on the toolbar.
+1. Choose the `Export PDF` button on the toolbar. In the Studio Edition, `File` ▸ `Export` ▸ `Export as PDF…` does the same.
 2. Choose where to put the file. The name offered is the tune's title, such as "The Young MacGregor.pdf".
 3. Choose to save.
 
