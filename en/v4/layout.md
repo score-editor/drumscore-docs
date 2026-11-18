@@ -59,6 +59,8 @@ The middle two are offered only in the `Standard` layout with the `TraditionalSp
 | `FlatSpacedInBar` | Every note in the bar gets the same room. |
 | `FlatSpacedByBeat` | Every beat gets the same room, and so does every note within a beat. |
 
+Changing the policy does not re-space what is already written. The next Beautify does. The one thing you may see at once on choosing `TraditionalSpacing` is a slight nudge where flams are: it draws a flam's grace note closer in to its main note.
+
 ## Move notes by hand
 
 **Nudge.** Select notes and move them a little at a time with `Nudge left` and `Nudge right` on the editing toolbar, or the nudge keys listed in [Entering Notes](topic:entering-notes). A nudge to the left stops at the start of the line.
@@ -72,6 +74,8 @@ The middle two are offered only in the `Standard` layout with the `TraditionalSp
 ## Staff lines, bars and parts
 
 Right-click on a staff line. The last submenu is `Staff Line`, or `System` where the line carries more than one instrument.
+
+There is no setting for how far a line is set in from the margin. A line is indented by itself where it needs room at the left, for line numbers, part numbers, instrument names or the bracket.
 
 | `Staff Line` ▸ | What it does |
 |---|---|
@@ -133,6 +137,8 @@ The `Page` pane of `File` ▸ `Score Properties…` sets the paper.
 ## How the music flows
 
 A music area is the box on a page that holds a tune's staff lines. You do not normally place it. When a tune's lines do not fit on the page, the tune runs on to as many pages as it needs, and adding or deleting a staff line re-flows the score.
+
+Running on to further pages is part of the Studio Edition. A score made in the Community Edition keeps to one page, with its staff lines spread evenly down it.
 
 - A part is kept together on one page where it can be. The lines of one system are never separated.
 - A tune's header is never left by itself at the foot of a page. If the header and the first part do not fit, the tune starts a new page.
