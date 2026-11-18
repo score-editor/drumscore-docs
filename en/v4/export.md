@@ -2,7 +2,6 @@
 title: Printing and Export
 topic: export
 summary: Printing a score, and saving it as a PDF, a picture or a MusicXML file for somebody who does not have Drum Score Editor.
-draft: true
 ---
 
 A score leaves Drum Score Editor on paper, as a PDF, as a picture of one page, or as a MusicXML file for another notation program. Printing is in both editions. The `Export` menu is part of the Studio Edition.

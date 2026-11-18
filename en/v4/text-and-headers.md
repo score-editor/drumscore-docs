@@ -2,7 +2,6 @@
 title: Text and Headers
 topic: text-and-headers
 summary: Tune headers and the page footer, text and pictures, text tags on the music, watermarks, saved designs, and page, line and part numbers.
-draft: true
 ---
 
 Everything on a page that is not music is covered here: the header over each tune, the footer at the foot of each page, words written on the music, pictures, the watermark and the numbering.
