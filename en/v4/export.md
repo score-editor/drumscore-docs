@@ -91,7 +91,7 @@ MusicXML is for other notation programs. It carries the music and not the look o
 3. The `MusicXML Options` window opens. Check the pitches, then choose `OK`.
 4. The window shows `MusicXML file saved`. Choose `Done`.
 
-<!-- screenshot: the MusicXML Options window as it first opens: columns Left Hand and Right Hand; rows Note (Pitch D and F, Octave 4 and 4) and Grace Note (Pitch D and F, Octave 4 and 4); Export Partwise ticked; OK and Cancel -->
+![The MusicXML Options window: a pitch and octave for each hand, for notes and for grace notes](images/v4/musicxml-options.png){: width="295" }
 
 **Why it asks for pitches.** MusicXML writes a note by where it sits on a stave, and a drum score writes it by hand. So you choose a `Pitch` and `Octave` to stand for the `Left Hand` and the `Right Hand`, for a `Note` and for a `Grace Note`. The window opens with D for the left hand and F for the right, in octave 4.
 
