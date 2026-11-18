@@ -6,7 +6,7 @@ summary: What has changed for someone coming from version 3.6.
 
 Version 4 opens the scores you wrote in 3.6, and it keeps the licence and settings you already have. The window looks different, a good many commands have moved, and a score saved by version 4 can no longer be opened by 3.6. This page says what is new, where things have gone, and what to know before you save.
 
-<!-- screenshot: the version 4 main window with a score open, showing the toolbars, the note toolbox, the rudiments panel and the status bar -->
+![The version 4 window with a score open: toolbars along the top, rudiments at the left, the note toolbox at the right](images/v4/main-window.png){: width="900" }
 
 ## New in version 4
 
@@ -19,8 +19,7 @@ Several of the items below need the Studio Edition, as the productivity features
 - **Headers and footers edited on the page.** Double-click a tune header or a page footer to arrange it. Right-click inside it for `Add Text` and `Add Image`. `Save Header as Template` and `Save Footer as Design` keep a layout for new scores. See [Text and Headers](topic:text-and-headers).
 - **Page margins and binding.** The `Page` pane sets margins as `Small`, `Medium`, `Large` or `Custom`, and can leave room for a binding on the left or top edge. See [Layout and Spacing](topic:layout).
 
-<!-- screenshot: Score Properties with the Tunes section showing, two or three tunes in the list -->
-<!-- screenshot: the New Score window at step 1 (What kind of tune?) and at step 2 -->
+![Score Properties, Tunes section, with three tunes in the score](images/v4/score-properties-tunes.png){: width="752" }
 
 ### Instruments
 
@@ -31,7 +30,7 @@ These are for scores made in the `Standard` general layout. A score keeps the ge
 
 See [Instruments and Staves](topic:instruments).
 
-<!-- screenshot: a system of snare, tenor on five lines and bass, with the bracket and instrument names -->
+![A system of snare, tenor on five lines and bass, joined by a bracket and named at the left](images/v4/instruments-system.png){: width="819" }
 
 ### Spacing
 
@@ -45,7 +44,7 @@ See [Instruments and Staves](topic:instruments).
 See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:rudiments).
 
 <!-- screenshot: the same few lines drawn with Legacy, Uniform and Fit Each Line -->
-<!-- screenshot: a line with View ▸ Bar Locks on, one bar showing its padlock -->
+![A line of music with a padlock over its third bar](images/v4/bar-locks.png){: width="823" }
 
 ### Playing and recording
 
@@ -55,7 +54,7 @@ See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:
 - **Takes.** The record button on the same toolbar records you playing along with the cursor. The microphone is chosen under `Settings` ▸ `Recording`.
 - **Studio.** `File` ▸ `Studio...` is where you assemble your takes, set their levels and write a video.
 
-<!-- screenshot: the Quick Play toolbar with the cursor part-way through a line -->
+![Quick Play running: the bar being played is shaded and a cursor moves through it](images/v4/quick-play.png){: width="900" }
 
 ### Smaller things
 
@@ -86,7 +85,7 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 `Settings` is now grouped as `Licence`, `Appearance`, `Files`, `Libraries`, `Recording`, `Privacy` and `New Score Defaults`. `Score Properties…` shows the same panes as `New Score Defaults`, for the score in front of you. See [Settings](topic:settings), [Score Properties](topic:score-properties) and [Keyboard Shortcuts](topic:shortcuts).
 
 <!-- screenshot: the right-click menu in a music area, with the Score, Measure, Part and Staff Line submenus -->
-<!-- screenshot: the Settings window showing its row of sections -->
+![The Settings window, with its sections along the top](images/v4/settings-sections.png){: width="900" }
 
 ## What is different or not here
 
