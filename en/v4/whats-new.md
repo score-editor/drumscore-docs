@@ -17,6 +17,7 @@ Several of the items below need the Studio Edition, as the productivity features
 - **Several tunes in one score.** `Score Properties…` now has two sections, `Score` and `Tunes`. In `Tunes` you add, remove and reorder the tunes in a score. Each tune has its own title, tune type, time signature, tempo and number of parts, and carries its own header where it begins. See [Score Properties](topic:score-properties).
 - **A new score in two steps.** `New…` first asks `What kind of tune?`, with its time signature and tempo. The second step takes the title, author and band, and the layout. Repeats, bars per line, clef and the header and footer design are under `Advanced options`. See [Starting a Score](topic:new-score).
 - **Headers and footers edited on the page.** Double-click a tune header or a page footer to arrange it. Right-click inside it for `Add Text` and `Add Image`. `Save Header as Template` and `Save Footer as Design` keep a layout for new scores. See [Text and Headers](topic:text-and-headers).
+- **Numbered parts.** In `Score Properties…`, under `Numbering`, tick `Parts`. Each part of a tune then carries its number, in a box, at the left of its first line. The count starts again at one for each tune. It needs the Studio Edition.
 - **Page margins and binding.** The `Page` pane sets margins as `Small`, `Medium`, `Large` or `Custom`, and can leave room for a binding on the left or top edge. See [Layout and Spacing](topic:layout).
 
 ![Score Properties, Tunes section, with three tunes in the score](images/v4/score-properties-tunes.png){: width="752" }
@@ -25,7 +26,7 @@ Several of the items below need the Studio Edition, as the productivity features
 
 These are for scores made in the `Standard` general layout. A score keeps the general layout it was created with.
 
-- **Several instruments on one system.** In the `Notation` pane, `Add Instrument` puts another line on each system: `Snare`, `Tenor` or `Bass`. A bracket joins the lines of a system. `Show Names` writes each instrument's name at the left, and `Join Barlines` runs the barlines through the gap between the lines. `View` ▸ `Instruments` hides or shows each instrument's lines.
+- **Several instruments on one system.** In the `Notation` pane, `Add Instrument` adds a `Snare`, `Tenor` or `Bass` to the score. A new score has a line for each on every system. In a score you already have, right-click a line and use `Staff Line` ▸ `Instruments` to put the new instrument on that line or on the whole tune. A bracket joins the lines of a system. `Show Names` writes each instrument's name at the left, and `Join Barlines` runs the barlines through the gap between the lines. `View` ▸ `Instruments` hides or shows each instrument's lines.
 - **The tenor on five lines.** A tenor's `Stave` can be `One Line` or `Five Lines`. On five lines it is written in the bass clef, each note at its pitch. Choose before you write: once the instrument has notes, its stave cannot be changed.
 
 See [Instruments and Staves](topic:instruments).
@@ -34,7 +35,7 @@ See [Instruments and Staves](topic:instruments).
 
 ### Spacing
 
-- **Line heights.** `Line Heights` in the `Page` pane decides how tall each staff line is drawn. `Legacy` is how your score has always been drawn. `Uniform` makes every line of a tune as tall as its tallest line needs. `Fit Each Line` makes each line as tall as its own marks need. Once a score leaves `Legacy` it cannot go back.
+- **Line heights.** `Line Heights` in the `Engraving` pane decides how tall each staff line is drawn. `Legacy` is how your score has always been drawn. `Uniform` makes every line of a tune as tall as its tallest line needs. `Fit Each Line` makes each line as tall as its own marks need. Once a score leaves `Legacy` it cannot go back.
 - **Lock a bar against Beautify.** Right-click in a bar and choose `Measure` ▸ `Lock Against Beautify`. Beautify and other automatic spacing then leave that bar as you placed it. You can still edit it. `View` ▸ `Bar Locks` shows a padlock over each locked bar.
 - **Barlines that move.** With `Allow barlines to move` ticked in the `Engraving` pane, Beautify places the barlines as well as the notes. It replaces barlines you have placed by hand. It is offered only in the `Standard` layout with the `TraditionalSpacing` spacing policy.
 - **A tuplet inside a tuplet is drawn clear of the one around it.** 3.6 could write one, but drew both brackets on the same side of the notes. Version 4 draws the inner tuplet on the opposite side, so the two do not run into each other.
@@ -43,7 +44,7 @@ See [Instruments and Staves](topic:instruments).
 
 See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:rudiments).
 
-<!-- screenshot: the same few lines drawn with Legacy, Uniform and Fit Each Line -->
+![The same four lines drawn with Legacy, Uniform and Fit Each Line](images/v4/line-heights-compared.png){: width="897" }
 ![A line of music with a padlock over its third bar](images/v4/bar-locks.png){: width="823" }
 
 ### Highlight pens
@@ -73,7 +74,7 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 
 | In 3.6 | In version 4 |
 |---|---|
-| `Insert` ▸ `Music Area`, `Text Area`, `Image Area` | Right-click on empty page: `Insert Music Area`, `Add Text`, `Add Image` |
+| `Insert` ▸ `Music Area`, `Text Area`, `Image Area` | Music runs on to new pages by itself. On a page arranged by hand, right-click on empty page: `Insert Music Area`, `Add Text`, `Add Image` |
 | `Insert` and `Format` ▸ `Music`: parts, staff lines, 2nd time, point size | Right-click in the music. The commands are grouped as `Score`, `Measure`, `Part` and `Staff Line` |
 | `Format` ▸ `Music` ▸ `Beautify` | Right-click in the music, `Score` ▸ `Beautify`. Alt+B still works |
 | `Format` ▸ `Text` | Right-click the text |

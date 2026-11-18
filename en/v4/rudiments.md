@@ -34,7 +34,7 @@ A ruff is also known as a rough, and some of the application's labels spell it t
 
 To write a Swiss ruff that stands by itself, with no main note, press `I` for the left hand or `Shift+I` for the right. It takes up no time in the bar.
 
-<!-- screenshot: one bar holding a flam, a drag, an open drag, a Swiss ruff and a ruff, each labelled underneath -->
+![A flam, a drag, an open drag, a Swiss ruff and a ruff](images/v4/grace-notes.png){: width="495" }
 
 ### Roughs before the barline
 
@@ -42,7 +42,7 @@ A Swiss ruff or a ruff on the first note of a bar can be drawn before the barlin
 
 The `Engraving` pane is in `Settings` ▸ `New Score Defaults` for new scores, and in `File` ▸ `Score Properties…` for the score in front of you. See [Score Properties](topic:score-properties).
 
-<!-- screenshot: the same two bars twice, the second bar starting with a ruff: once with the ruff inside the bar, once with Roughs before the barline ticked and the ruff drawn before the barline -->
+![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="892" }
 
 ## Rolls and buzzes
 
@@ -62,7 +62,7 @@ Two settings change how rolls are drawn:
 - `Roll Ties Below Accents`, in the `Engraving` pane, pulls a roll's tie down close over the note-heads so that it passes under any accent.
 - `Use Z Through Stem For Rolls`, in the `Music Font` pane, draws a Z through the stem instead of slashes. It applies when the score uses a music font, and the pane is part of the Studio Edition.
 
-<!-- screenshot: a five-stroke roll: two rolled semiquavers tied to an accented quaver, with the slashes and the tie visible -->
+![A five-stroke roll: two rolled semiquavers tied on to an accented quaver](images/v4/five-stroke-roll.png){: width="495" }
 
 ## Dotted and cut notes
 
@@ -113,7 +113,7 @@ In the Studio Edition the right-click menu has a `Dynamic` submenu: `ppp`, `pp`,
 
 With two or more notes selected, the hairpin runs from the first to the last. With one note selected, it runs from that note to the end of its bar. A hairpin can run on from one line to the next.
 
-<!-- screenshot: a bar with mf under its first note and a crescendo hairpin running from the first note to the last -->
+![A bar marked mf with a crescendo hairpin from its first note to its last](images/v4/dynamic-and-hairpin.png){: width="495" }
 
 ## Ties and slurs
 
@@ -140,8 +140,8 @@ Select the notes and press the number.
 
 Make the outer tuplet first. Then select the notes of the inner group and press its number. The inner tuplet is drawn on the opposite side of the notes from the outer one, so the two do not run into each other.
 
-<!-- screenshot: a strathspey beat written as a triplet whose last note is divided into an inner triplet, the outer number above the notes and the inner number below -->
-<!-- screenshot: a triplet that begins on a quaver rest followed by two quavers, with its number and slur -->
+![A triplet whose last note is divided into an inner triplet, the outer number above and the inner below](images/v4/tuplet-nested.png){: width="495" }
+![A triplet that begins on a quaver rest](images/v4/tuplet-starting-on-a-rest.png){: width="495" }
 
 ### How tuplets are drawn
 
@@ -163,7 +163,7 @@ Press `U`, use `Unison [u]` on the `Editing toolbar`, or choose `Group` ▸ `Uni
 
 Unison is highlighted in colour unless the score says otherwise. The `Unison` pane sets the colour, and can draw a bracket over the notes instead of the colour or as well as it. Choosing the bracket needs the Studio Edition.
 
-<!-- screenshot: two bars with the second bar marked unison, shown twice: once with the yellow colour highlight, once with a bracket over the notes -->
+![A unison bar shown with a colour highlight, and under a bracket](images/v4/unison-colour-and-bracket.png){: width="892" }
 
 ## Highlight pens
 
@@ -202,7 +202,7 @@ To remove a flourish, select it and press `Delete`.
 
 Three more tenor marks are on the right-click menu. `Group` ▸ `Regimental Piano` and `Group` ▸ `Traditional Piano` draw a piano bracket from the first selected note to the last. `Note` ▸ `Shoulder Strike` is in the table above.
 
-<!-- screenshot: the Note toolbox with the Tenor tab chosen, showing the grid of flourish buttons three to a row -->
+![The note toolbox, Tenor tab: thirty flourish buttons](images/v4/note-toolbox-tenor.png){: width="168" }
 
 ## Rudiment libraries
 
@@ -210,7 +210,7 @@ A rudiment library holds phrases you use often. You drag a phrase from the libra
 
 The `Rudiments` panel is part of the Studio Edition. Show it with `View` ▸ `Show` ▸ `Rudiments`. It sits down the left of the window.
 
-<!-- screenshot: the Rudiments panel with two libraries, one open showing four phrases drawn as music, the other closed -->
+![The Rudiments panel with two libraries, one open showing four phrases](images/v4/rudiments-panel.png){: width="240" }
 
 ### Open or make a library
 

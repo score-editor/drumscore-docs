@@ -19,7 +19,7 @@ The bar is full, and the caret is now in the next bar, ready for you to carry on
 
 If you would rather use the pointer, click the buttons in the note toolbox instead of pressing keys. They do the same thing.
 
-<!-- screenshot: the first line of a new 2/4 march with four quavers (right, left, right, left) in the first bar and the caret at the start of the second bar; the note toolbox showing at the right of the window -->
+![A new 2/4 march with four quavers in its first bar and the caret at the start of the second](images/v4/first-bar-written.png){: width="900" }
 
 ## The caret
 
@@ -43,7 +43,7 @@ The caret cannot go into the clef or the time signature at the start of a line, 
 
 The caret stands on one instrument's line at a time, and it is only as tall as that line. What you type is written on that line. `Down` moves from one line of a system to the line below it, and from the last line to the first line of the next system. `Up` does the reverse. Clicking on a line puts the caret on it.
 
-<!-- screenshot: a system of snare, tenor and bass with the caret standing on the tenor's line only -->
+![A system of snare, tenor and bass with the caret on the tenor's line](images/v4/caret-on-one-line.png){: width="819" }
 
 See [Instruments and Staves](topic:instruments).
 
@@ -59,7 +59,7 @@ Below the notes are five barline buttons and a `Time signature` button. The barl
 
 The `Tenor` tab holds the tenor flourishes. See [Instruments and Staves](topic:instruments).
 
-<!-- screenshot: the note toolbox with the Notes tab in front: three columns of six note values, then the five barline buttons and the Time signature button -->
+![The note toolbox, Notes tab: left-hand notes, right-hand notes and rests, then the barline buttons and the time signature button](images/v4/note-toolbox-notes.png){: width="168" }
 
 ## Notes and rests from the keyboard
 
@@ -126,7 +126,7 @@ Selected notes are shown with a shaded band over them.
 | A whole part | Click a third time |
 | Nothing | `Esc`, or press an arrow key |
 
-<!-- screenshot: a line of music with four notes selected, showing the shaded band over them -->
+![A line of music with four notes selected under a shaded band](images/v4/notes-selected.png){: width="823" }
 
 ### Notes or bar lines
 
@@ -205,7 +205,7 @@ A beam joins a note to the note before it.
 
 **Which way a short beam points.** Where automatic beaming decides a note needs a short beam of its own, it draws it back from the stem. To have it flow forward from the stem instead, right-click the note and choose `Note` ▸ `Force Cut Forward`.
 
-<!-- screenshot: the same four semiquavers twice: first unbeamed, each with its own tails, then joined by a beam after pressing L -->
+![Four semiquavers as written, each with its own tails, and joined by a beam after pressing L](images/v4/beams-by-hand.png){: width="482" }
 
 ## A tenor on five lines
 
@@ -223,7 +223,7 @@ When the caret is on a five-line stave it has a short mark across it at the pitc
 
 Right-clicking a selected note also offers `Add Pitch`, with a list of the pitches it does not have. Holding `Alt` (`Option` on a Mac) and clicking at a height on the stave adds a note-head there to the selected note, or removes the one that is there. A note always keeps at least one pitch.
 
-<!-- screenshot: the caret on a tenor's five-line stave with its pitch mark on the middle line, and the toolbox Notes tab showing the notes column, the rests column and the seven pitch buttons -->
+![The caret on a tenor's five-line stave, and the toolbox showing notes, rests and the seven pitch buttons](images/v4/caret-on-a-tenor-stave.png){: width="900" }
 
 ## The Bar Audit
 
@@ -233,7 +233,7 @@ An empty bar is not marked. Neither is an anacrusis, nor the short bar at the en
 
 The marks are there to help you write. They are not printed or exported. Turn them off or on with `View` ▸ `Bar Audit`.
 
-<!-- screenshot: a line with one bar holding too few notes, marked with a blue zig-zag, and one holding too many, marked with a red zig-zag -->
+![A line with one bar holding too little, marked in blue, and one holding too much, marked in red](images/v4/bar-audit.png){: width="791" }
 
 ## What next
 
