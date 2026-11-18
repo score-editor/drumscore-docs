@@ -34,7 +34,7 @@ Each score opens in its own tab. `Ctrl+Tab` moves to the next tab and `Ctrl+Shif
 
 **`File` ▸ `Open Recent`** lists the last ten scores you opened or saved, newest first, each with its whole path. The first nine have keys: `Cmd+1` to `Cmd+9` on a Mac, `Alt+1` to `Alt+9` on Windows. A file that has since been moved or deleted stays on the list.
 
-**The same score twice.** A score is open in one tab. Open one that is already open — from `Open…`, from `Open Recent`, or by double-clicking the file — and Drum Score Editor brings its tab to the front rather than opening it again. The status bar says `Already open`, with the file's name. It knows the score by the file itself and not by the path you reached it through, so the same score opened from a shortcut, from a linked folder, or by a different spelling of where it is, is still the one score.
+**The same score twice.** A score is open in one tab. Open one that is already open — from `Open…`, from `Open Recent`, or by double-clicking the file — and Drum Score Editor goes to its tab rather than opening it again. It knows the score by the file itself and not by the path you reached it through, so the same score opened from a shortcut, from a linked folder, or by a different spelling of where it is, is still the one score.
 
 <!-- screenshot: the tab strip with three scores open: one plain ("City Pipe Band Medley"), one with a star before its name ("*The Young MacGregor"), one with a padlock before its name -->
 
