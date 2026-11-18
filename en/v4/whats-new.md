@@ -44,7 +44,7 @@ See [Instruments and Staves](topic:instruments).
 
 See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:rudiments).
 
-<!-- screenshot: the same few lines drawn with Legacy, Uniform and Fit Each Line -->
+![The same four lines drawn with Legacy, Uniform and Fit Each Line](images/v4/line-heights-compared.png){: width="897" }
 ![A line of music with a padlock over its third bar](images/v4/bar-locks.png){: width="823" }
 
 ### Highlight pens
