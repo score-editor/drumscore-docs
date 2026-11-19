@@ -29,7 +29,7 @@ In the Studio Edition the sections run along the top. Where a section has more t
 
 ### OK and Cancel
 
-Settings are written when you choose `OK`, and `Cancel` leaves them as they were. Three lists are the exception. Changes to your rudiment libraries, watermark pictures and music fonts are made at once, and `Cancel` does not undo them.
+Settings are written when you choose `OK`, and `Cancel` leaves them as they were. `Esc` is `Cancel`, and so is `Cmd+.` on a Mac. Three lists are the exception. Changes to your rudiment libraries, watermark pictures and music fonts are made at once, and `Cancel` does not undo them.
 
 After `OK`, the paper, the ink and the theme change straight away. A new language, and some parts of a new theme, need a restart.
 
@@ -79,6 +79,7 @@ Windows you open after choosing `OK` are in the new language. The menus keep the
 | Control | What it does |
 |---|---|
 | `Automatic File Saving` | Saves your changes into the score's own file in the background, about three seconds after you stop working, and at least once a minute while you keep going. A score that has never been saved has no file yet, so save it once yourself. A score from 3.6 or earlier is not saved this way until you have saved it once yourself. See [Files and Older Scores](topic:files). |
+| `Prefer saving scores on creation` | Ticked, the `Create New Score` window opens with `Save Generated Score` ticked, so a new score asks at once where to save it. See [Starting a Score](topic:new-score). |
 | `Tell me when an older score is brought up to date` | When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 makes a header for every tune instead, so those copies are always removed when such a score is opened. Ticked, you are told, and the score stays read-only until you save it under a new name. Unticked, it is done silently and the score can be saved over its own file. See [Files and Older Scores](topic:files). |
 
 ## Libraries

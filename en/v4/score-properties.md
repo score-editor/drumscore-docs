@@ -15,7 +15,7 @@ The window has two sections, chosen at the top:
 - `Score` has a list of panes down its left side: `Score`, `Notation`, `Engraving`, `Page`, `Music Font`, `Unison`, `Watermark` and `Highlighters`.
 - `Tunes` lists the tunes in the score, with a form for the one selected.
 
-Nothing changes in the score until you choose `OK`. `Cancel` leaves the score exactly as it was, including any tunes you added or removed in the window. The one exception is the list that shows measurements in `mm` or `inches`: it is the application's own setting and changes at once.
+Nothing changes in the score until you choose `OK`. `Cancel` leaves the score exactly as it was, including any tunes you added or removed in the window. `Esc` is `Cancel`, and so is `Cmd+.` on a Mac. The one exception is the list that shows measurements in `mm` or `inches`: it is the application's own setting and changes at once.
 
 Everything `OK` applies is one step to undo. If you also added, removed or reordered tunes, that is a second step of its own.
 
