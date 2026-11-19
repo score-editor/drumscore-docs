@@ -137,7 +137,7 @@ The `Page` pane of `File` ▸ `Score Properties…` sets the paper.
 
 A music area is the box on a page that holds a tune's staff lines. You do not normally place it. When a tune's lines do not fit on the page, the tune runs on to as many pages as it needs, and adding or deleting a staff line re-flows the score.
 
-Running on to further pages is part of the Studio Edition. A score made in the Community Edition keeps to one page, with its staff lines spread evenly down it.
+In the Community Edition a score keeps to the pages it has; running on to a further page is part of the Studio Edition. A score made in the Community Edition starts on one page, with its staff lines spread evenly down it. A score that already has several pages keeps them. A change that would need another page, such as one staff line too many, is not made, and the status bar says `That needs another page. Running on to a further page is part of the Studio Edition.`
 
 - A part is kept together on one page where it can be. The lines of one system are never separated.
 - A tune's header is never left by itself at the foot of a page. If the header and the first part do not fit, the tune starts a new page.
