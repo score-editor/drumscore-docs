@@ -59,10 +59,10 @@ Each drag, nudge, addition and deletion is one step for `Edit` ▸ `Undo`.
 Right-clicking **a piece** offers:
 
 - `Text`, for a piece of text. See *Format text* below.
-- `Anchor`, with `Across` and `Down`. `Across` holds the piece to the `Left edge`, `Centred` or the `Right edge` of the header. `Down` holds it to the `Top of header` or the `Bottom of header`. `Nearest edge` leaves the choice to where the piece sits, and names the edge it is using. The anchor matters when a header is a different width, as on a landscape tune: the piece keeps its distance from the edge it is anchored to.
+- `Anchor`, with `Across` and `Down`. `Across` holds the piece to the `Left edge`, `Centred` or the `Right edge` of the header. `Down` holds it to the `Top of header` or the `Bottom of header`. For a piece of the footer these read `Top of footer` and `Bottom of footer`, and `Across` is measured across the footer. `Nearest edge` leaves the choice to where the piece sits, and names the edge it is using. The anchor matters when a header is a different width, as on a landscape tune: the piece keeps its distance from the edge it is anchored to.
 - `Delete`.
 
-Right-clicking **an empty place** in a header or footer offers `Add Text` and `Add Image`, then `Save Header as Template` and `Reset Header to Design`. In the footer the last two read `Save Footer as Design` and `Reset Footer to Design`. See *Saved designs* below.
+Right-clicking **an empty place** in a header or footer offers `Add Text` and `Add Image`, then `Save Header as Design` and `Reset Header to Design`. In the footer the last two read `Save Footer as Design` and `Reset Footer to Design`. See *Saved designs* below.
 
 ## Text
 
@@ -138,7 +138,7 @@ Watermark pictures are kept in `Settings` ▸ `Libraries` ▸ `Watermarks`, from
 
 ## Saved designs
 
-When a header or footer is as you want it, keep it for other scores. While arranging, right-click an empty place in it and choose `Save Header as Template` or `Save Footer as Design`, and give the design a name. Its pictures are stored in your library folder with it.
+When a header or footer is as you want it, keep it for other scores. While arranging, right-click an empty place in it and choose `Save Header as Design` or `Save Footer as Design`, and give the design a name. Its pictures are stored in your library folder with it.
 
 - A header design is saved for the general layout of the score it came from. A footer design suits either layout.
 - The first design you save becomes the one new scores are made with. After that, choose under `Settings` ▸ `New Score Defaults` ▸ `Score`, in `Headers and footers`. `Built-in` is the plain header or footer.
