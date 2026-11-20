@@ -22,14 +22,14 @@ In the Studio Edition the sections run along the top. Where a section has more t
 | `Licence` | One pane |
 | `Appearance` | `Appearance`, `Language` |
 | `Files` | One pane |
-| `Libraries` | `Location`, `Rudiments`, `Watermarks`, `Images`, `Music Fonts` |
+| `Libraries` | `Location`, `Rudiments`, `Watermarks`, `Headers and Footers`, `Images`, `Music Fonts` |
 | `Recording` | `Microphone`, `Takes` |
 | `Privacy` | One pane |
 | `New Score Defaults` | `Score`, `Notation`, `Engraving`, `Page`, `Music Font`, `Unison`, `Watermark`, `Highlighters` |
 
 ### OK and Cancel
 
-Settings are written when you choose `OK`, and `Cancel` leaves them as they were. `Esc` is `Cancel`, and so is `Cmd+.` on a Mac. Three lists are the exception. Changes to your rudiment libraries, watermark pictures and music fonts are made at once, and `Cancel` does not undo them.
+Settings are written when you choose `OK`, and `Cancel` leaves them as they were. `Esc` is `Cancel`, and so is `Cmd+.` on a Mac. Four lists are the exception. Changes to your rudiment libraries, watermark pictures, header and footer designs and music fonts are made at once, and `Cancel` does not undo them.
 
 After `OK`, the paper, the ink and the theme change straight away. A new language, and some parts of a new theme, need a restart.
 
@@ -120,6 +120,21 @@ For using a library, see [Rudiments, Rolls and Tuplets](topic:rudiments).
 | `Rename…` | Gives the selected picture a new name. |
 
 Which picture new scores use is chosen under `New Score Defaults` ▸ `Watermark`. For putting a watermark on a score, see [Text and Headers](topic:text-and-headers).
+
+### Headers and Footers
+
+The pane lists the header designs and the footer designs you have saved. The design new scores are made with is marked in each list. Select a design to use the buttons.
+
+| Button | What it does |
+|---|---|
+| `Rename…` | Gives the selected design a new name. A name already in use is refused. A header design saved for both layouts is renamed for both. |
+| `Remove` | Deletes the selected design, after asking. Scores already made with it keep their headers and footers. |
+
+If the design you rename is the one new scores are made with, they go on using it under its new name. If you remove it, new scores go back to the `Built-in` header or footer.
+
+Designs are saved from a score, not here. See [Text and Headers](topic:text-and-headers).
+
+![Settings, Libraries, Headers and Footers: one header design and one footer design, each marked as the default](images/v4/settings-designs.png){: width="700" }
 
 ### Images
 

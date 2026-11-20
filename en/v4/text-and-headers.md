@@ -143,7 +143,8 @@ When a header or footer is as you want it, keep it for other scores. While arran
 - A header design is saved for the general layout of the score it came from. A footer design suits either layout.
 - The first design you save becomes the one new scores are made with. After that, choose under `Settings` ▸ `New Score Defaults` ▸ `Score`, in `Headers and footers`. `Built-in` is the plain header or footer.
 - One score can be given a different design as it is made. See [Starting a Score](topic:new-score).
-- `Reset Header to Design` and `Reset Footer to Design` put the design that new scores are made with back onto this score. This is one step to undo.
+- `Reset Header to Design` and `Reset Footer to Design` put a saved design onto this score. Each opens a list of the designs saved for this score's layout: choose one. It replaces what the header or footer holds, on every tune's header, and is one step to undo. The time signature in a header is kept. With no design saved, the command says to save one first.
+- To rename or remove a saved design, go to `Settings` ▸ `Libraries` ▸ `Headers and Footers`. See [Settings](topic:settings).
 
 Saving a header again under a name you have already used replaces that name's header for that layout. One name can hold a header for each layout.
 
