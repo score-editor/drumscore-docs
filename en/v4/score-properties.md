@@ -65,7 +65,7 @@ In the Community Edition every row of this pane is shown but cannot be changed.
 | `Allow barlines to move` | Beautify places the barlines as well as the notes. `Standard` layout with `TraditionalSpacing` only, otherwise greyed and unticked. Studio Edition. |
 | `Beautify tuplets as they are made` | Making a tuplet re-spaces its bar. Greyed and unticked as the row above is. Studio Edition. |
 | `Proportional Spacing` | Where the caret goes after each note you type. See [Entering Notes](topic:entering-notes). |
-| `Roughs before the barline` | Draws a ruff on the first note of a bar before the barline, where there is room. Studio Edition. See [Rudiments, Rolls and Tuplets](topic:rudiments). |
+| `Ruffs before the barline` | Draws a ruff on the first note of a bar before the barline, where there is room. Studio Edition. See [Rudiments, Rolls and Tuplets](topic:rudiments). |
 
 **Accents and roll ties.** See [Rudiments, Rolls and Tuplets](topic:rudiments).
 

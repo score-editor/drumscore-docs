@@ -23,26 +23,26 @@ A key and a menu item treat a mixed selection differently. The key changes each 
 | A flam | `Z` | `Flam [z]` | `Flam` |
 | A drag | `X` | `Drag [x]` | `Drag` |
 | An open drag | `C` | `Open drag [c]` | `Open Drag` |
-| A Swiss ruff | `V` | `Swiss rough [v]` | `Swiss Ruff` |
-| A ruff | `B` | `Rough [b]` | `Ruff` |
+| A Swiss ruff | `V` | `Swiss ruff [v]` | `Swiss Ruff` |
+| A ruff | `B` | `Ruff [b]` | `Ruff` |
 
 You do not choose left or right. The grace notes are written on the hand opposite the note they lead into. To change the hand of a note, press `Shift+K` or choose `Note` ▸ `Swap Hands`. The grace notes change sides with it.
 
 A note carries one of these at a time. Putting a drag on a note that has a flam replaces the flam.
 
-A ruff is also known as a rough, and some of the application's labels spell it that way.
+A ruff is also known as a rough.
 
 To write a Swiss ruff that stands by itself, with no main note, press `I` for the left hand or `Shift+I` for the right. It takes up no time in the bar.
 
 ![A flam, a drag, an open drag, a Swiss ruff and a ruff](images/v4/grace-notes.png){: width="495" }
 
-### Roughs before the barline
+### Ruffs before the barline
 
-A Swiss ruff or a ruff on the first note of a bar can be drawn before the barline, leading into the bar, with its note-head on the beat. Tick `Roughs before the barline` in the `Engraving` pane. It only happens where the bar before leaves room. Nothing is moved to make space. This setting needs the Studio Edition.
+A Swiss ruff or a ruff on the first note of a bar can be drawn before the barline, leading into the bar, with its note-head on the beat. Tick `Ruffs before the barline` in the `Engraving` pane. It only happens where the bar before leaves room. Nothing is moved to make space. This setting needs the Studio Edition.
 
 The `Engraving` pane is in `Settings` ▸ `New Score Defaults` for new scores, and in `File` ▸ `Score Properties…` for the score in front of you. See [Score Properties](topic:score-properties).
 
-![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="892" }
+![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="757" }
 
 ## Rolls and buzzes
 

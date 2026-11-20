@@ -46,7 +46,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 |---|---|---|
 | Writing music | `Marcato`, `Tenuto`, `Staccato` and `Fermata` on a note, and the `Dynamic` submenu | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | Automatic beaming, and `Beams at Subdivision of Beat` | [Entering Notes](topic:entering-notes) |
-| | `Roughs before the barline` | [Rudiments, Rolls and Tuplets](topic:rudiments) |
+| | `Ruffs before the barline` | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | The `Rudiments` panel and rudiment libraries | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | `View` ▸ `Markup`, to hide dynamics, highlight marks and unison marks without removing them | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | The Bar Audit, which marks a bar that holds too much or too little | [Entering Notes](topic:entering-notes) |
