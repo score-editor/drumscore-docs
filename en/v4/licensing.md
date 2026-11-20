@@ -116,4 +116,4 @@ Licences, and the terms they come with, are available at [drumscore.scot](https:
 
 The About box has two buttons, `View License Agreement` and `View Privacy Policy`. Each opens the document inside the application, in either edition.
 
-`Share anonymous usage data` is a tick box in `Settings` ▸ `Privacy`. Every edition has it, the Community Edition included. See [Settings](topic:settings).
+`Share anonymous usage data` is a tick box in `Settings` ▸ `Privacy`. Every edition has it, the Community Edition included. The same pane has `View Privacy Notice` and `View End User License Agreement`, which open the same two documents, so the notice can be read where the choice is made. See [Settings](topic:settings).

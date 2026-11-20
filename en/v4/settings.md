@@ -165,6 +165,10 @@ Recordings are large, around a gigabyte an hour, so they are kept on this comput
 |---|---|
 | `Share anonymous usage data` | Ticked, the application sends anonymous data about which features are used. Ticked as installed. |
 | `Check for Updates` | Ticked, the application looks for a newer version in the background and tells you when there is one. Ticked as installed. `Help` ▸ `Check for Updates…` looks at once. |
+| `View Privacy Notice` | Opens the privacy notice inside the application. It says what the usage data is and what is done with it. |
+| `View End User License Agreement` | Opens the licence agreement inside the application. |
+
+The two buttons are under `Legal Documents`, at the foot of the pane. They open the same documents as the buttons in the About box.
 
 ## New Score Defaults
 
