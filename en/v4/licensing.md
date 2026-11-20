@@ -82,7 +82,7 @@ In a menu, what needs a licence is left out in the Community Edition. In `Score 
 A licence arrives as a licence key: a block of letters and figures.
 
 1. Copy the whole key.
-2. Open `Settings`. On Windows and Linux choose `File` ▸ `Settings`. On a Mac choose `Settings…` in the application menu. In the Community Edition the window shows the `Licence` pane and nothing else.
+2. Open `Settings`. On Windows and Linux choose `File` ▸ `Settings`. On a Mac choose `Settings…` in the application menu. In the Community Edition the window shows two sections, `Licence` and `Privacy`.
 3. Choose `Paste License Key`. The key appears in the `License Key` box. You can also type or paste into the box yourself.
 4. Choose `OK`. The key is installed on `OK`, not when you paste it.
 5. A message headed `Drum Score License` shows the licensee, the email and the date of issue, and asks you to restart.
@@ -116,4 +116,4 @@ Licences, and the terms they come with, are available at [drumscore.scot](https:
 
 The About box has two buttons, `View License Agreement` and `View Privacy Policy`. Each opens the document inside the application, in either edition.
 
-`Share anonymous usage data` is a tick box in `Settings` ▸ `Privacy`. The Community Edition's `Settings` window shows only the `Licence` pane. See [Settings](topic:settings).
+`Share anonymous usage data` is a tick box in `Settings` ▸ `Privacy`. Every edition has it, the Community Edition included. See [Settings](topic:settings).

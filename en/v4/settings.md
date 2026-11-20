@@ -6,7 +6,7 @@ summary: Every section of the Settings window: the licence, how the application 
 
 `Settings` holds what belongs to the application and to you, not to one score. What belongs to one score is in `File` ▸ `Score Properties…`. See [Score Properties](topic:score-properties).
 
-**The Community Edition shows the `Licence` pane and nothing else.** Every other section on this page is part of the Studio Edition. See [Licensing](topic:licensing).
+**The Community Edition shows two sections: `Licence` and `Privacy`.** Every other section on this page is part of the Studio Edition. See [Licensing](topic:licensing).
 
 ## Open Settings
 
@@ -43,7 +43,7 @@ After `OK`, the paper, the ink and the theme change straight away. A new languag
 
 Choose `OK` to install the key. A message shows the licensee and asks you to restart. The Studio Edition features appear the next time the application starts. A key that is not a licence shows `Invalid License`.
 
-<!-- screenshot: the Settings window in the Community Edition: no sections along the top, only the Licence pane with an empty License Key box, the Paste License Key button, and OK and Cancel -->
+<!-- screenshot: the Settings window in the Community Edition: two sections along the top, Licence and Privacy, and the Licence pane with an empty License Key box, the Paste License Key button, and OK and Cancel -->
 
 For the rest, see [Licensing](topic:licensing).
 
