@@ -42,7 +42,7 @@ A Swiss ruff or a ruff on the first note of a bar can be drawn before the barlin
 
 The `Engraving` pane is in `Settings` ▸ `New Score Defaults` for new scores, and in `File` ▸ `Score Properties…` for the score in front of you. See [Score Properties](topic:score-properties).
 
-![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="757" }
+![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="892" }
 
 ## Rolls and buzzes
 

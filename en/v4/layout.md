@@ -161,7 +161,7 @@ On an arranged page you place the music areas yourself.
 
 You can tick `Page arranged by hand` only while the score has one page and one tune. To untick it, first delete the extra music areas, and move loose text and pictures into the header or footer.
 
-![A page arranged by hand with two music areas side by side, the right-hand one held and showing its handles](images/v4/arranged-page.png){: width="893" }
+![A page arranged by hand with two music areas side by side, the right-hand one held and showing its handles](images/v4/arranged-page.png){: width="898" }
 
 ## This score, or every new score
 
