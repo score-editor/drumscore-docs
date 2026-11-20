@@ -56,7 +56,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | `Clone This Staff Line`, `Redistribute Staff Content` and `Fill Line to the Margin` | [Layout and Spacing](topic:layout) |
 | | `Line Heights` and `Space Between Instruments` | [Layout and Spacing](topic:layout) |
 | | A score that runs on to further pages by itself | [Layout and Spacing](topic:layout) |
-| | Changing the `Notation` pane of a score, such as `Bars per line` and `Use Repeats in Parts` | [Score Properties](topic:score-properties) |
+| | Changing the `Notation` pane of a score, such as `Bars per line` and `Clef on every line` | [Score Properties](topic:score-properties) |
 | Instruments | Several instruments on one system: `Add Instrument`, `Staff Line` ▸ `Instruments`, `Show Names`, `Join Barlines` and `View` ▸ `Instruments` | [Instruments and Staves](topic:instruments) |
 | | The tenor on five lines | [Instruments and Staves](topic:instruments) |
 | | `Pens and pitches`: a highlight pen that stands for a note | [Instruments and Staves](topic:instruments) |
