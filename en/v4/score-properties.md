@@ -17,7 +17,7 @@ The window has two sections, chosen at the top:
 
 Nothing changes in the score until you choose `OK`. `Cancel` leaves the score exactly as it was, including any tunes you added or removed in the window. `Esc` is `Cancel`, and so is `Cmd+.` on a Mac. The one exception is the list that shows measurements in `mm` or `inches`: it is the application's own setting and changes at once.
 
-Everything `OK` applies is one step to undo. If you also added, removed or reordered tunes, that is a second step of its own.
+Everything `OK` applies is one step to undo, changes to the tunes included.
 
 ## A score carries its own settings
 
@@ -48,7 +48,6 @@ In the Community Edition every row of this pane is shown but cannot be changed.
 | `General Layout` | `DrumScoreEditor` or `Standard`. Shown only: it is fixed when the score is made. See [Starting a Score](topic:new-score). |
 | `Bars per line` | How many bars a line gets when a part is added later. It does not re-rule lines already there. |
 | `Inline Time Signature` | Shown only: fixed when the score is made. |
-| `Use Repeats in Parts` | Has no effect on this score. Use `New parts with repeat dots` under `Tunes`. |
 | The instrument rows | One row for each instrument: type, name, stave, `Hands`, clef, and buttons to move or remove it. See [Instruments and Staves](topic:instruments). |
 | `Add Instrument` | Adds a row. `Standard` layout only. |
 | `Show Names` | Writes instrument names at the left of the lines: `Off`, `First System of a Tune` or `Every System`. |
@@ -206,7 +205,7 @@ The whole `Tunes` section is greyed, with the reason shown at its top, in two ca
 - **The staff lines are distributed evenly.** Such a score holds one tune on one page. This is how a score made in the Community Edition is set.
 - **The page is arranged by hand.** An arranged page is never re-flowed, so a second tune would have nowhere to go.
 
-To change the tunes, untick `Distribute Staff Lines Evenly` in the `Engraving` pane, or `Page Arranged By Hand` in the `Page` pane, choose `OK`, and open the window again.
+To change the tunes, untick `Distribute Staff Lines Evenly` in the `Engraving` pane, or `Page Arranged By Hand` in the `Page` pane. The `Tunes` section is freed at once, in the same visit.
 
 ## What cannot be changed
 
