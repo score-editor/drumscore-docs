@@ -182,7 +182,7 @@ Each control is described in [Score Properties](topic:score-properties). Only th
 |---|---|---|
 | `Score` | `Author`, `Band` | The names a new score starts with. |
 | `Score` | `Header design for new scores`, `Footer design for new scores` | Which of your saved designs a new score is made with. `Built-in` is the plain one. The rows appear once you have saved a design. See [Text and Headers](topic:text-and-headers). |
-| `Score` | `Reset all options to default values` | Puts the new-score defaults on all eight panes back to those the application came with. `Author` and `Band` become `Author Name` and `Band`. Your instruments and design choices are left alone. Nothing is written until `OK`. |
+| `Score` | `Reset all options to default values` | Puts the new-score defaults on all eight panes back to those the application came with. `Author` and `Band` become `Author Name` and `Band`. The instruments go back to a single snare line, and the header and footer design for new scores go back to the default. No design you have kept is deleted: each stays in its library to be chosen again. Nothing is written until `OK`. |
 | `Notation` | `General Layout:`, `Inline Time Signature` | Can be changed here. In a score they are fixed when it is made. |
 | `Notation` | `Anacrusis (%):` | The anacrusis the New Score window offers, as a percentage of the line. Empty means none. |
 | `Notation` | The instruments | What each new score is written for. See [Instruments and Staves](topic:instruments). |
