@@ -10,7 +10,7 @@ A new score is made in the `Create New Score` window. It asks two things: what k
 
 1. Choose `File` ▸ `New…`, or press `Cmd+N` on a Mac or `Ctrl+N` on Windows and Linux. The `New` button on the toolbar does the same.
 2. Under `What kind of tune?`, choose a tune type.
-3. Check the `Time Signature` and `Tempo`, and change them if you need to.
+3. Check the `Time signature` and `Tempo`, and change them if you need to.
 4. Choose `Next`.
 5. Type a `Title`. Fill in `Author` and `Band` if you want them.
 6. Check `Orientation`, `Parts` and the anacrusis.
@@ -20,7 +20,7 @@ The score opens in a new tab. It has no file yet, so save it when you are ready.
 
 `Cancel` closes the window at either step without making anything. The `Esc` key does the same, and so does `Cmd+.` on a Mac. `Back` returns from the second step to the first.
 
-![The Create New Score window at step 1: eight tune types, nine time signatures and the tempo](images/v4/new-score-step-1.png){: width="536" }
+![The Create New Score window at step 1: eight tune types, nine time signatures and the tempo](images/v4/new-score-step-1.png){: width="532" }
 
 ## Step 1: the kind of tune
 
@@ -52,12 +52,12 @@ Nine time signatures are shown as pictures: 2/4, 6/8, 4/4, 12/8, 3/4, 9/8, 2/2, 
 For anything else, choose `Other time signatures`. You then get:
 
 - two number boxes, the upper from 2 to 28 and the lower 2, 4 or 8;
-- `Irregular Grouping`, with boxes for the groups. Typing 2 and 3 over 8 gives a 5/8 bar grouped 2+3;
-- `Display using Common symbol` in 4/4, or `Display using Cut-Common symbol` in 2/2.
+- `Irregular grouping`, with boxes for the groups. Typing 2 and 3 over 8 gives a 5/8 bar grouped 2+3;
+- `Display using the common time symbol` in 4/4, or `Display using the cut time symbol` in 2/2.
 
 `Back to typical time signatures` returns to the nine pictures. An irregular grouping is dropped when you go back.
 
-![The time signature set to 5/8 with an irregular grouping of 2 and 3](images/v4/new-score-other-time-signature.png){: width="536" }
+![The time signature set to 5/8 with an irregular grouping of 2 and 3](images/v4/new-score-other-time-signature.png){: width="532" }
 
 ### Tempo
 
@@ -71,14 +71,14 @@ The tune types and time signatures can be shown as drop-down lists with text ins
 
 The heading shows the tune type you chose, such as `New March`.
 
-![The Create New Score window at step 2: title, author, band, orientation, parts and anacrusis](images/v4/new-score-step-2.png){: width="536" }
+![The Create New Score window at step 2: title, author, band, orientation, parts and anacrusis](images/v4/new-score-step-2.png){: width="532" }
 
 | Choice | What it sets |
 |---|---|
 | `Title` | The name of the tune. The box starts with the word "Title" selected, so type over it. |
 | `Author` | Who wrote the score. |
 | `Band` | The band the score is for. |
-| `Save Generated Score` | Ticked, the `Save Score As…` window opens as soon as the score is made, offering the title as the file's name. Cancel it and the score stays open, not yet saved. Unticked, the score opens with no file until you save it. |
+| `Save generated score` | Ticked, the `Save Score As…` window opens as soon as the score is made, offering the title as the file's name. Cancel it and the score stays open, not yet saved. Unticked, the score opens with no file until you save it. |
 | `Orientation` | `Portrait` or `Landscape` paper. |
 | `Parts` | How many parts to rule. It starts at 4. |
 | `Anacrusis, % of a line` | Room for a pickup, as a percentage of the line's width. Leave it empty for no anacrusis. |
@@ -96,11 +96,11 @@ Choose `Advanced options` to see the rest. The window keeps its size and scrolls
 | `General layout` | `DrumScoreEditor` or `Standard`. In `DrumScoreEditor` the time signature sits in an area of its own, apart from the music, and there is no clef. |
 | `Clef` | `None`, `Unpitched`, `Treble` or `Bass`. `Standard` layout only. |
 | `Clef on every line` | Draws the clef at the start of every line. `Standard` layout only, and not available when `Clef` is `None`. |
-| `Inline Time Signature` | Draws the time signature on the first line of music instead of in an area of its own. `Standard` layout only. |
+| `Inline time signature` | Draws the time signature on the first line of music instead of in an area of its own. `Standard` layout only. |
 | `Header design` | Which of your saved header designs the score starts with. |
 | `Footer design` | Which of your saved footer designs the score starts with. |
 
-![Step 2 with Advanced options open: repeat dots, bars per line, general layout, clef, and header and footer design](images/v4/new-score-step-2-advanced.png){: width="536" }
+![Step 2 with Advanced options open: repeat dots, bars per line, general layout, clef, and header and footer design](images/v4/new-score-step-2-advanced.png){: width="532" }
 
 `Header design` and `Footer design` only appear once you have saved a design. A header design is saved for one layout, so the list changes with `General layout`, and the row disappears if you have none for that layout. Choose `Built-in` for the plain header or footer.
 
@@ -108,7 +108,7 @@ To save a design, right-click the header or footer of a score you have arranged 
 
 ## Where the starting values come from
 
-In the Studio Edition, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout`, `Clef`, `Clef on every line` and `Inline Time Signature` all start as `New Score Defaults` in [Settings](topic:settings) has them. `Save Generated Score` starts ticked if you have ticked `Prefer saving scores on creation` in `Settings` ▸ `Files`. What you choose in the window is used for this score only. It does not change your defaults.
+In the Studio Edition, the window opens with your own defaults. `Author`, `Band`, `Orientation`, the anacrusis, `Repeat dots on each part`, `General layout`, `Clef`, `Clef on every line` and `Inline time signature` all start as `New Score Defaults` in [Settings](topic:settings) has them. `Save generated score` starts ticked if you have ticked `Prefer saving scores on creation` in `Settings` ▸ `Files`. What you choose in the window is used for this score only. It does not change your defaults.
 
 In the Community Edition, the window opens with fixed starting values, and `Author` and `Band` start empty.
 
@@ -118,4 +118,4 @@ The score is ruled with the parts, bars per line and repeats you asked for. In t
 
 Your choices are written into the score. Changing `New Score Defaults` later does not change a score you have already made.
 
-To look at them afterwards, choose `File` ▸ `Score Properties…`, or the `Properties` button on the toolbar. See [Score Properties](topic:score-properties). Three choices are fixed once the score is made. They are shown there but cannot be changed: the general layout, `Inline Time Signature` and the anacrusis.
+To look at them afterwards, choose `File` ▸ `Score Properties…`, or the `Properties` button on the toolbar. See [Score Properties](topic:score-properties). Three choices are fixed once the score is made. They are shown there but cannot be changed: the general layout, `Inline time signature` and the anacrusis.

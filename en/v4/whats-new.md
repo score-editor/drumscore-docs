@@ -20,14 +20,14 @@ Several of the items below need the Studio Edition, as the productivity features
 - **Numbered parts.** In `Score Properties…`, under `Numbering`, tick `Parts`. Each part of a tune then carries its number, in a box, at the left of its first line. The count starts again at one for each tune. It needs the Studio Edition.
 - **Page margins and binding.** The `Page` pane sets margins as `Small`, `Medium`, `Large` or `Custom`, and can leave room for a binding on the left or top edge. See [Layout and Spacing](topic:layout).
 
-![Score Properties, Tunes section, with three tunes in the score](images/v4/score-properties-tunes.png){: width="752" }
+![Score Properties, Tunes section, with three tunes in the score](images/v4/score-properties-tunes.png){: width="748" }
 
 ### Instruments
 
 These are for scores made in the `Standard` general layout. A score keeps the general layout it was created with.
 
-- **Several instruments on one system.** In the `Notation` pane, `Add Instrument` adds a `Snare`, `Tenor` or `Bass` to the score. A new score has a line for each on every system. In a score you already have, right-click a line and use `Staff Line` ▸ `Instruments` to put the new instrument on that line or on the whole tune. A bracket joins the lines of a system. `Show Names` writes each instrument's name at the left, and `Join Barlines` runs the barlines through the gap between the lines. `View` ▸ `Instruments` hides or shows each instrument's lines.
-- **The tenor on five lines.** A tenor's `Stave` can be `One Line` or `Five Lines`. On five lines it is written in the bass clef, each note at its pitch. Choose before you write: once the instrument has notes, its stave cannot be changed.
+- **Several instruments on one system.** In the `Notation` pane, `Add Instrument` adds a `Snare`, `Tenor` or `Bass` to the score. A new score has a line for each on every system. In a score you already have, right-click a line and use `Staff Line` ▸ `Instruments` to put the new instrument on that line or on the whole tune. A bracket joins the lines of a system. `Show names` writes each instrument's name at the left, and `Join Barlines` runs the barlines through the gap between the lines. `View` ▸ `Instruments` hides or shows each instrument's lines.
+- **The tenor on five lines.** A tenor's `Stave` can be `One line` or `Five lines`. On five lines it is written in the bass clef, each note at its pitch. Choose before you write: once the instrument has notes, its stave cannot be changed.
 
 See [Instruments and Staves](topic:instruments).
 
@@ -35,11 +35,11 @@ See [Instruments and Staves](topic:instruments).
 
 ### Spacing
 
-- **Line heights.** `Line Heights` in the `Engraving` pane decides how tall each staff line is drawn. `Legacy` is how your score has always been drawn. `Uniform` makes every line of a tune as tall as its tallest line needs. `Fit Each Line` makes each line as tall as its own marks need. Once a score leaves `Legacy` it cannot go back.
+- **Line heights.** `Line heights` in the `Engraving` pane decides how tall each staff line is drawn. `Legacy` is how your score has always been drawn. `Uniform` makes every line of a tune as tall as its tallest line needs. `Fit each line` makes each line as tall as its own marks need. Once a score leaves `Legacy` it cannot go back.
 - **Lock a bar against Beautify.** Right-click in a bar and choose `Measure` ▸ `Lock Against Beautify`. Beautify and other automatic spacing then leave that bar as you placed it. You can still edit it. `View` ▸ `Bar Locks` shows a padlock over each locked bar.
-- **Barlines that move.** With `Allow barlines to move` ticked in the `Engraving` pane, Beautify places the barlines as well as the notes. It replaces barlines you have placed by hand. It is offered only in the `Standard` layout with the `TraditionalSpacing` spacing policy.
+- **Barlines that move.** With `Allow barlines to move` ticked in the `Engraving` pane, Beautify places the barlines as well as the notes. It replaces barlines you have placed by hand. It is offered only in the `Standard` layout with the `Traditional spacing` spacing policy.
 - **A tuplet inside a tuplet is drawn clear of the one around it.** 3.6 could write one, but drew both brackets on the same side of the notes. Version 4 draws the inner tuplet on the opposite side, so the two do not run into each other.
-- **Tuplet number size.** `Tuplet Number Size` in the `Engraving` pane draws the number over an irregular group `Large`, `Medium` or `Small`.
+- **Tuplet number size.** `Tuplet number size` in the `Engraving` pane draws the number over an irregular group `Large`, `Medium` or `Small`.
 - **Hide marks without removing them.** `View` ▸ `Markup` shows or hides `Dynamics`, `Highlight Marks` and `Unison Marks`. The marks stay in the score.
 
 See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:rudiments).
@@ -58,7 +58,7 @@ See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:
 
 - **Quick Play** is a toolbar in the main window, shown with `View` ▸ `Show` ▸ `Quick Play`. It runs a cursor through the music at the tunes' tempos. Right-click in a bar and use `Measure` ▸ `Section` to play or loop that bar, or to mark the bars you want to play.
 - **Takes.** The record button on the same toolbar records you playing along with the cursor. The microphone is chosen under `Settings` ▸ `Recording`.
-- **Studio.** `File` ▸ `Studio...` is where you assemble your takes, set their levels and write a video.
+- **Studio.** `File` ▸ `Studio…` is where you assemble your takes, set their levels and write a video.
 
 ![Quick Play running: the bar being played is shaded and a cursor moves through it](images/v4/quick-play.png){: width="900" }
 
@@ -81,9 +81,9 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 | `Edit` ▸ `Page` | Double-click a tune header or a page footer |
 | `Edit` ▸ `Bar Lines` and `Notes` | `Edit` ▸ `Select Bar Lines` and `Select Notes` |
 | `Edit` ▸ `Settings` (Windows and Linux) | `File` ▸ `Settings`. On a Mac it is still in the application menu |
-| `View` ▸ `Toolbar`, `Edits Bar`, `Notes Actions`, `Rudiments`, `Status Bar` | `View` ▸ `Show` ▸ `Standard toolbar`, `Editing toolbar`, `Note toolbox`, `Rudiments`, `Status Bar` |
+| `View` ▸ `Toolbar`, `Edits Bar`, `Notes Actions`, `Rudiments`, `Status Bar` | `View` ▸ `Show` ▸ `Standard Toolbar`, `Editing Toolbar`, `Note Toolbox`, `Rudiments`, `Status Bar` |
 | `View` ▸ `Bar Content Warnings` | `View` ▸ `Bar Audit` |
-| `View` ▸ `Launch Media Studio…` | `View` ▸ `Show` ▸ `Quick Play`, and `File` ▸ `Studio...` |
+| `View` ▸ `Launch Media Studio…` | `View` ▸ `Show` ▸ `Quick Play`, and `File` ▸ `Studio…` |
 | `View` ▸ `New Rudiment Library…`, `Add Existing Rudiment Library`, `Close Current Rudiment Library` | `Settings` ▸ `Libraries` ▸ `Rudiments`: `New…`, `Add…` and `Remove` |
 | Settings tab `General` | Split between `Appearance` and `Files` |
 | Settings tabs `Options`, `Layout`, `Format` | `Score`, `Notation`, `Page` and `Engraving`, under `New Score Defaults` |

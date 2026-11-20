@@ -20,9 +20,9 @@ A traditional 2/4 march in four parts, written for snare, tenor and bass on one 
 What to look for:
 
 - **Three instruments on a system**, joined by a bracket and named at the left of the first system. See [Instruments and Staves](topic:instruments).
-- **Roll breakdowns** under the snare's rolls, showing the buzzes and taps. This is `Rolls` set to `Roll Breakdown` in [Score Properties](topic:score-properties).
+- **Roll breakdowns** under the snare's rolls, showing the buzzes and taps. This is `Rolls` set to `Roll breakdown` in [Score Properties](topic:score-properties).
 - **Line numbers**, and a page number at the foot. See [Text and Headers](topic:text-and-headers).
-- **`Fit Each Line`**, so each line is as tall as its own marks need. See [Layout and Spacing](topic:layout).
+- **`Fit each line`**, so each line is as tall as its own marks need. See [Layout and Spacing](topic:layout).
 - **A picture in the header and a watermark** behind the music.
 
 Because it is written for more than one instrument, this score opens in the Studio Edition only. The PDF is for everyone. See [Licensing](topic:licensing).
@@ -39,7 +39,7 @@ A strathspey for solo snare by Alan White and Steven McWhirter, in four parts on
 What to look for:
 
 - **Dynamics and hairpins on almost every bar**: where each phrase starts, how far it swells and where it falls away. Open the score in the Studio Edition and play it with Quick Play to hear what they do. See [Rudiments, Rolls and Tuplets](topic:rudiments) for writing them.
-- **Triplets with their numbers below the notes**, which is `Irregular Groups Below Notes` in the `Engraving` pane.
+- **Triplets with their numbers below the notes**, which is `Irregular groups below notes` in the `Engraving` pane.
 - **Rolls and grace notes** closely written, eight lines to the page. See [Rudiments, Rolls and Tuplets](topic:rudiments).
 - **A landscape page**, with the title set in its own font, a picture in the header and the date in the footer. See [Text and Headers](topic:text-and-headers).
 - **A text watermark** across the page.

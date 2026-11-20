@@ -10,7 +10,7 @@ A score is one `.ds` file. This page covers opening and saving, what version 4 d
 
 **Will version 4 open my old scores?** Yes. It opens scores written by 3.6 and by the versions before it. Open them as you always have.
 
-**Does opening one change my file?** No. Nothing is written until you save the score yourself. `Automatic File Saving` leaves a score from 3.6 alone until you have saved it once. See *Automatic File Saving* below.
+**Does opening one change my file?** No. Nothing is written until you save the score yourself. `Automatic file saving` leaves a score from 3.6 alone until you have saved it once. See *Automatic File Saving* below.
 
 **Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4.
 
@@ -85,7 +85,7 @@ Quitting asks the same about one unsaved score. With several, it says how many a
 
 ### Automatic File Saving
 
-In the Studio Edition, `Automatic File Saving` saves your changes into the score's own file in the background. It is on unless you have turned it off. It writes about three seconds after you stop working, and at least once a minute while you keep going. The setting is in `Settings` ▸ `Files`. See [Settings](topic:settings).
+In the Studio Edition, `Automatic file saving` saves your changes into the score's own file in the background. It is on unless you have turned it off. It writes about three seconds after you stop working, and at least once a minute while you keep going. The setting is in `Settings` ▸ `Files`. See [Settings](topic:settings).
 
 - It writes over the score's file, as `Save` does. There is no separate copy.
 - A score that has never been saved has no file, so it is not saved this way. Save it once yourself.

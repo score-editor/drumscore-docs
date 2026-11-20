@@ -13,7 +13,7 @@ Arranging headers and footers, pictures and watermarks need the Studio Edition. 
 ## Change what the header says
 
 1. Choose `File` ▸ `Score Properties…` and go to `Tunes`.
-2. Select the tune, and change its `Title`, `Tune Type` or `Author`.
+2. Select the tune, and change its `Title`, `Tune type` or `Author`.
 3. For the band's name, go to `Score`. In the `Score` pane, change `Band`.
 4. Choose `OK`.
 
@@ -21,7 +21,7 @@ The header and footer change to match. In the Studio Edition you can also type s
 
 ## Move things around in the header
 
-1. Double-click the header. Resting the pointer on it shows `Double-click to edit the Tune Header`.
+1. Double-click the header. Resting the pointer on it shows `Double-click to edit the tune header`.
 2. Click a piece of text or a picture. It shows an outline with eight handles.
 3. Drag it to move it, or drag a handle to resize it.
 4. Click in the music, or press `Esc`, when you have finished.
@@ -101,7 +101,7 @@ While a piece of text is selected or being typed in, the editing toolbar is repl
 
 ### The score's own font
 
-The `Score` pane of `File` ▸ `Score Properties…` has a `Text` group with `Font`, `Choose…` and `Font Size`. This font is used for line numbers, page numbers, instrument names and the stroke counts on rolls, and it is the font a new piece from `Add Text` starts in. It does not restyle text already on the page.
+The `Score` pane of `File` ▸ `Score Properties…` has a `Text` group with `Font`, `Choose…` and `Font size`. This font is used for line numbers, page numbers, instrument names and the stroke counts on rolls, and it is the font a new piece from `Add Text` starts in. It does not restyle text already on the page.
 
 ## Text on the music
 
@@ -131,7 +131,7 @@ A watermark is faint words or a faint picture behind the music on every page. It
 |---|---|
 | `Watermark` | `None`, `Text` or `Image`. `Image` is offered once your library holds a watermark picture. |
 | `% Weight of watermark` | How strongly it prints. |
-| `Watermark Text`, `Font Size` | The words and their size. They are written along the page's diagonal. |
+| `Watermark text`, `Font size` | The words and their size. They are written along the page's diagonal. |
 | `Library:` | Which of your watermark pictures to use. It is drawn in the middle of the page. |
 
 Watermark pictures are kept in `Settings` ▸ `Libraries` ▸ `Watermarks`, from PNG or JPEG files. The watermark that new scores start with is under `Settings` ▸ `New Score Defaults` ▸ `Watermark`.
@@ -174,7 +174,7 @@ In the Community Edition the header and footer show the built-in design, and the
 
 - arranging a header or footer, and `Add Text` and `Add Image`;
 - pictures, which are not shown or printed;
-- the `Watermark` pane. Every page instead carries a faint `Drumscore.scot Free Edition` mark;
+- the `Watermark` pane. Every page instead carries a faint `Drumscore.scot Community Edition` mark;
 - `Settings` beyond the `Licence` pane, and so the libraries and `New Score Defaults`.
 
 See [Licensing](topic:licensing).

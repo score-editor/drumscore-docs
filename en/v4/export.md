@@ -20,7 +20,7 @@ If the computer has no printer, Drum Score Editor says so and prints nothing.
 
 ## Make a PDF to send to the band
 
-1. Choose the `Export PDF` button on the toolbar. In the Studio Edition, `File` ▸ `Export` ▸ `Export as PDF…` does the same.
+1. Choose the `Export PDF` button on the toolbar. `File` ▸ `Export as PDF…` does the same in the Community Edition, and `File` ▸ `Export` ▸ `Export as PDF…` in the Studio Edition.
 2. Choose where to put the file. The name offered is the tune's title, such as "The Young MacGregor.pdf".
 3. Choose to save.
 
@@ -33,7 +33,7 @@ Print, PDF and the three picture formats draw the page the way the screen does, 
 - the marks of `View` ▸ `Bar Audit`;
 - the marks of `View` ▸ `Bar Locks`;
 - the selection and the caret;
-- the `Paper Background`. `Parchment` and `Twill` are for the screen. Paper, PDFs and pictures are always white.
+- the `Paper background`. `Parchment` and `Twill` are for the screen. Paper, PDFs and pictures are always white.
 
 Two choices on the `View` menu do carry through:
 
@@ -46,7 +46,7 @@ MusicXML is different. It always writes the whole score, every instrument and ev
 
 The paper size, orientation and margins are the score's own. They are set in the `Page` pane of `File` ▸ `Score Properties…`. See [Layout and Spacing](topic:layout).
 
-`File` ▸ `Page Setup` is another way to set the paper. It opens your system's page window. The paper size and orientation you choose there become the score's, and the score is laid out again to suit.
+`File` ▸ `Page Setup…` is another way to set the paper. It opens your system's page window. The paper size and orientation you choose there become the score's, and the score is laid out again to suit.
 
 The page is printed at its own size, from the corner of the sheet, with the margins the score gives it. Drum Score Editor does not shrink or stretch the page to fit other paper, and does not add the printer's margins to the score's. So put paper of the score's size in the printer, or change the score's paper first.
 
@@ -88,14 +88,14 @@ MusicXML is for other notation programs. It carries the music and not the look o
 
 1. Choose `File` ▸ `Export` ▸ `Export as MusicXML…`.
 2. Choose where to put the file. A score with more than one tune asks for a folder instead.
-3. The `MusicXML Options` window opens. Check the pitches and the `Export Partwise` tick, then choose `OK`.
+3. The `MusicXML Options` window opens. Check the pitches and the `Export partwise` tick, then choose `OK`.
 4. The window shows `MusicXML file saved`. Choose `Done`.
 
-![The MusicXML Options window: a pitch and octave for each hand, for notes and for grace notes](images/v4/musicxml-options.png){: width="295" }
+![The MusicXML Options window: a pitch and octave for each hand, for notes and for grace notes](images/v4/musicxml-options.png){: width="289" }
 
-**Why it asks for pitches.** MusicXML writes a note by where it sits on a stave, and a drum score writes it by hand. So you choose a `Pitch` and `Octave` to stand for the `Left Hand` and the `Right Hand`, for a `Note` and for a `Grace Note`. The window opens with D for the left hand and F for the right, in octave 4.
+**Why it asks for pitches.** MusicXML writes a note by where it sits on a stave, and a drum score writes it by hand. So you choose a `Pitch` and `Octave` to stand for the `Left hand` and the `Right hand`, for a `Note` and for a `Grace note`. The window opens with D for the left hand and F for the right, in octave 4.
 
-**`Export Partwise`.** MusicXML has two ways of arranging the same music. Partwise writes each instrument from start to finish, one after another. Timewise writes bar by bar, with every instrument's music inside each bar. The music is the same either way. Leave `Export Partwise` ticked unless the program you are sending the file to asks for timewise: nearly every notation program reads partwise, and some read nothing else. DrumScore Editor's own MusicXML import reads partwise only.
+**`Export partwise`.** MusicXML has two ways of arranging the same music. Partwise writes each instrument from start to finish, one after another. Timewise writes bar by bar, with every instrument's music inside each bar. The music is the same either way. Leave `Export partwise` ticked unless the program you are sending the file to asks for timewise: nearly every notation program reads partwise, and some read nothing else. DrumScore Editor's own MusicXML import reads partwise only.
 
 **What is written:**
 
@@ -110,28 +110,29 @@ MusicXML is for other notation programs. It carries the music and not the look o
 
 ## How the output looks
 
-**The music font.** A score drawn with a music font prints and exports in that font. A score drawn with the built-in shapes prints and exports in those. The choice is `Use Music Font`, in the `Music Font` pane, which is part of the Studio Edition.
+**The music font.** A score drawn with a music font prints and exports in that font. A score drawn with the built-in shapes prints and exports in those. The choice is `Use music font`, in the `Music Font` pane, which is part of the Studio Edition.
 
-**The ink.** Notation is normally drawn in a very dark grey. If your printer handles greys badly, tick `Use Pure Black Ink` in [Settings](topic:settings), under `Appearance`: print, PDF and the picture exports are then drawn in pure black, as the screen is.
+**The ink.** Notation is normally drawn in a very dark grey. If your printer handles greys badly, tick `Use pure black ink` in [Settings](topic:settings), under `Appearance`: print, PDF and the picture exports are then drawn in pure black, as the screen is.
 
 **Text in PDF and SVG files** is drawn as shapes. The file looks the same on a computer that has none of your fonts. The words in it cannot be selected or searched.
 
-**The Community Edition** draws every score with the built-in shapes, does not show pictures, and puts a faint "Drumscore.scot Free Edition" watermark on each page. What it prints is the same as its screen in this too.
+**The Community Edition** draws every score with the built-in shapes, does not show pictures, and puts a faint "Drumscore.scot Community Edition" watermark on each page. What it prints is the same as its screen in this too.
 
 ## What needs the Studio Edition
 
 | | Community Edition | Studio Edition |
 |---|---|---|
 | `File` ▸ `Print…` and the `Print` button | Yes | Yes |
-| `File` ▸ `Page Setup` | Yes | Yes |
+| `File` ▸ `Page Setup…` | Yes | Yes |
 | The `Export PDF` button on the toolbar | Yes | Yes |
+| `File` ▸ `Export as PDF…` | Yes | In the `Export` menu |
 | The `File` ▸ `Export` menu | No | Yes |
-| `File` ▸ `Studio...` | No | Yes |
+| `File` ▸ `Studio…` | No | Yes |
 
 See [Licensing](topic:licensing).
 
 ## Video, and bringing music in
 
-`File` ▸ `Studio...` opens the Studio, where you assemble your takes, set their levels and write a video. It is not covered on this page.
+`File` ▸ `Studio…` opens the Studio, where you assemble your takes, set their levels and write a video. It is not covered on this page.
 
 In the Studio Edition, `File` ▸ `Import` ▸ `Import MusicXML…` reads a MusicXML file into a new score. See [Files and Older Scores](topic:files).
