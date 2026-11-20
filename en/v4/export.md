@@ -88,12 +88,14 @@ MusicXML is for other notation programs. It carries the music and not the look o
 
 1. Choose `File` ▸ `Export` ▸ `Export as MusicXML…`.
 2. Choose where to put the file. A score with more than one tune asks for a folder instead.
-3. The `MusicXML Options` window opens. Check the pitches, then choose `OK`.
+3. The `MusicXML Options` window opens. Check the pitches and the `Export Partwise` tick, then choose `OK`.
 4. The window shows `MusicXML file saved`. Choose `Done`.
 
 ![The MusicXML Options window: a pitch and octave for each hand, for notes and for grace notes](images/v4/musicxml-options.png){: width="295" }
 
 **Why it asks for pitches.** MusicXML writes a note by where it sits on a stave, and a drum score writes it by hand. So you choose a `Pitch` and `Octave` to stand for the `Left Hand` and the `Right Hand`, for a `Note` and for a `Grace Note`. The window opens with D for the left hand and F for the right, in octave 4.
+
+**`Export Partwise`.** MusicXML has two ways of arranging the same music. Partwise writes each instrument from start to finish, one after another. Timewise writes bar by bar, with every instrument's music inside each bar. The music is the same either way. Leave `Export Partwise` ticked unless the program you are sending the file to asks for timewise: nearly every notation program reads partwise, and some read nothing else. DrumScore Editor's own MusicXML import reads partwise only.
 
 **What is written:**
 
