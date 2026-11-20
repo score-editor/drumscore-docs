@@ -70,7 +70,7 @@ Right-clicking **an empty place** in a header or footer offers `Add Text` and `A
 
 While arranging, double-click the text. Its words are selected, ready to type over. Press `Enter`, or click elsewhere, to keep what you typed. Press `Esc` to abandon it. Double-click inside the words to select one word, and click three times to select them all.
 
-The title, tune type and author in a header are not fixed words. Each shows what `Score Properties…` holds, and typing over one changes the tune itself. In a score of one tune, typing a new title renames the score as well. The band and the date in the footer cannot be typed over: change `Band` in `Score Properties…`.
+The title, tune type and author in a header are not fixed words. Each shows what `Score Properties…` holds, and typing over one changes the tune itself. In a score of one tune, typing a new title renames the score as well. The band in the footer works the same way: typing over it changes `Band` in `Score Properties…`. The date cannot be typed over. It is the day the score was last changed, and the status bar says so if you try.
 
 Your own text can print these facts too. Type one of these names among the words:
 
