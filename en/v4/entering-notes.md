@@ -49,7 +49,7 @@ See [Instruments and Staves](topic:instruments).
 
 ## The note toolbox
 
-The note toolbox is the column of buttons at the right of the window. Show or hide it with `View` ▸ `Show` ▸ `Note toolbox`. It has two tabs, `Notes` and `Tenor`.
+The note toolbox is the column of buttons at the right of the window. Show or hide it with `View` ▸ `Show` ▸ `Note Toolbox`. It has two tabs, `Notes` and `Tenor`.
 
 The `Notes` tab has three columns: left-hand notes, right-hand notes and rests. Each column runs from the semibreve at the top to the demisemiquaver at the bottom, so a row is one note value three ways. Rest the pointer on a button to see its name, such as `Right quaver`.
 
@@ -100,7 +100,7 @@ A note is written exactly where the caret is. The notes already in the bar are n
 
 After each note or rest the caret moves on by that note's share of the bar. A crotchet in 2/4 moves it half a bar, a quaver a quarter of a bar. Type a bar straight through and it comes out evenly spaced.
 
-This is the `Proportional Spacing` setting, in the `Engraving` pane of `File` ▸ `Score Properties…`. With it unticked, the caret moves only just past the note you drew, and you space the bar yourself.
+This is the `Proportional spacing` setting, in the `Engraving` pane of `File` ▸ `Score Properties…`. With it unticked, the caret moves only just past the note you drew, and you space the bar yourself.
 
 A note typed straight after `Tab` or `Space` lands with its stem on the barline. Beautify moves it clear.
 
@@ -191,7 +191,7 @@ Deleting a barline joins the two bars it separated. Their notes stay where they 
 | `Undo` | `Cmd+Z` | `Ctrl+Z` | `Ctrl+Z` |
 | `Redo` | `Cmd+Shift+Z` | `Ctrl+Y` | `Ctrl+Shift+Z` |
 
-Both are on the `Edit` menu and the standard toolbar. The menu names what it will undo, such as `Undo Insert note`. A drag counts as one step, however far you moved the notes.
+Both are on the `Edit` menu and the standard toolbar. The menu names what it will undo, such as `Undo Insert Note`. A drag counts as one step, however far you moved the notes.
 
 ## Beams
 

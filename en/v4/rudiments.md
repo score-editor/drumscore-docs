@@ -9,7 +9,7 @@ Most of what is on this page is added to notes that are already written. Select 
 ## Three ways to put a mark on
 
 - **A key.** Most marks have one. Press it again to take the mark off.
-- **The `Editing toolbar`.** It runs along the top of the window and works while something is selected. Each button's tip names its key, such as `Flam [z]`. Show it with `View` ▸ `Show` ▸ `Editing toolbar`.
+- **The `Editing Toolbar`.** It runs along the top of the window and works while something is selected. Each button's tip names its key, such as `Flam [z]`. Show it with `View` ▸ `Show` ▸ `Editing Toolbar`.
 - **The right-click menu.** Right-click the selected notes. The marks are grouped under `Note`, `Group` and `Embellishment`. A tick shows that the selection already has the mark. Choose a ticked item to take the mark off.
 
 A key and a menu item treat a mixed selection differently. The key changes each note in turn, so notes that had the mark lose it and the others gain it. The menu makes every selected note the same.
@@ -18,7 +18,7 @@ A key and a menu item treat a mixed selection differently. The key changes each 
 
 ## Grace notes
 
-| To write | Key | `Editing toolbar` | Right-click, `Embellishment` |
+| To write | Key | `Editing Toolbar` | Right-click, `Embellishment` |
 |---|---|---|---|
 | A flam | `Z` | `Flam [z]` | `Flam` |
 | A drag | `X` | `Drag [x]` | `Drag` |
@@ -42,11 +42,11 @@ A Swiss ruff or a ruff on the first note of a bar can be drawn before the barlin
 
 The `Engraving` pane is in `Settings` ▸ `New Score Defaults` for new scores, and in `File` ▸ `Score Properties…` for the score in front of you. See [Score Properties](topic:score-properties).
 
-![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="757" }
+![The same two bars with the ruff inside the bar, and with it drawn before the barline](images/v4/roughs-before-barline.png){: width="892" }
 
 ## Rolls and buzzes
 
-Press `R`, use `Buzz / roll [r]` on the `Editing toolbar`, or choose `Note` ▸ `Roll`.
+Press `R`, use `Buzz / roll [r]` on the `Editing Toolbar`, or choose `Note` ▸ `Roll`.
 
 - **One note selected** becomes a roll.
 - **Several notes selected** become one roll. Each note except the last is rolled and tied to the next. The last note is left plain: it is the note the roll arrives on. The notes may run on from the end of one line to the start of the next.
@@ -59,14 +59,14 @@ The number of slashes through the stem is worked out from the note's length and 
 
 Two settings change how rolls are drawn:
 
-- `Roll Ties Below Accents`, in the `Engraving` pane, pulls a roll's tie down close over the note-heads so that it passes under any accent.
-- `Use Z Through Stem For Rolls`, in the `Music Font` pane, draws a Z through the stem instead of slashes. It applies when the score uses a music font, and the pane is part of the Studio Edition.
+- `Roll ties below accents`, in the `Engraving` pane, pulls a roll's tie down close over the note-heads so that it passes under any accent.
+- `Use Z through stem for rolls`, in the `Music Font` pane, draws a Z through the stem instead of slashes. It applies when the score uses a music font, and the pane is part of the Studio Edition.
 
 ![A five-stroke roll: two rolled semiquavers tied on to an accented quaver](images/v4/five-stroke-roll.png){: width="495" }
 
 ## Dotted and cut notes
 
-| To write | Key | `Editing toolbar` | Right-click, `Note` |
+| To write | Key | `Editing Toolbar` | Right-click, `Note` |
 |---|---|---|---|
 | A dot | `.` | `Dot [.]` | `Dot` |
 | A cut | `-` | `Cut [-]` | `Cut` |
@@ -80,7 +80,7 @@ A dot can go on a rest. A note or rest has a dot or a double dot, not both.
 
 ## Accents and other marks on a note
 
-| To write | Key | `Editing toolbar` | Right-click |
+| To write | Key | `Editing Toolbar` | Right-click |
 |---|---|---|---|
 | An accent | `Y` | `Accent [y]` | `Embellishment` ▸ `Accent` |
 | A heavy accent | `Shift+Y` | `Heavy accent [shift-y]` | `Embellishment` ▸ `Heavy Accent` |
@@ -98,7 +98,7 @@ A note has one of accent, heavy accent, marcato, tenuto and fermata. Choosing an
 
 A backstick is drawn with a cross for its note-head. `Both Strike` draws a second note-head on the other hand's side of the line. `Shoulder Strike` draws a B above the note.
 
-`Align All Accents`, in the `Engraving` pane, lifts left-hand accents so that every accent in a bar sits on one row.
+`Align all accents`, in the `Engraving` pane, lifts left-hand accents so that every accent in a bar sits on one row.
 
 ## Dynamics
 
@@ -106,7 +106,7 @@ In the Studio Edition the right-click menu has a `Dynamic` submenu: `ppp`, `pp`,
 
 ### Crescendo and diminuendo
 
-| To write | Key | `Editing toolbar` | Right-click, `Group` |
+| To write | Key | `Editing Toolbar` | Right-click, `Group` |
 |---|---|---|---|
 | A crescendo | `K` | `Crescendo [k]` | `Crescendo` |
 | A diminuendo | `M` | `Diminuendo [m]` | `Diminuendo` |
@@ -117,7 +117,7 @@ With two or more notes selected, the hairpin runs from the first to the last. Wi
 
 ## Ties and slurs
 
-Select two or more notes and press `T`, use `Tie [t]` on the `Editing toolbar`, or choose `Group` ▸ `Tie / Slur`. The tie joins the first selected note to the last. It can run on from one line to the next.
+Select two or more notes and press `T`, use `Tie [t]` on the `Editing Toolbar`, or choose `Group` ▸ `Tie / Slur`. The tie joins the first selected note to the last. It can run on from one line to the next.
 
 With one note selected, `T` ties that note to the end of its bar. `Group` ▸ `Tie To End Of Bar` does the same. `Group` ▸ `Tie From Start Of Line` draws a tie coming into the note instead.
 
@@ -127,7 +127,7 @@ Select the notes and press the number.
 
 | To write | Key | Elsewhere |
 |---|---|---|
-| A triplet | `3` | `Triplet [3]` on the `Editing toolbar`, or `Group` ▸ `Triplet` |
+| A triplet | `3` | `Triplet [3]` on the `Editing Toolbar`, or `Group` ▸ `Triplet` |
 | A group of 2, 4, 5, 6, 7, 8 or 9 | That digit | `Group` ▸ `Other Irregular`, then the number |
 
 - The group runs from the first selected note to the last. You need at least two things selected.
@@ -149,14 +149,14 @@ These are in the `Engraving` pane, under `Irregular groups` and `Spacing`.
 
 | Setting | What it does |
 |---|---|
-| `Tuplet Number Size` | Draws the number `Large`, `Medium` or `Small`. A new score starts at `Medium`. |
-| `Irregular Groups Below Notes` | Puts the number under the beams in a squared-off bracket, instead of above the music under a curved slur. |
-| `Draw Ties For Irregular Groups` | Draws the slur or bracket. Unticked, only the number is drawn. |
-| `Beautify tuplets as they are made` | Making a tuplet re-spaces its bar from the tuplet's first note, which stays where it is. Taking a tuplet off does not re-space. It works in the `Standard` layout with the `TraditionalSpacing` spacing policy, and needs the Studio Edition. |
+| `Tuplet number size` | Draws the number `Large`, `Medium` or `Small`. A new score starts at `Medium`. |
+| `Irregular groups below notes` | Puts the number under the beams in a squared-off bracket, instead of above the music under a curved slur. |
+| `Draw ties for irregular groups` | Draws the slur or bracket. Unticked, only the number is drawn. |
+| `Beautify tuplets as they are made` | Making a tuplet re-spaces its bar from the tuplet's first note, which stays where it is. Taking a tuplet off does not re-space. It works in the `Standard` layout with the `Traditional spacing` spacing policy, and needs the Studio Edition. |
 
 ## Unison
 
-Press `U`, use `Unison [u]` on the `Editing toolbar`, or choose `Group` ▸ `Unison`, to mark the selected notes as unison.
+Press `U`, use `Unison [u]` on the `Editing Toolbar`, or choose `Group` ▸ `Unison`, to mark the selected notes as unison.
 
 - `Group` ▸ `Fill To Next Note` is ticked to start with: the mark runs on from each note to the next. Untick it, or press `Shift+U`, for a mark that stops at the note.
 - `Group` ▸ `Include Grace Notes` is also ticked to start with: the mark takes in the note's grace notes. Untick it to leave them out.
@@ -167,7 +167,7 @@ Unison is highlighted in colour unless the score says otherwise. The `Unison` pa
 
 ## Highlight pens
 
-There are ten pens at the right-hand end of the `Editing toolbar`, each drawn in its own colour. Select notes or rests and click a pen. Click the same pen again to take the highlight off. A note is under one pen at a time, so another pen replaces the first.
+There are ten pens at the right-hand end of the `Editing Toolbar`, each drawn in its own colour. Select notes or rests and click a pen. Click the same pen again to take the highlight off. A note is under one pen at a time, so another pen replaces the first.
 
 From the keyboard, hold `Shift` and press a digit: `Shift+0` is `Pen 1`, `Shift+1` is `Pen 2`, and so on to `Shift+9` for `Pen 10`.
 
@@ -181,7 +181,7 @@ In the Studio Edition, `View` ▸ `Markup` has three ticks: `Dynamics`, `Highlig
 
 ## Tenor flourishes
 
-The `Note toolbox` at the right of the window has a `Tenor` tab with thirty flourish symbols. Show the toolbox with `View` ▸ `Show` ▸ `Note toolbox`. Hold the pointer over a button to see its name.
+The `Note Toolbox` at the right of the window has a `Tenor` tab with thirty flourish symbols. Show the toolbox with `View` ▸ `Show` ▸ `Note Toolbox`. Hold the pointer over a button to see its name.
 
 1. Click in the music to put the caret where the flourish belongs.
 2. Click the flourish on the `Tenor` tab.
@@ -222,7 +222,7 @@ Go to `Settings` ▸ `Libraries` ▸ `Rudiments`.
 | `Add…` | Opens a `.dsl` file you already have. |
 | `Remove` | Takes the library off the list. The file is not deleted. |
 | `Properties` | Changes the library's title. |
-| `Move up`, `Move down` | Change the order of the libraries in the panel. |
+| `Move Up`, `Move Down` | Change the order of the libraries in the panel. |
 | `Copy to Library Folder…` | Copies libraries kept elsewhere into your library folder. The originals stay where they are. |
 
 The libraries you add stay open between sessions. When none is open, the panel says `No rudiment libraries are open.` and offers `New…` and `Add…` itself.

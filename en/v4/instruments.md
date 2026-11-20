@@ -20,7 +20,7 @@ This starts from a snare score in the `Standard` layout.
 
 1. Choose `File` ▸ `Score Properties…` and open the `Notation` pane.
 2. Under `Instruments`, choose `Add Instrument`. A second row appears, set to `Tenor`.
-3. In the tenor's row, choose its stave: `One Line` or `Five Lines`. Choose now. Once the tenor has notes its stave cannot be changed.
+3. In the tenor's row, choose its stave: `One line` or `Five lines`. Choose now. Once the tenor has notes its stave cannot be changed.
 4. Choose `Add Instrument` again. The third row is set to `Bass`.
 5. Type the name you want for each instrument, then choose `OK`.
 6. Right-click in the music and choose `Staff Line` ▸ `Instruments` ▸ `Whole Tune` ▸ `Tenor`.
@@ -28,7 +28,7 @@ This starts from a snare score in the `Standard` layout.
 
 Steps 6 and 7 are needed because the table only says which instruments the score has. The `Instruments` menu puts one on the lines. Every system of the tune now has three lines, the new ones empty and ready to write on.
 
-![Score Properties, Notation pane: three instruments listed, with Add Instrument and Show Names below](images/v4/score-properties-instruments.png){: width="814" }
+![Score Properties, Notation pane: three instruments listed, with Add Instrument and Show names below](images/v4/score-properties-instruments.png){: width="810" }
 
 ### For every new score
 
@@ -42,7 +42,7 @@ Each row is one instrument. The order of the rows is the order the lines are dra
 |---|---|
 | Type | `Snare`, `Tenor` or `Bass`. |
 | Name | What the instrument is called on the page and in the menus. A new row is named for its type in small letters, so type it as you want it printed. |
-| Stave | `One Line` or `Five Lines`. Tenor rows only. |
+| Stave | `One line` or `Five lines`. Tenor rows only. |
 | `Hands` | Bass rows only. See *The bass without hands* below. |
 | Clef | `None`, `Unpitched`, `Treble` or `Bass`. A new tenor or bass starts in the bass clef, a snare in the unpitched clef. |
 | ▲ and ▼ | Move the instrument up or down the system. |
@@ -50,8 +50,8 @@ Each row is one instrument. The order of the rows is the order the lines are dra
 
 What the table will not let you do:
 
-- **Add a second instrument outside the `Standard` layout.** `Add Instrument` is greyed, and says "More than one instrument is offered in the Standard format".
-- **Choose `Five Lines` outside the `Standard` layout.**
+- **Add a second instrument outside the `Standard` layout.** `Add Instrument` is greyed, and says "More than one instrument is offered in the Standard layout.".
+- **Choose `Five lines` outside the `Standard` layout.**
 - **Change the stave of an instrument that has notes.** A note on one line and a note on five are written differently, and one is never turned into the other. A tenor on five lines that has notes keeps its type as well.
 - **Choose the clef of a tenor on five lines.** It is always the bass clef.
 - **Remove the last instrument.**
@@ -63,8 +63,8 @@ A system has one line for each instrument written on it. A bracket at the left j
 
 | Setting | Where | What it does |
 |---|---|---|
-| `Show Names` | `Notation` pane | Writes each instrument's name at the left of its line, before the bracket. `Off`, `First System of a Tune` or `Every System`. `First System of a Tune` also names any system whose instruments are not those of the system before it. |
-| `Space Between Instruments` | `Engraving` pane | The clear space between the lines of one system. It follows `Space Between Lines` until you type a value of its own. |
+| `Show names` | `Notation` pane | Writes each instrument's name at the left of its line, before the bracket. `Off`, `First system of a tune` or `Every system`. `First system of a tune` also names any system whose instruments are not those of the system before it. |
+| `Space between instruments` | `Engraving` pane | The clear space between the lines of one system. It follows `Space between lines` until you type a value of its own. |
 | `Join Barlines` | Right-click a system, `System` ▸ `Join Barlines` | Ticked, the barlines run through the gaps between the lines. They stop short of any words or figures in the gap. It is set for one system at a time. |
 
 Names are drawn in the same font as the line numbers. With line numbers on, every instrument's line has a number of its own, because the numbers count lines and not systems. A part's number, where parts are numbered, stands beside the top line of the system only.
@@ -103,7 +103,7 @@ A five-line stave takes only notes written at a pitch, and a one-line staff take
 
 ## The tenor on five lines
 
-A tenor set to `Five Lines` is written in the bass clef with a key signature of two sharps, F and C. It has seven notes and no others:
+A tenor set to `Five lines` is written in the bass clef with a key signature of two sharps, F and C. It has seven notes and no others:
 
 | | Lowest | | | | | | Highest |
 |---|---|---|---|---|---|---|---|

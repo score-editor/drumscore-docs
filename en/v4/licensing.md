@@ -17,7 +17,7 @@ Open the About box. On Windows and Linux choose `Help` ▸ `About Drum Score Edi
 
 You can also tell from the page. The Community Edition:
 
-- puts a faint `Drumscore.scot Free Edition` mark on every page, on screen, on paper and in a PDF;
+- puts a faint `Drumscore.scot Community Edition` mark on every page, on screen, on paper and in a PDF;
 - draws the notation with the application's built-in shapes, not with a music font;
 - does not show pictures.
 
@@ -32,7 +32,7 @@ The Community Edition is for writing a score and getting it on to paper. With it
 - change the score's title, band, paper and margins in `File` ▸ `Score Properties…`;
 - save the score;
 - print it, with `File` ▸ `Print…` or the `Print` button;
-- make a PDF, with the `Export PDF` button on the toolbar.
+- make a PDF, with the `Export PDF` button on the toolbar or `File` ▸ `Export as PDF…`.
 
 A new score in the Community Edition starts from fixed values and keeps to one page, with its staff lines spread evenly down it.
 
@@ -45,7 +45,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | Area | With a licence | See |
 |---|---|---|
 | Writing music | `Marcato`, `Tenuto`, `Staccato` and `Fermata` on a note, and the `Dynamic` submenu | [Rudiments, Rolls and Tuplets](topic:rudiments) |
-| | Automatic beaming, and `Beams at Subdivision of Beat` | [Entering Notes](topic:entering-notes) |
+| | Automatic beaming, and `Beams at subdivision of beat` | [Entering Notes](topic:entering-notes) |
 | | `Ruffs before the barline` | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | The `Rudiments` panel and rudiment libraries | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | | `View` ▸ `Markup`, to hide dynamics, highlight marks and unison marks without removing them | [Rudiments, Rolls and Tuplets](topic:rudiments) |
@@ -54,15 +54,15 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | The `Measure` and `Part` submenus of the right-click menu: inserting and deleting bars and parts, a bar's own time signature and barlines, the anacrusis, repeats, 2nd time lines and voltas | [Layout and Spacing](topic:layout) |
 | | `Lock Against Beautify`, and `View` ▸ `Bar Locks` | [Layout and Spacing](topic:layout) |
 | | `Clone This Staff Line`, `Redistribute Staff Content` and `Fill Line to the Margin` | [Layout and Spacing](topic:layout) |
-| | `Line Heights` and `Space Between Instruments` | [Layout and Spacing](topic:layout) |
+| | `Line heights` and `Space between instruments` | [Layout and Spacing](topic:layout) |
 | | A score that runs on to further pages by itself | [Layout and Spacing](topic:layout) |
 | | Changing the `Notation` pane of a score, such as `Bars per line` and `Clef on every line` | [Score Properties](topic:score-properties) |
-| Instruments | Several instruments on one system: `Add Instrument`, `Staff Line` ▸ `Instruments`, `Show Names`, `Join Barlines` and `View` ▸ `Instruments` | [Instruments and Staves](topic:instruments) |
+| Instruments | Several instruments on one system: `Add Instrument`, `Staff Line` ▸ `Instruments`, `Show names`, `Join Barlines` and `View` ▸ `Instruments` | [Instruments and Staves](topic:instruments) |
 | | The tenor on five lines | [Instruments and Staves](topic:instruments) |
 | | `Pens and pitches`: a highlight pen that stands for a note | [Instruments and Staves](topic:instruments) |
 | Text, headers and pictures | Arranging a header or footer on the page, with `Add Text` and `Add Image` | [Text and Headers](topic:text-and-headers) |
 | | Pictures, shown and printed | [Text and Headers](topic:text-and-headers) |
-| | A watermark of your own, or none, in place of the `Drumscore.scot Free Edition` mark | [Text and Headers](topic:text-and-headers) |
+| | A watermark of your own, or none, in place of the `Drumscore.scot Community Edition` mark | [Text and Headers](topic:text-and-headers) |
 | | Numbering: `Pages`, `Lines` and `Parts` | [Text and Headers](topic:text-and-headers) |
 | | The unison bracket, the u inside it, and the weight of the unison colour | [Rudiments, Rolls and Tuplets](topic:rudiments) |
 | Settings | Every section of `Settings` after `Licence`: `Appearance`, `Files`, `Libraries`, `Recording`, `Privacy` and `New Score Defaults` | [Settings](topic:settings) |
@@ -73,7 +73,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | `File` ▸ `Import` ▸ `Import MusicXML…` | [Files and Older Scores](topic:files) |
 | Playing and recording | Quick Play, and `Measure` ▸ `Section` to play or loop bars | [What’s New in Version 4](topic:whats-new) |
 | | Recording takes | [Settings](topic:settings) |
-| | `File` ▸ `Studio...`, to assemble takes and write a video | [What’s New in Version 4](topic:whats-new) |
+| | `File` ▸ `Studio…`, to assemble takes and write a video | [What’s New in Version 4](topic:whats-new) |
 
 In a menu, what needs a licence is left out in the Community Edition. In `Score Properties…` it is shown but greyed, so that you can see how the score is set. Rest the pointer on a greyed setting and it says `Studio edition only. This setting needs a licence.`
 
@@ -83,14 +83,14 @@ A licence arrives as a licence key: a block of letters and figures.
 
 1. Copy the whole key.
 2. Open `Settings`. On Windows and Linux choose `File` ▸ `Settings`. On a Mac choose `Settings…` in the application menu. In the Community Edition the window shows two sections, `Licence` and `Privacy`.
-3. Choose `Paste License Key`. The key appears in the `License Key` box. You can also type or paste into the box yourself.
+3. Choose `Paste Licence Key`. The key appears in the `Licence key` box. You can also type or paste into the box yourself.
 4. Choose `OK`. The key is installed on `OK`, not when you paste it.
-5. A message headed `Drum Score License` shows the licensee, the email and the date of issue, and asks you to restart.
+5. A message headed `Drum Score Editor Licence` shows the licensee, the email and the date of issue, and asks you to restart.
 6. Close Drum Score Editor and start it again. The Studio Edition features appear from then on.
 
-If the message says `Invalid License`, the key was not accepted and nothing has changed. Copy the whole key again, with nothing missing from either end, and repeat.
+If the message says `Invalid Licence`, the key was not accepted and nothing has changed. Copy the whole key again, with nothing missing from either end, and repeat.
 
-Once a licence is installed, the `Licence` pane shows `License Holder`, `Email` and `Issue Date` in place of the box. They cannot be changed there.
+Once a licence is installed, the `Licence` pane shows `Licence holder`, `Email` and `Issue date` in place of the box. They cannot be changed there.
 
 ![Settings, Licence, with a licence installed: the holder, email and issue date](images/v4/settings-licence.png){: width="700" }
 

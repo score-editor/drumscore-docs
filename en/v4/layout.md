@@ -42,23 +42,23 @@ These are under `Spacing` in the `Engraving` pane of `File` ▸ `Score Propertie
 
 | Setting | What it does |
 |---|---|
-| `Spacing Policy` | How a bar shares its width among its notes. See the next table. |
+| `Spacing policy` | How a bar shares its width among its notes. See the next table. |
 | `Allow barlines to move` | Beautify places the barlines as well as the notes, so that a note gets the same room wherever it falls on the line. It replaces barlines you have placed by hand. Studio Edition. |
 | `Beautify tuplets as they are made` | Making a tuplet re-spaces its bar. See [Rudiments, Rolls and Tuplets](topic:rudiments). |
-| `Proportional Spacing` | Where the caret goes after each note you type. See [Entering Notes](topic:entering-notes). |
+| `Proportional spacing` | Where the caret goes after each note you type. See [Entering Notes](topic:entering-notes). |
 
-The middle two are offered only in the `Standard` layout with the `TraditionalSpacing` policy. Otherwise they are greyed and shown unticked.
+The middle two are offered only in the `Standard` layout with the `Traditional spacing` policy. Otherwise they are greyed and shown unticked.
 
-| `Spacing Policy` | How a bar is spaced |
+| `Spacing policy` | How a bar is spaced |
 |---|---|
-| `TraditionalSpacing` | A longer note gets more room than a shorter one, but not in strict proportion, as in engraved music. A new Studio Edition score starts with this. |
-| `AmortizeAcrossBar` | Room in proportion to each note's length. Room taken by grace notes is shared back across the whole bar. Most older scores were written this way. |
-| `AmortizeAcrossBeat` | Each beat gets an equal share of the bar, and the sharing is done within the beat. |
-| `RecoverASAP` | In proportion to length. Room taken by grace notes comes back from the notes straight after them. |
-| `FlatSpacedInBar` | Every note in the bar gets the same room. |
-| `FlatSpacedByBeat` | Every beat gets the same room, and so does every note within a beat. |
+| `Traditional spacing` | A longer note gets more room than a shorter one, but not in strict proportion, as in engraved music. A new Studio Edition score starts with this. |
+| `Amortize across bar` | Room in proportion to each note's length. Room taken by grace notes is shared back across the whole bar. Most older scores were written this way. |
+| `Amortize across beat` | Each beat gets an equal share of the bar, and the sharing is done within the beat. |
+| `Recover ASAP` | In proportion to length. Room taken by grace notes comes back from the notes straight after them. |
+| `Flat spaced in bar` | Every note in the bar gets the same room. |
+| `Flat spaced by beat` | Every beat gets the same room, and so does every note within a beat. |
 
-Changing the policy does not re-space what is already written. The next Beautify does. The one thing you may see at once on choosing `TraditionalSpacing` is a slight nudge where flams are: it draws a flam's grace note closer in to its main note.
+Changing the policy does not re-space what is already written. The next Beautify does. The one thing you may see at once on choosing `Traditional spacing` is a slight nudge where flams are: it draws a flam's grace note closer in to its main note.
 
 ## Move notes by hand
 
@@ -97,24 +97,24 @@ There is no setting for how far a line is set in from the margin. A line is inde
 
 ## Line heights
 
-`Line Heights` is under `Staff lines down the page` in the `Engraving` pane. It needs the Studio Edition.
+`Line heights` is under `Staff lines down the page` in the `Engraving` pane. It needs the Studio Edition.
 
 | Choice | How tall each staff line is drawn |
 |---|---|
 | `Legacy` | The same fixed room above and below every line. This is how a score from an earlier version has always been drawn. |
 | `Uniform` | Every line of a tune is as tall as its tallest line's marks need, so the lines stay evenly spaced. With several instruments, each instrument's lines are sized among themselves. |
-| `Fit Each Line` | Each line is as tall as its own marks need. |
+| `Fit each line` | Each line is as tall as its own marks need. |
 
 Once a score leaves `Legacy` it cannot go back: `Legacy` is no longer in the list. The staff lines stay where they were at the moment it leaves.
 
 The gap between lines is set just below:
 
-- In `Legacy`, `Staff Line Gap Factor` adds or takes away space, as a percentage of the staff line's height.
-- Otherwise, `Space Between Lines` is the clear space between the marks of one line and the next. `Space Between Instruments` is the same within one system.
+- In `Legacy`, `Staff line gap factor` adds or takes away space, as a percentage of the staff line's height.
+- Otherwise, `Space between lines` is the clear space between the marks of one line and the next. `Space between instruments` is the same within one system.
 
-`Distribute Staff Lines Evenly` spreads the lines over the height of the page instead. The score then stays on one page and can hold only one tune.
+`Distribute staff lines evenly` spreads the lines over the height of the page instead. The score then stays on one page and can hold only one tune.
 
-![The same four lines drawn with Legacy, Uniform and Fit Each Line](images/v4/line-heights-compared.png){: width="897" }
+![The same four lines drawn with Legacy, Uniform and Fit each line](images/v4/line-heights-compared.png){: width="897" }
 
 ## The page
 
@@ -123,7 +123,7 @@ The `Page` pane of `File` ▸ `Score Properties…` sets the paper.
 | Setting | Choices |
 |---|---|
 | `Paper size` | `A4`, `A3`, `Letter` or `Legal`. |
-| `Default orientation` | `Portrait` or `Landscape`. |
+| `Orientation` | `Portrait` or `Landscape`. |
 | `Size`, under `Margins` | `Small`, `Medium`, `Large` or `Custom`. |
 | `Values` | The `Left`, `Top`, `Right` and `Bottom` margins. Type in them when `Size` is `Custom`. The list beside them shows the figures in `mm` or `inches`. |
 | `Binding` | `Off`, `Left edge` or `Top edge`, with a `Width`: extra room kept clear on that edge. |
@@ -131,7 +131,7 @@ The `Page` pane of `File` ▸ `Score Properties…` sets the paper.
 
 ![Score Properties, Page pane, with custom margins and binding on the left edge](images/v4/score-properties-page.png){: width="800" }
 
-**The size of the music.** Right-click in the music and choose `Score` ▸ `Point Size`, then a size from 12 to 48. It applies to the whole score. In the Studio Edition, `Music Font Size` in the `Music Font` pane takes a figure of your own when the score uses a music font.
+**The size of the music.** Right-click in the music and choose `Score` ▸ `Point Size`, then a size from 12 to 48. It applies to the whole score. In the Studio Edition, `Music font size` in the `Music Font` pane takes a figure of your own when the score uses a music font.
 
 ## How the music flows
 
@@ -146,7 +146,7 @@ In `File` ▸ `Score Properties…`, under `Tunes`, each tune has two layout cho
 
 ### A page arranged by hand
 
-A score with `Page Arranged By Hand` ticked, in the `Page` pane, is never re-flowed. Everything stays where you put it, and the score keeps to one page. A score from an earlier version opens this way if a tune has more than one music area on a page, or if text or a picture was placed on the page outside the header and footer.
+A score with `Page arranged by hand` ticked, in the `Page` pane, is never re-flowed. Everything stays where you put it, and the score keeps to one page. A score from an earlier version opens this way if a tune has more than one music area on a page, or if text or a picture was placed on the page outside the header and footer.
 
 On an arranged page you place the music areas yourself.
 
@@ -159,12 +159,12 @@ On an arranged page you place the music areas yourself.
 | Remove it | Press `Delete` while it is held, or right-click it and choose `Delete Music Area`. A tune keeps at least one. |
 | Let go | Click inside it, or anywhere else. |
 
-You can tick `Page Arranged By Hand` only while the score has one page and one tune. To untick it, first delete the extra music areas, and move loose text and pictures into the header or footer.
+You can tick `Page arranged by hand` only while the score has one page and one tune. To untick it, first delete the extra music areas, and move loose text and pictures into the header or footer.
 
-![A page arranged by hand with two music areas side by side, the right-hand one held and showing its handles](images/v4/arranged-page.png){: width="893" }
+![A page arranged by hand with two music areas side by side, the right-hand one held and showing its handles](images/v4/arranged-page.png){: width="898" }
 
 ## This score, or every new score
 
-Everything above that is in `File` ▸ `Score Properties…` belongs to the score in front of you and is saved in it. In the Studio Edition, `Settings` ▸ `New Score Defaults` has the same `Notation`, `Engraving` and `Page` panes for scores you have yet to make. `Page Arranged By Hand` and `Tunes` are not there. See [Score Properties](topic:score-properties) and [Settings](topic:settings).
+Everything above that is in `File` ▸ `Score Properties…` belongs to the score in front of you and is saved in it. In the Studio Edition, `Settings` ▸ `New Score Defaults` has the same `Notation`, `Engraving` and `Page` panes for scores you have yet to make. `Page arranged by hand` and `Tunes` are not there. See [Score Properties](topic:score-properties) and [Settings](topic:settings).
 
 Headers, footers, text and pictures are in [Text and Headers](topic:text-and-headers). Several instruments on a system, and the tenor's five-line stave, are in [Instruments and Staves](topic:instruments). For paper copies and files, see [Printing and Export](topic:export).

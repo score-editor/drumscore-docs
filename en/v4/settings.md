@@ -37,13 +37,13 @@ After `OK`, the paper, the ink and the theme change straight away. A new languag
 
 | Control | What it does |
 |---|---|
-| `License Holder`, `Email`, `Issue Date` | With a licence installed: whose it is and when it was issued. They cannot be changed here. |
-| `License Key` | Without a licence: the box for the key you were sent. |
-| `Paste License Key` | Pastes the key from the clipboard into the box. |
+| `Licence holder`, `Email`, `Issue date` | With a licence installed: whose it is and when it was issued. They cannot be changed here. |
+| `Licence key` | Without a licence: the box for the key you were sent. |
+| `Paste Licence Key` | Pastes the key from the clipboard into the box. |
 
-Choose `OK` to install the key. A message shows the licensee and asks you to restart. The Studio Edition features appear the next time the application starts. A key that is not a licence shows `Invalid License`.
+Choose `OK` to install the key. A message shows the licensee and asks you to restart. The Studio Edition features appear the next time the application starts. A key that is not a licence shows `Invalid Licence`.
 
-<!-- screenshot: the Settings window in the Community Edition: two sections along the top, Licence and Privacy, and the Licence pane with an empty License Key box, the Paste License Key button, and OK and Cancel -->
+<!-- screenshot: the Settings window in the Community Edition: two sections along the top, Licence and Privacy, and the Licence pane with an empty Licence key box, the Paste Licence Key button, and OK and Cancel -->
 
 For the rest, see [Licensing](topic:licensing).
 
@@ -57,11 +57,11 @@ For the rest, see [Licensing](topic:licensing).
 |---|---|
 | `macOS is set to` | On a Mac only. Shows which of `Increase contrast`, `VoiceOver` and `Zoom` are on in your system. `Open Accessibility Settings…` opens the system's own window for them. |
 | `Choose time signatures with` | `Pictures` are nine small symbols. `Drop-downs` name the two numbers in text, which a screen reader can read and the system can enlarge. `Follow the system` uses drop-downs on a Mac when one of the three settings above is on, and pictures otherwise. It says which it is using now. See [Starting a Score](topic:new-score). |
-| `Paper Background` | The paper behind the music on screen: `White`, `Parchment` or `Twill`. |
-| `Use Pure Black Ink` | Draws the notation in pure black, on screen, in print and in every export. Use it if your printer makes a poor job of the usual dark grey. |
-| `Appearance` | `Follow System` uses your system's own look, light or dark as the system is. `Light` and `Dark` hold it at one of them. `Custom` uses the theme chosen below. |
-| `Custom Theme Mode` | With `Custom` only: whether to use your `Light` or your `Dark` theme. |
-| `Light Mode Theme`, `Dark Mode Theme` | With `Custom` only: the theme for each mode. Choosing one also switches to that mode. |
+| `Paper background` | The paper behind the music on screen: `White`, `Parchment` or `Twill`. |
+| `Use pure black ink` | Draws the notation in pure black, on screen, in print and in every export. Use it if your printer makes a poor job of the usual dark grey. |
+| `Appearance` | `Follow system` uses your system's own look, light or dark as the system is. `Light` and `Dark` hold it at one of them. `Custom` uses the theme chosen below. |
+| `Custom theme mode` | With `Custom` only: whether to use your `Light` or your `Dark` theme. |
+| `Light mode theme`, `Dark mode theme` | With `Custom` only: the theme for each mode. Choosing one also switches to that mode. |
 
 <!-- screenshot: Settings showing Appearance ▸ Appearance on a Mac: the Accessibility group with "macOS is set to" and the three "Choose time signatures with" choices, the Paper and ink group, and the Theme group with Custom chosen so the three theme rows are live -->
 
@@ -69,7 +69,7 @@ For the rest, see [Licensing](topic:licensing).
 
 | Control | What it does |
 |---|---|
-| `Auto-detect System Language` | Uses your system's language where the application has it. While ticked, the `Language` row is greyed. |
+| `Auto-detect system language` | Uses your system's language where the application has it. While ticked, the `Language` row is greyed. |
 | `Language` | English, French or German. |
 
 Windows you open after choosing `OK` are in the new language. The menus keep the old one until you restart.
@@ -78,8 +78,8 @@ Windows you open after choosing `OK` are in the new language. The menus keep the
 
 | Control | What it does |
 |---|---|
-| `Automatic File Saving` | Saves your changes into the score's own file in the background, about three seconds after you stop working, and at least once a minute while you keep going. A score that has never been saved has no file yet, so save it once yourself. A score from 3.6 or earlier is not saved this way until you have saved it once yourself. See [Files and Older Scores](topic:files). |
-| `Prefer saving scores on creation` | Ticked, the `Create New Score` window opens with `Save Generated Score` ticked, so a new score asks at once where to save it. See [Starting a Score](topic:new-score). |
+| `Automatic file saving` | Saves your changes into the score's own file in the background, about three seconds after you stop working, and at least once a minute while you keep going. A score that has never been saved has no file yet, so save it once yourself. A score from 3.6 or earlier is not saved this way until you have saved it once yourself. See [Files and Older Scores](topic:files). |
+| `Prefer saving scores on creation` | Ticked, the `Create New Score` window opens with `Save generated score` ticked, so a new score asks at once where to save it. See [Starting a Score](topic:new-score). |
 | `Tell me when an older score is brought up to date` | When a score ran on to a second page in version 3, the items of its header were copied on to the later pages. Version 4 makes a header for every tune instead, so those copies are always removed when such a score is opened. Ticked, you are told, and the score stays read-only until you save it under a new name. Unticked, it is done silently and the score can be saved over its own file. See [Files and Older Scores](topic:files). |
 
 ## Libraries
@@ -104,7 +104,7 @@ The list shows the rudiment libraries that are open. A library whose file has go
 | `Add…` | Opens a `.dsl` library file you already have. |
 | `Remove` | Takes the library off the list. The file is not deleted. |
 | `Properties` | Changes the library's title. |
-| `Move up`, `Move down` | Change the order of the libraries. |
+| `Move Up`, `Move Down` | Change the order of the libraries. |
 | `Copy to Library Folder…` | Copies libraries kept elsewhere into your library folder. The originals stay where they are. |
 
 For using a library, see [Rudiments, Rolls and Tuplets](topic:rudiments).
@@ -150,7 +150,7 @@ See *Music fonts* below.
 
 ## Recording
 
-A take is a recording of you playing along with a score. Takes are assembled into a video in `File` ▸ `Studio...`.
+A take is a recording of you playing along with a score. Takes are assembled into a video in `File` ▸ `Studio…`.
 
 ### Microphone
 
@@ -179,11 +179,11 @@ Recordings are large, around a gigabyte an hour, so they are kept on this comput
 | Control | What it does |
 |---|---|
 | `Share anonymous usage data` | Ticked, the application sends anonymous data about which features are used. Ticked as installed. |
-| `Check for Updates` | Ticked, the application looks for a newer version in the background and tells you when there is one. Ticked as installed. `Help` ▸ `Check for Updates…` looks at once. |
+| `Check for updates` | Ticked, the application looks for a newer version in the background and tells you when there is one. Ticked as installed. `Help` ▸ `Check for Updates…` looks at once. |
 | `View Privacy Notice` | Opens the privacy notice inside the application. It says what the usage data is and what is done with it. |
 | `View End User License Agreement` | Opens the licence agreement inside the application. |
 
-The two buttons are under `Legal Documents`, at the foot of the pane. They open the same documents as the buttons in the About box.
+The two buttons are under `Legal documents`, at the foot of the pane. They open the same documents as the buttons in the About box.
 
 ## New Score Defaults
 
@@ -197,17 +197,17 @@ Each control is described in [Score Properties](topic:score-properties). Only th
 |---|---|---|
 | `Score` | `Author`, `Band` | The names a new score starts with. |
 | `Score` | `Header design for new scores`, `Footer design for new scores` | Which of your saved designs a new score is made with. `Built-in` is the plain one. The rows appear once you have saved a design. See [Text and Headers](topic:text-and-headers). |
-| `Score` | `Reset all options to default values` | Puts the new-score defaults on all eight panes back to those the application came with. `Author` and `Band` become `Author Name` and `Band`. The instruments go back to a single snare line, and the header and footer design for new scores go back to the default. No design you have kept is deleted: each stays in its library to be chosen again. Nothing is written until `OK`. |
-| `Notation` | `General Layout:`, `Inline Time Signature` | Can be changed here. In a score they are fixed when it is made. |
+| `Score` | `Reset All Options to Default Values` | Puts the new-score defaults on all eight panes back to those the application came with. `Author` and `Band` become `Author name` and `Band`. The instruments go back to a single snare line, and the header and footer design for new scores go back to the default. No design you have kept is deleted: each stays in its library to be chosen again. Nothing is written until `OK`. |
+| `Notation` | `General layout:`, `Inline time signature` | Can be changed here. In a score they are fixed when it is made. |
 | `Notation` | `Anacrusis (%):` | The anacrusis the New Score window offers, as a percentage of the line. Empty means none. |
 | `Notation` | The instruments | What each new score is written for. See [Instruments and Staves](topic:instruments). |
-| `Engraving` | `Distribute Staff Lines Evenly` | Can always be ticked here. In a score it needs one page and one tune. |
+| `Engraving` | `Distribute staff lines evenly` | Can always be ticked here. In a score it needs one page and one tune. |
 | `Watermark` | `Set as Default` | Makes the selected library picture the one new scores use. It is marked `(default)`. |
 | `Watermark` | `New scores reference the default watermark instead of embedding it (smaller files)` | Ticked, a new score names the default picture and does not carry a copy of it. |
 | `Watermark` | `Manage Watermarks on This System…` | Goes to `Libraries` ▸ `Watermarks`. |
-| `Highlighters` | `Reset pens to defaults` | Puts the ten colours and the notes they stand for back to those the application came with. The rest of your defaults are left alone. |
+| `Highlighters` | `Reset Pens to Defaults` | Puts the ten colours and the notes they stand for back to those the application came with. The rest of your defaults are left alone. |
 
-The title, version and file name of a score, its `Rolls` setting, `Tunes` and `Page Arranged By Hand` are in `Score Properties…` only. There is no default tempo or number of parts: the New Score window asks for those each time.
+The title, version and file name of a score, its `Rolls` setting, `Tunes` and `Page arranged by hand` are in `Score Properties…` only. There is no default tempo or number of parts: the New Score window asks for those each time.
 
 ![Settings, New Score Defaults, Score pane: credits, text, numbering, and the header and footer designs](images/v4/settings-new-score-defaults.png){: width="700" }
 
@@ -222,7 +222,7 @@ Notation is drawn either with the application's built-in shapes or from a SMuFL 
 | `Add Font…` | Asks for the font's `.otf` file, then for its metadata `.json` file. Both are needed. Copies of the two files are kept in the `fonts` folder inside your `.DrumScoreEditor` folder, and the font is listed under the name of its `.otf` file. |
 | `Remove Font` | Removes the selected font and deletes its copies, after asking. Bravura cannot be removed. |
 
-**Choosing a font** is done with `Use Music Font`, in the `Music Font` pane. In `New Score Defaults` it is for new scores, and in `Score Properties…` for the score in front of you. `Built-in` is the application's own shapes. Choose a font by name and the other settings on the pane apply.
+**Choosing a font** is done with `Use music font`, in the `Music Font` pane. In `New Score Defaults` it is for new scores, and in `Score Properties…` for the score in front of you. `Built-in` is the application's own shapes. Choose a font by name and the other settings on the pane apply.
 
 <!-- screenshot: Settings showing Libraries ▸ Music Fonts: the list with Bravura and one added font selected, and the Add Font… and Remove Font buttons at the right -->
 
