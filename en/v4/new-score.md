@@ -104,7 +104,7 @@ Choose `Advanced options` to see the rest. The window keeps its size and scrolls
 
 `Header design` and `Footer design` only appear once you have saved a design. A header design is saved for one layout, so the list changes with `General layout`, and the row disappears if you have none for that layout. Choose `Built-in` for the plain header or footer.
 
-To save a design, right-click the header or footer of a score you have arranged and choose `Save Header as Template` or `Save Footer as Design`. See [Text and Headers](topic:text-and-headers).
+To save a design, right-click the header or footer of a score you have arranged and choose `Save Header as Design` or `Save Footer as Design`. See [Text and Headers](topic:text-and-headers).
 
 ## Where the starting values come from
 
