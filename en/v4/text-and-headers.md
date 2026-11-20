@@ -28,7 +28,7 @@ The header and footer change to match. In the Studio Edition you can also type s
 
 The footer works the same way: double-click it. Either way in, every tune's header and the footer can all be arranged until you leave.
 
-![A tune header being arranged: the header outlined, the title selected and showing its handles](images/v4/header-being-arranged.png){: width="898" }
+![A tune header being arranged: the header outlined, the title selected and showing its handles](images/v4/header-being-arranged.png){: width="893" }
 
 ## Arranging a header or footer
 
