@@ -114,6 +114,6 @@ Licences, and the terms they come with, are available at [drumscore.scot](https:
 
 ## The licence agreement, privacy and usage data
 
-The About box has two buttons, `View License Agreement` and `View Privacy Policy`. Each opens the document inside the application, in either edition.
+The About box has three buttons, `View License Agreement`, `View Privacy Policy` and `Acknowledgements`. Each opens a document inside the application, in either edition. `Acknowledgements` credits the font, the icons and the software Drum Score Editor is built on, and carries their licences. It is in English in every language.
 
 `Share anonymous usage data` is a tick box in `Settings` ▸ `Privacy`. Every edition has it, the Community Edition included. The same pane has `View Privacy Notice` and `View End User License Agreement`, which open the same two documents, so the notice can be read where the choice is made. See [Settings](topic:settings).
