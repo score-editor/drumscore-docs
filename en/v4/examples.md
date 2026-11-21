@@ -48,6 +48,27 @@ This score opens in either edition. The Community Edition draws it with its buil
 
 This setting is its authors' own work. It is here to study and to learn the application from.
 
+## A march, strathspey and reel in one score
+
+![The three pages of the score side by side: a march on a portrait page, a strathspey on a landscape page and a reel on a portrait page](images/v4/examples/solo-msr.png){: width="700" }
+
+A solo snare set by Alan White and Steven McWhirter: the march The Young MacGregor, the strathspey The Caledonian Society of London and the reel MacAllister's Dirk. It is here to show several tunes kept in one score, where each would once have been a file of its own.
+
+- [Download the score](examples/v4/solo-msr.ds)
+- [Look at the PDF](examples/v4/solo-msr.pdf)
+
+What to look for:
+
+- **Three tunes in one score.** Each has its own title, tune type, time signature and tempo, set in `File` ▸ `Score Properties…` under `Tunes`. See [Score Properties](topic:score-properties).
+- **A header for every tune**, where the tune begins, with the tune's own title and tune type and the same picture. See [Text and Headers](topic:text-and-headers).
+- **A landscape page between two portrait ones.** The strathspey's `Orientation` is `Landscape`, and a tune turned the other way from the page before it starts a new page. See [Layout and Spacing](topic:layout).
+- **Line numbers that run on through the score**, from 1 in the march to 32 at the end of the reel, and a page number at the foot of each page.
+- **One watermark** behind all three pages.
+
+This score opens in either edition. The Community Edition draws it with its built-in shapes and does not show the picture.
+
+This setting is its authors' own work. It is here to study and to learn the application from.
+
 ## Offer a score of your own
 
 More examples are wanted, of every kind: marches, strathspeys, reels, jigs, hornpipes, slow airs, corps scores with tenor and bass, and anything that shows a good way of writing something down.
