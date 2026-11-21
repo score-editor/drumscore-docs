@@ -65,7 +65,7 @@ What to look for:
 - **Line numbers that run on through the score**, from 1 in the march to 32 at the end of the reel, and a page number at the foot of each page.
 - **One watermark** behind all three pages.
 
-This score opens in either edition. The Community Edition draws it with its built-in shapes and does not show the picture.
+Because it holds more than one tune, this score opens in the Studio Edition only. The PDF is for everyone. See [Licensing](topic:licensing).
 
 This setting is its authors' own work. It is here to study and to learn the application from.
 
