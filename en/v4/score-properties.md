@@ -207,6 +207,8 @@ The whole `Tunes` section is greyed, with the reason shown at its top, in two ca
 
 To change the tunes, untick `Distribute staff lines evenly` in the `Engraving` pane, or `Page arranged by hand` in the `Page` pane. The `Tunes` section is freed at once, in the same visit.
 
+Several tunes in one score needs the Studio Edition. In the Community Edition `+` is greyed, and the one tune's own details can still be changed. See [Licensing](topic:licensing).
+
 ## What cannot be changed
 
 These are shown so that you can see how the score was made. Rest the pointer on one for the reason.

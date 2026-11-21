@@ -38,7 +38,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 
 **A score made in the Studio Edition.** The Community Edition opens it and draws it in its own way: built-in shapes, no pictures, and its own mark in place of the score's watermark. The score's settings are not lost. They stay in the file. Page, line and part numbers are still drawn where the score has them, though the Community Edition cannot turn them on or off.
 
-**Two kinds of score it does not open.** A score with more than one instrument on a system, and a score with a tenor on a five-line stave. The application tells you which of the two the score has. The file is left unchanged.
+**Three kinds of score it does not open.** A score with more than one tune, a score with more than one instrument on a system, and a score with a tenor on a five-line stave. The application tells you which of these the score has. The file is left unchanged.
 
 ## What the Studio Edition adds
 
@@ -57,6 +57,7 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | `Line heights` and `Space between instruments` | [Layout and Spacing](topic:layout) |
 | | A score that runs on to further pages by itself | [Layout and Spacing](topic:layout) |
 | | Changing the `Notation` pane of a score, such as `Bars per line` and `Clef on every line` | [Score Properties](topic:score-properties) |
+| Tunes | Several tunes in one score: adding, removing and reordering tunes in `Score Properties…` under `Tunes` | [Score Properties](topic:score-properties) |
 | Instruments | Several instruments on one system: `Add Instrument`, `Staff Line` ▸ `Instruments`, `Show names`, `Join Barlines` and `View` ▸ `Instruments` | [Instruments and Staves](topic:instruments) |
 | | The tenor on five lines | [Instruments and Staves](topic:instruments) |
 | | `Pens and pitches`: a highlight pen that stands for a note | [Instruments and Staves](topic:instruments) |
