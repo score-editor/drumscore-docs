@@ -23,6 +23,21 @@ header.top {
 }
 header.top .product { font-weight: 650; color: var(--ink); text-decoration: none; }
 header.top .guide { color: var(--quiet); }
+/* which version of the application the pages describe, and the way to another */
+.versions { margin-left: auto; position: relative; font-size: 15px; }
+.versions summary {
+  cursor: pointer; padding: 3px 10px; border: 1px solid var(--rule); border-radius: 6px; background: var(--paper);
+}
+.versions ul {
+  position: absolute; right: 0; z-index: 2; margin: 6px 0 0; padding: 6px; list-style: none; min-width: 100%;
+  white-space: nowrap; background: var(--paper); border: 1px solid var(--rule); border-radius: 6px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .12);
+}
+.versions li a, .versions li span { display: block; padding: 4px 10px; border-radius: 4px; }
+.versions li a { color: var(--ink); text-decoration: none; }
+.versions li a:hover { background: var(--panel); }
+.versions li.here > span { color: var(--here); font-weight: 650; }
+.versions .tag { display: inline; padding: 0; color: var(--quiet); font-weight: 400; font-size: .85em; }
 .frame { display: grid; grid-template-columns: 250px minmax(0, 1fr); max-width: 1120px; margin: 0 auto; }
 nav { padding: 24px 12px 24px 24px; border-right: 1px solid var(--rule); font-size: 15px; }
 nav ul { list-style: none; margin: 0; padding: 0; position: sticky; top: 16px; }
@@ -34,7 +49,7 @@ h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 6px; text-wrap: balance; }
 h2 { font-size: 1.35rem; margin: 2.2em 0 .5em; padding-top: .4em; border-top: 1px solid var(--rule); }
 h3 { font-size: 1.1rem; margin: 1.6em 0 .4em; }
 .summary { color: var(--quiet); font-size: 1.1rem; margin: 0 0 1.4em; }
-.draft, .admonition {
+.draft, .notice, .admonition {
   background: var(--note); border-left: 4px solid var(--note-rule); padding: 10px 14px; border-radius: 4px;
 }
 .admonition-title { font-weight: 650; margin: 0 0 4px; }
