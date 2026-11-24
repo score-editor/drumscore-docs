@@ -6,11 +6,13 @@
 <title>{{title}} · {{product}}</title>
 <meta name="description" content="{{summary}}">
 <link rel="stylesheet" href="{{assets}}/help.css">
+{{head}}
 </head>
 <body>
 <header class="top">
 <a class="product" href="{{home}}">{{product}}</a>
 <span class="guide">{{guide}}</span>
+{{versions}}
 </header>
 <div class="frame">
 <nav aria-label="{{contents}}">
@@ -21,6 +23,7 @@
 <main>
 <h1>{{title}}</h1>
 <p class="summary">{{summary}}</p>
+{{notice}}
 {{draft}}
 {{body}}
 <div class="step">
