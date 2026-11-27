@@ -66,7 +66,6 @@ See [Layout and Spacing](topic:layout) and [Rudiments, Rolls and Tuplets](topic:
 
 - `Edit` ▸ `Undo` and `Redo` name what they will undo or redo.
 - `View` ▸ `Fit Width` sits beside `Actual Size`.
-- `File` ▸ `Export` has `Export for Drum Score Editor 3…`. See *Your existing scores* below.
 
 ## Where things have gone
 
@@ -108,7 +107,7 @@ The menu bar is now `File`, `Edit`, `View` and `Help`, with `Window` on a Mac. T
 
 **Saving is one way.** Version 4 saves in its own format. Once version 4 has saved a score, 3.6 will not open that file. If you may need a score in 3.6 again, keep a copy of the original before you save over it.
 
-**There is a way back for one score.** `File` ▸ `Export` ▸ `Export for Drum Score Editor 3…` saves a separate copy that 3.6 can open. It lists what the older format cannot hold before it writes anything. The `Export` menu is part of the Studio Edition.
+**There is no way back for a file.** Version 4 cannot write a score that 3.6 can open. Version 4.0.0 could, with `File` ▸ `Export` ▸ `Export for Drum Score Editor 3…`; that was taken out in 4.0.1. The copy you keep before saving is the only way back to 3.6.
 
 **Version 4 replaces 3.6.** Installing version 4 takes the place of 3.6 on your computer, on Mac, Windows and Linux. It uses the same settings and the same licence, and the same `.DrumScoreEditor` folder in your home folder.
 

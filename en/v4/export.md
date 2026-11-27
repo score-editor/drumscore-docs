@@ -63,7 +63,6 @@ Where a score has both portrait and landscape pages, each page of a PDF has its 
 | `Export as SVG…` | One drawing of the page on screen, which stays sharp at any size. | Web pages, and work that will be scaled or printed large. |
 | `Export as PNG…` | One picture of the page on screen. | Documents, slides and web pages. |
 | `Export as MusicXML…` | The music itself, for another notation program. | Moving a score to other software. |
-| `Export for Drum Score Editor 3…` | A copy that Drum Score Editor 3 can open. It lists what the older format drops before it writes anything. | See [Files and Older Scores](topic:files). |
 | `Export as Portable .ds…` | A copy of the score with all its pictures inside it. | Sending a score to somebody when you keep pictures in your library. |
 
 ### Pictures: JPG, SVG and PNG
