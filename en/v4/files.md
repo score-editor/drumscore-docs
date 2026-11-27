@@ -12,7 +12,7 @@ A score is one `.ds` file. This page covers opening and saving, what version 4 d
 
 **Does opening one change my file?** No. Nothing is written until you save the score yourself. `Automatic file saving` leaves a score from 3.6 alone until you have saved it once. See *Automatic File Saving* below.
 
-**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file, and version 4 cannot write a file that 3.6 can open. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4. That copy is the only way back.
+**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, which 3.6 will not open, and version 4 cannot write a file that 3.6 can open either. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4. That copy is the only way back.
 
 **Can I go back to 3.6?** Version 4 replaces 3.6 on your computer. The way back is to reinstall 3.6. Please get in touch before you do, at [alan@drumscore.scot](mailto:alan@drumscore.scot).
 
