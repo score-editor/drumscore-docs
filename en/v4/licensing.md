@@ -70,7 +70,6 @@ A new score in the Community Edition starts from fixed values and keeps to one p
 | | Music fonts, and the `Music Font` pane | [Settings](topic:settings) |
 | | A new score that starts from your own defaults | [Starting a Score](topic:new-score) |
 | Printing and export | The `File` ▸ `Export` menu: PDF, JPG, SVG, PNG, MusicXML and portable .ds | [Printing and Export](topic:export) |
-| | `Export for Drum Score Editor 3…` | [Files and Older Scores](topic:files) |
 | | `File` ▸ `Import` ▸ `Import MusicXML…` | [Files and Older Scores](topic:files) |
 | Playing and recording | Quick Play, and `Measure` ▸ `Section` to play or loop bars | [What’s New in Version 4](topic:whats-new) |
 | | Recording takes | [Settings](topic:settings) |

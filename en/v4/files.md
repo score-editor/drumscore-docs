@@ -12,7 +12,7 @@ A score is one `.ds` file. This page covers opening and saving, what version 4 d
 
 **Does opening one change my file?** No. Nothing is written until you save the score yourself. `Automatic file saving` leaves a score from 3.6 alone until you have saved it once. See *Automatic File Saving* below.
 
-**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4.
+**Can 3.6 open a score once version 4 has saved it?** No. Version 4 saves in its own format, and 3.6 will not open that file, and version 4 cannot write a file that 3.6 can open. If you may need a score in 3.6 again, make a copy of the file before you save it in version 4. That copy is the only way back.
 
 **Can I go back to 3.6?** Version 4 replaces 3.6 on your computer. The way back is to reinstall 3.6. Please get in touch before you do, at [alan@drumscore.scot](mailto:alan@drumscore.scot).
 
@@ -119,9 +119,11 @@ A score with no such copies opens ready to edit, with nothing to tell you.
 
 If you built a multi-page score to stand in for several tunes, or you are unsure what to do with one, send the original file to [support@drumscore.scot](mailto:support@drumscore.scot) and it can be converted for you.
 
-### In the Studio Edition: a copy for 3.6
+### There is no copy for 3.6
 
-`File` ▸ `Export` ▸ `Export for Drum Score Editor 3…` writes a separate copy that 3.6 can open, and lists what the older format cannot hold before it writes anything. See [Printing and Export](topic:export).
+Version 4 cannot write a file that 3.6 can open. Version 4.0.0 offered `File` ▸ `Export` ▸ `Export for Drum Score Editor 3…`, which wrote a separate, lossy copy; it was taken out in 4.0.1, because version 4 has replaced 3.6 on every platform.
+
+So keep a copy of the original file before version 4 saves over a score you may need in 3.6 again. To send the music itself to other software, use `Export as MusicXML…`; to send a page to somebody, use `Export as PDF…`. See [Printing and Export](topic:export).
 
 ## Bring music in from MusicXML
 
